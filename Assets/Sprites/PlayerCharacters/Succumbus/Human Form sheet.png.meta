@@ -1,0 +1,4180 @@
+fileFormatVersion: 2
+guid: 09153483dd5be934b9202ce10b531ed7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae5585a89f40f141a943623c2fc9484
+      internalID: -89285438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3418481b9949161418b0c4835f0a3f0f
+      internalID: 418893518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635f5e6cc95febe45934e894babbf212
+      internalID: -238212792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce2c34d08626a14fab64dd68379936d
+      internalID: 608145051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_4
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7507f63cc61950a4a9c5ae7ef62de9bc
+      internalID: -1875400414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368c3f8820fee704dacf867f1c015aac
+      internalID: 368997693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42ccd4b53d124340bbf239f8912d202
+      internalID: -1196285522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89899ca4775d613449f235381d83b052
+      internalID: -106790150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_8
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7db8fde7088094daef887d24bfc6c1
+      internalID: 649311588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_9
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ffb39a4d5d500468b6f352c23b5b29
+      internalID: 1993048789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd52590260f7cf4889541d215af354e
+      internalID: -552978495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93924eddb57594441b0230ca41dd3c6a
+      internalID: -1695094465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58e454f34aa39146b2e6a6a1ddc86b1
+      internalID: 2048481242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e33bed53674aef44b799c457c61f02e
+      internalID: 159712152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1944
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644c9b8641c3e0546a263c9c12ff7b18
+      internalID: 2122167493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1944
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7262b89cd4236014d97168723a59b574
+      internalID: 1654044644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_17
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1944
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1c9bba442bbe74c9a6a62b69183533
+      internalID: 489701976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_18
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1944
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d07c485881ee4d4fb1c68b12da49833
+      internalID: -761284604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b18af70da974c94d838c5ce7eb19c45
+      internalID: 1486956203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_20
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a230ee317368804b9625529a0e8569b
+      internalID: -1805078583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f88d668ae4fb384da103b8ce7dfc0f5
+      internalID: -1941996364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_22
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201d98aa05d3767468866fddffba6015
+      internalID: 239123339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_23
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b768cda096363b4eb8baff27c49b9fb
+      internalID: 1102591428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_24
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda9c0730d5445b4093f551a630da1bd
+      internalID: -1716880000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_25
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8768014637de7984b90d11657570c161
+      internalID: -1257089357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0259ce269ab88684f9e7061222aa8eb8
+      internalID: -1938122176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e6dfa31fe20ed459f4a9490c019c6b
+      internalID: -1805292316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_28
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1800
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eef6c265a2980544a01659ccccaedc9
+      internalID: 913906000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_29
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1800
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7dde21c49393e4b88de535e35cd268
+      internalID: 1863404229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_30
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1800
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112f5ce6319d1c54d99407ac30f65a6c
+      internalID: 1805972204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_31
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1800
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48deab8a5a9ed44449d8106b6bd46b69
+      internalID: 573090563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_32
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1800
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9312ba91881f28b40b5c6239997852c7
+      internalID: 2044359164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_33
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1800
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3e1571e5b040f45ac9f03c4163a0a7
+      internalID: 1778670874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1800
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8e5a5d969196740b22e344aa461927
+      internalID: -197528411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffd252806b805c4ead2a23426a7f5ee
+      internalID: 1414291164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_36
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1728
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b07a9b665447248b55abea47bd8bed
+      internalID: -1065982997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_37
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1728
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0804a5e0a1106f449bb5785534cc53b
+      internalID: 1166458686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_38
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1728
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f805b0941a59c194092fb5cebc1f9853
+      internalID: 1103047849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_39
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1728
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204f4a309336e0b4ea04f374ae069757
+      internalID: 102689727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_40
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1728
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57484cf3394743b4d87b156657d9dd1b
+      internalID: -980467074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_41
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1728
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c362442da4f313940939c1ba91b9ca15
+      internalID: 1865420447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1728
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac43ed6fb4314134d9f387d2444b2e15
+      internalID: 239638796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9577b1a23c432434f84e3a68579e4f60
+      internalID: -602237576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_44
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea5091db0d82d54ea83abdfdb6ed7dc
+      internalID: 1596112648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_45
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae9c4e059e4aa04faaa91bdd4806845
+      internalID: 539460364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_46
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e92792b025d9fa4d8bb43f858d31311
+      internalID: -767288688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_47
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2bb501ce0d7b44293143cbc85eef45
+      internalID: -208478896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_48
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195cbb3fe25a9f341914b1276315a144
+      internalID: -1195744072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_49
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673a07465aaca8d4f875fc71c430c1fa
+      internalID: -1668538084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c84ea1a934bb543b07571051bd50b2
+      internalID: -1298407402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762e95bee9af1014ea26760258a05d5d
+      internalID: 1656156550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_52
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6298c8674e0dd3e4bab83ad155c389f1
+      internalID: 90540224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_53
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26caa591e49e47b418b80aeb980c70bc
+      internalID: -1360668312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_54
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913a4f8f4315a024294fef42acc51f4d
+      internalID: 1070621993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_55
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9c6d3d4367185458f49cea1c820fa6
+      internalID: -1744323765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d590b57832885fc4689b0db48e1daa04
+      internalID: 1581236524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_60
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24abacf01c0b26345a39034f38da0076
+      internalID: -361488591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_61
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc3a1a210c4114448571aaa423e8922
+      internalID: 1393600905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_62
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a90c476f9bf7d41901aebd22a21430
+      internalID: -1116915818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_63
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc47ac6b09b1df44823cf5b7da5baed
+      internalID: -1014070632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_64
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5300209b40ceb9941a6625b6a4af07e8
+      internalID: 504504090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_65
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a341d56dd802246a7e42725b93eb5f
+      internalID: -504988894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_66
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2bf190827b66b45acf11956970e7b0
+      internalID: 784460509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed175d3f54043b4884a16ffdce244f2
+      internalID: 1695129610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_68
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2deeb90dfe7a78146959c5de8a2fa7a1
+      internalID: 1419499139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_69
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22aee7d5d1eccf4a86d62a95f766887
+      internalID: -1181973828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_70
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33980a9168cf0004589f3eb19b292531
+      internalID: -1550858303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_71
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0978d3216cb9cd742b3220700dff9522
+      internalID: -1528005140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_72
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8efdcf0dd0e5e4994f5fb1cd35843d
+      internalID: -1046207377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eda9d28e0eff44daa1ea1bf593098a
+      internalID: 612053335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_74
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ea06eac598a7d4f9a19655eb22346a
+      internalID: -886679523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_75
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf2a9be9b3893d48b0e28f607f73e42
+      internalID: -2062289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_76
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f8700b25e29c04a87430c4ad5c3f10
+      internalID: 1280255125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_77
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd83ecd20cbcb647bb560702d39f99e
+      internalID: 8888543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_78
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8736bcb23c53b34fa17d0c8b862230c
+      internalID: 885171544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_79
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3117defd703124b844af16a626ebaf
+      internalID: -335634884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_80
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fce3768d0953847941046a0171870f
+      internalID: 281414794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1303ea8244a3c846a56a8f6ace354a5
+      internalID: -1790891270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_82
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9f731b7e041314ab6b0a864bc9958a
+      internalID: -1096074096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_83
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae915b2f4fe9db64fbcf902fa284f4b5
+      internalID: -1204631417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1224
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b536f98e0220113489e13f85115be72a
+      internalID: 909187774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_85
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1224
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5762a937378c57b498ac857175fb91ce
+      internalID: 727778464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_86
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1224
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cb13e199fec2d4b8318387b27bc979
+      internalID: -861292504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_87
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1224
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81258268dd3f51d42b86fac98183ee9d
+      internalID: -1240398097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_88
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1224
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12713ec78fa90a4695546b5d54b60f7
+      internalID: -1715993224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be505dbdc870bb499a5af225aa58983
+      internalID: 1270965325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_90
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1152
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733bd4d27d1213149b703b2b11dbd162
+      internalID: 1094484416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_91
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1152
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4cc69818ad16e48ba53a17dc3c39b2
+      internalID: -1153306681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_92
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1152
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00cdb5dc8c23354fa28ce37eaf379d8
+      internalID: 984179607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_93
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1152
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f95b579c9fde0c438ef2df8a6a9b2c1
+      internalID: -787319364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_94
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1152
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09344183355f88b438ad6acd5a879b4a
+      internalID: -845808527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_95
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1152
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6822e137558b44fa5593e807838570
+      internalID: 1110910959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_96
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1152
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d877f89b8236a4d9ac1584021a38d3
+      internalID: 1642595546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b2c5d7cd632d048af15128e1fd9f00
+      internalID: 1489355785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_98
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5901e464cf19341bf0ee32a0bb0285
+      internalID: -1042361788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_99
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262dff945ed91f442bab224811c3a4a5
+      internalID: -697132100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_100
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98123bb6fc9000442ac4bec1e42632b0
+      internalID: -1889577762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_101
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444d4cbe8e08f164aa68de5a03eb417f
+      internalID: 659637950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_102
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fc9c278ea949245b2e175714fa17e3
+      internalID: -1024722495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5d33ce65c242f41853f16c941ddac1
+      internalID: 1419340286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_106
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f04fd3ea0e1a834fb2ed4ddd622bd46
+      internalID: 1137731442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_107
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d092199331913684d91c9a314d084dd3
+      internalID: 231216375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_108
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055b74b2a7605f14bb8c217dc90f81bd
+      internalID: 76767001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_109
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58580754589149a49a9102f1c41f5907
+      internalID: 236529013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_110
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44deecf4609b9904e87085fed9f5a53f
+      internalID: -1503437079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_111
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a044ffc7a67224495137d6c1a8b187
+      internalID: 67880780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_112
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803f9e1d426ff1d429b108c11f9e6c09
+      internalID: 1136302087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d379ee3bcc4634daf22e4f7665a21c
+      internalID: -843180125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_114
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77cebf3bc36c4145af790ce8a9abd99
+      internalID: 537382478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_115
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0d4bd2190f446458337dbf86521e10
+      internalID: 1756616897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_116
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58267aa15b688e34d9d4596a47962488
+      internalID: 1113485905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_117
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5d56fc10cb41a4b81b3f26fa7b3c10
+      internalID: 1963680511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_118
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc74ba8cd1fdc54791e079a1252103f
+      internalID: -15908314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_119
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9699a4d59903b4685197780f4cb7b4
+      internalID: 1775039664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_120
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e015178f8ebef046bdfd255341ace9e
+      internalID: -1524572001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942122c833a0ad24e9c894dbb0ec7739
+      internalID: 790997659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_122
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b06a875c46cbc4b82bfa09a6b4b56c
+      internalID: 1698354821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_123
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2da47668038772499c9da6382d7c635
+      internalID: -1634506542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_124
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fda241815d0514ebc2497ffe4d0c1a
+      internalID: -765021594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_125
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c27bb7f09e8d1e499af6a53f910b77c
+      internalID: -1681469689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_126
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf8da9b5ea8c384893d88a2e39ad240
+      internalID: -1136898322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_127
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f430cada9ffc31846b0a9eab52510515
+      internalID: 850212497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_128
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0943ebf8d2654404caf16535882010cf
+      internalID: -751182599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc21732aff8124478f1e66ee8a63d49
+      internalID: -844629769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_130
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 792
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b11a151d488684f987f17d36941f76
+      internalID: 1169443821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_131
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 792
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7c6b7165e6c4e478bfb51befeb6a4f
+      internalID: -1201485914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_132
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 792
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa10653fe0b96e4db78ae04901efd9f
+      internalID: -674407943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_133
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 792
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda06f6b7cc13fe48a4c64189e236fd9
+      internalID: 613963129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_134
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 792
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e2033ffd58e6a48b6aaedd10b09b23
+      internalID: -563288010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_135
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 792
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998b98848df04864b9b2b430a3fc0721
+      internalID: -1229477056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_136
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 792
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701674638736d0d4bb6ff2a32563d111
+      internalID: 2142767134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0239a84bb3694bb44828676f1550918d
+      internalID: -1820175666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576a677786d4b15478426cd4df01a987
+      internalID: -722137433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_146
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 648
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3f90e565369ac4c93e94f5add6ac88
+      internalID: 1843752651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_147
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 648
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ed3f00993f90c4bb147cd86483ad11
+      internalID: -334163282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_148
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 648
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68185393307cd804c8c81ff2ada0aaa5
+      internalID: -2140150149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_149
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 648
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1e21ee95dac774fbae4b5f9d96765f
+      internalID: -1295214561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41f3e1a7383cb744bcf0307f30931fe
+      internalID: -1721544317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_151
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 576
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459596b9c7bdd324798f932e2822cf11
+      internalID: 361238017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_152
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 576
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cdd664b95ed2f42891ab5d55401e04
+      internalID: -1829737441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_153
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 576
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382e2c120cccfa041b06b86878c6fc22
+      internalID: 1433778565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_154
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 576
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583fc36f87dd4e447858c230c0fd2043
+      internalID: -628191114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_155
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 576
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45945e16e5ab5a0449c649140c9bd997
+      internalID: -1229752882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_156
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 576
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e136a3081d54d7459a42de0d1dedf5f
+      internalID: 756875217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_157
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 576
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098e8d662bf2f1046bb750ac58d39e54
+      internalID: 533784793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943fc8ad97fd1b541b55ec7f3d29390e
+      internalID: -1044444966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_159
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 504
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd268baea0e2e34f9f6ff061f5b8dd3
+      internalID: -1080829552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d410f88d74f135489e8f7458b01bb89
+      internalID: 478046326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_165
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 432
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d568ddc61d38347a5a385239406fec
+      internalID: -1541928873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_166
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 432
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f04657d89065e4cbf3045a68acb7c0
+      internalID: 1236660994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_167
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 432
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd86d8911649553478ff56f34f60c3b5
+      internalID: -1549898014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_168
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 432
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dde5d5103ef9c40978d13df3c86ab8
+      internalID: 1026112204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79fa52201d01be45bbfe14a27aa6a26
+      internalID: -1022625487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_170
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 360
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b316aa49a3e8a4b8f99556a62a4b32
+      internalID: 10941615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_171
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 360
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c48d78ed4132744996d9a4f03390408
+      internalID: 934038760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_172
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 360
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f65b8d4b6b1caa4c86654d4d156bdf4
+      internalID: 811539486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_173
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 360
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a97a4510eef88246ae2ba56c4045d03
+      internalID: -352993113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c604e22758a58145b854b04085c3228
+      internalID: -872119222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_175
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 288
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1cf768f830c5e4aaec8bea58168d83
+      internalID: 670657707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_176
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 288
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e507db23079e6d44aa4ab0093b43d943
+      internalID: -1069414601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_177
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 288
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fa6c0ebff4703439326df2cce3e117
+      internalID: -79270579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_178
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 288
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d271e0d4f67a540bd9415a5a02687a
+      internalID: 775702969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_179
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772fa58ddcce2064eab236801e1cc39e
+      internalID: -2075883711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_180
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fc90d688fde2242b31f62f3ac4700d
+      internalID: -995869110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_181
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bfe73c3083daa428ba885a5c17af5a
+      internalID: -45046480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_182
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973d46bfab99c8746afb132e6997c32c
+      internalID: -391823065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_183
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33487abb1fc9c0419563d011b60efef
+      internalID: -1075920317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_184
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd389220593a974b936c778534f85a7
+      internalID: -359674570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_185
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c7aeec473458a4db63401d5f0b4e90
+      internalID: -686924338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_186
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 144
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c751a4acb8f0346af01b7014e42b35
+      internalID: 388868395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_187
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 144
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2922af85155a1e4c989cc3e22590fae
+      internalID: 1650441780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_188
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 144
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef2358c03ef9ec498cf98e26e50e8e7
+      internalID: -518362584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_189
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c8be6e3d20d544589c1d9a6be9a3a9
+      internalID: -1162136812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7ec7711586b384c86f87d7b2d12d14
+      internalID: -1970265922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_191
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf916783051ad2f4eaf6b5887787d44e
+      internalID: 727893726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_192
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cf8d4bcc209f7438f6bf1338580d62
+      internalID: 1256454838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_193
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d14b954674dab4e9b851f591d33ca7
+      internalID: 1911026676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_194
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d51ba6a872fc940aad9815d91f373f
+      internalID: -298693421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_195
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24884a316a783f04fb48331c17072de6
+      internalID: 541889830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89944ef182474e43b18abb02598ae32
+      internalID: -1210511213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_197
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb710a82c942a234e80595a559800385
+      internalID: 2009544988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_198
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fce4a85c5f8d146948677b014b4350
+      internalID: -828315198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_199
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14417ed8c2614bf4aa34dcec0de7ad5d
+      internalID: -1029110325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus Human Form sheet_200
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc365a549bcc6c46bedf71b42d4aadc
+      internalID: 841370885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GandalfHardcore Succubus Human Form sheet_0: -89285438
+      GandalfHardcore Succubus Human Form sheet_1: 418893518
+      GandalfHardcore Succubus Human Form sheet_10: -552978495
+      GandalfHardcore Succubus Human Form sheet_100: -1889577762
+      GandalfHardcore Succubus Human Form sheet_101: 659637950
+      GandalfHardcore Succubus Human Form sheet_102: -1024722495
+      GandalfHardcore Succubus Human Form sheet_103: -184572921
+      GandalfHardcore Succubus Human Form sheet_104: -1791601088
+      GandalfHardcore Succubus Human Form sheet_105: 1419340286
+      GandalfHardcore Succubus Human Form sheet_106: 1137731442
+      GandalfHardcore Succubus Human Form sheet_107: 231216375
+      GandalfHardcore Succubus Human Form sheet_108: 76767001
+      GandalfHardcore Succubus Human Form sheet_109: 236529013
+      GandalfHardcore Succubus Human Form sheet_11: -1695094465
+      GandalfHardcore Succubus Human Form sheet_110: -1503437079
+      GandalfHardcore Succubus Human Form sheet_111: 67880780
+      GandalfHardcore Succubus Human Form sheet_112: 1136302087
+      GandalfHardcore Succubus Human Form sheet_113: -843180125
+      GandalfHardcore Succubus Human Form sheet_114: 537382478
+      GandalfHardcore Succubus Human Form sheet_115: 1756616897
+      GandalfHardcore Succubus Human Form sheet_116: 1113485905
+      GandalfHardcore Succubus Human Form sheet_117: 1963680511
+      GandalfHardcore Succubus Human Form sheet_118: -15908314
+      GandalfHardcore Succubus Human Form sheet_119: 1775039664
+      GandalfHardcore Succubus Human Form sheet_12: 2048481242
+      GandalfHardcore Succubus Human Form sheet_120: -1524572001
+      GandalfHardcore Succubus Human Form sheet_121: 790997659
+      GandalfHardcore Succubus Human Form sheet_122: 1698354821
+      GandalfHardcore Succubus Human Form sheet_123: -1634506542
+      GandalfHardcore Succubus Human Form sheet_124: -765021594
+      GandalfHardcore Succubus Human Form sheet_125: -1681469689
+      GandalfHardcore Succubus Human Form sheet_126: -1136898322
+      GandalfHardcore Succubus Human Form sheet_127: 850212497
+      GandalfHardcore Succubus Human Form sheet_128: -751182599
+      GandalfHardcore Succubus Human Form sheet_129: -844629769
+      GandalfHardcore Succubus Human Form sheet_13: 159712152
+      GandalfHardcore Succubus Human Form sheet_130: 1169443821
+      GandalfHardcore Succubus Human Form sheet_131: -1201485914
+      GandalfHardcore Succubus Human Form sheet_132: -674407943
+      GandalfHardcore Succubus Human Form sheet_133: 613963129
+      GandalfHardcore Succubus Human Form sheet_134: -563288010
+      GandalfHardcore Succubus Human Form sheet_135: -1229477056
+      GandalfHardcore Succubus Human Form sheet_136: 2142767134
+      GandalfHardcore Succubus Human Form sheet_137: -1820175666
+      GandalfHardcore Succubus Human Form sheet_138: 1140090323
+      GandalfHardcore Succubus Human Form sheet_139: -514224515
+      GandalfHardcore Succubus Human Form sheet_14: 204790772
+      GandalfHardcore Succubus Human Form sheet_140: 31255642
+      GandalfHardcore Succubus Human Form sheet_141: 1880071977
+      GandalfHardcore Succubus Human Form sheet_142: -517818316
+      GandalfHardcore Succubus Human Form sheet_143: 1463370539
+      GandalfHardcore Succubus Human Form sheet_144: 1925802142
+      GandalfHardcore Succubus Human Form sheet_145: -722137433
+      GandalfHardcore Succubus Human Form sheet_146: 1843752651
+      GandalfHardcore Succubus Human Form sheet_147: -334163282
+      GandalfHardcore Succubus Human Form sheet_148: -2140150149
+      GandalfHardcore Succubus Human Form sheet_149: -1295214561
+      GandalfHardcore Succubus Human Form sheet_15: 2122167493
+      GandalfHardcore Succubus Human Form sheet_150: -1721544317
+      GandalfHardcore Succubus Human Form sheet_151: 361238017
+      GandalfHardcore Succubus Human Form sheet_152: -1829737441
+      GandalfHardcore Succubus Human Form sheet_153: 1433778565
+      GandalfHardcore Succubus Human Form sheet_154: -628191114
+      GandalfHardcore Succubus Human Form sheet_155: -1229752882
+      GandalfHardcore Succubus Human Form sheet_156: 756875217
+      GandalfHardcore Succubus Human Form sheet_157: 533784793
+      GandalfHardcore Succubus Human Form sheet_158: -1044444966
+      GandalfHardcore Succubus Human Form sheet_159: -1080829552
+      GandalfHardcore Succubus Human Form sheet_16: 1654044644
+      GandalfHardcore Succubus Human Form sheet_160: -855871924
+      GandalfHardcore Succubus Human Form sheet_161: 1900010515
+      GandalfHardcore Succubus Human Form sheet_162: -1293716878
+      GandalfHardcore Succubus Human Form sheet_163: 109521161
+      GandalfHardcore Succubus Human Form sheet_164: 478046326
+      GandalfHardcore Succubus Human Form sheet_165: -1541928873
+      GandalfHardcore Succubus Human Form sheet_166: 1236660994
+      GandalfHardcore Succubus Human Form sheet_167: -1549898014
+      GandalfHardcore Succubus Human Form sheet_168: 1026112204
+      GandalfHardcore Succubus Human Form sheet_169: -1022625487
+      GandalfHardcore Succubus Human Form sheet_17: 489701976
+      GandalfHardcore Succubus Human Form sheet_170: 10941615
+      GandalfHardcore Succubus Human Form sheet_171: 934038760
+      GandalfHardcore Succubus Human Form sheet_172: 811539486
+      GandalfHardcore Succubus Human Form sheet_173: -352993113
+      GandalfHardcore Succubus Human Form sheet_174: -872119222
+      GandalfHardcore Succubus Human Form sheet_175: 670657707
+      GandalfHardcore Succubus Human Form sheet_176: -1069414601
+      GandalfHardcore Succubus Human Form sheet_177: -79270579
+      GandalfHardcore Succubus Human Form sheet_178: 775702969
+      GandalfHardcore Succubus Human Form sheet_179: -2075883711
+      GandalfHardcore Succubus Human Form sheet_18: -761284604
+      GandalfHardcore Succubus Human Form sheet_180: -995869110
+      GandalfHardcore Succubus Human Form sheet_181: -45046480
+      GandalfHardcore Succubus Human Form sheet_182: -391823065
+      GandalfHardcore Succubus Human Form sheet_183: -1075920317
+      GandalfHardcore Succubus Human Form sheet_184: -359674570
+      GandalfHardcore Succubus Human Form sheet_185: -686924338
+      GandalfHardcore Succubus Human Form sheet_186: 388868395
+      GandalfHardcore Succubus Human Form sheet_187: 1650441780
+      GandalfHardcore Succubus Human Form sheet_188: -518362584
+      GandalfHardcore Succubus Human Form sheet_189: -1162136812
+      GandalfHardcore Succubus Human Form sheet_19: 1486956203
+      GandalfHardcore Succubus Human Form sheet_190: -1970265922
+      GandalfHardcore Succubus Human Form sheet_191: 727893726
+      GandalfHardcore Succubus Human Form sheet_192: 1256454838
+      GandalfHardcore Succubus Human Form sheet_193: 1911026676
+      GandalfHardcore Succubus Human Form sheet_194: -298693421
+      GandalfHardcore Succubus Human Form sheet_195: 541889830
+      GandalfHardcore Succubus Human Form sheet_196: -1210511213
+      GandalfHardcore Succubus Human Form sheet_197: 2009544988
+      GandalfHardcore Succubus Human Form sheet_198: -828315198
+      GandalfHardcore Succubus Human Form sheet_199: -1029110325
+      GandalfHardcore Succubus Human Form sheet_2: -238212792
+      GandalfHardcore Succubus Human Form sheet_20: -1805078583
+      GandalfHardcore Succubus Human Form sheet_200: 841370885
+      GandalfHardcore Succubus Human Form sheet_201: 1020358054
+      GandalfHardcore Succubus Human Form sheet_21: -1941996364
+      GandalfHardcore Succubus Human Form sheet_22: 239123339
+      GandalfHardcore Succubus Human Form sheet_23: 1102591428
+      GandalfHardcore Succubus Human Form sheet_24: -1716880000
+      GandalfHardcore Succubus Human Form sheet_25: -1257089357
+      GandalfHardcore Succubus Human Form sheet_26: -1938122176
+      GandalfHardcore Succubus Human Form sheet_27: -1805292316
+      GandalfHardcore Succubus Human Form sheet_28: 913906000
+      GandalfHardcore Succubus Human Form sheet_29: 1863404229
+      GandalfHardcore Succubus Human Form sheet_3: 608145051
+      GandalfHardcore Succubus Human Form sheet_30: 1805972204
+      GandalfHardcore Succubus Human Form sheet_31: 573090563
+      GandalfHardcore Succubus Human Form sheet_32: 2044359164
+      GandalfHardcore Succubus Human Form sheet_33: 1778670874
+      GandalfHardcore Succubus Human Form sheet_34: -197528411
+      GandalfHardcore Succubus Human Form sheet_35: 1414291164
+      GandalfHardcore Succubus Human Form sheet_36: -1065982997
+      GandalfHardcore Succubus Human Form sheet_37: 1166458686
+      GandalfHardcore Succubus Human Form sheet_38: 1103047849
+      GandalfHardcore Succubus Human Form sheet_39: 102689727
+      GandalfHardcore Succubus Human Form sheet_4: -1875400414
+      GandalfHardcore Succubus Human Form sheet_40: -980467074
+      GandalfHardcore Succubus Human Form sheet_41: 1865420447
+      GandalfHardcore Succubus Human Form sheet_42: 239638796
+      GandalfHardcore Succubus Human Form sheet_43: -602237576
+      GandalfHardcore Succubus Human Form sheet_44: 1596112648
+      GandalfHardcore Succubus Human Form sheet_45: 539460364
+      GandalfHardcore Succubus Human Form sheet_46: -767288688
+      GandalfHardcore Succubus Human Form sheet_47: -208478896
+      GandalfHardcore Succubus Human Form sheet_48: -1195744072
+      GandalfHardcore Succubus Human Form sheet_49: -1668538084
+      GandalfHardcore Succubus Human Form sheet_5: 368997693
+      GandalfHardcore Succubus Human Form sheet_50: -1298407402
+      GandalfHardcore Succubus Human Form sheet_51: 1656156550
+      GandalfHardcore Succubus Human Form sheet_52: 90540224
+      GandalfHardcore Succubus Human Form sheet_53: -1360668312
+      GandalfHardcore Succubus Human Form sheet_54: 1070621993
+      GandalfHardcore Succubus Human Form sheet_55: -1744323765
+      GandalfHardcore Succubus Human Form sheet_56: -778931437
+      GandalfHardcore Succubus Human Form sheet_57: 1687684627
+      GandalfHardcore Succubus Human Form sheet_58: -188044571
+      GandalfHardcore Succubus Human Form sheet_59: 1581236524
+      GandalfHardcore Succubus Human Form sheet_6: -1196285522
+      GandalfHardcore Succubus Human Form sheet_60: -361488591
+      GandalfHardcore Succubus Human Form sheet_61: 1393600905
+      GandalfHardcore Succubus Human Form sheet_62: -1116915818
+      GandalfHardcore Succubus Human Form sheet_63: -1014070632
+      GandalfHardcore Succubus Human Form sheet_64: 504504090
+      GandalfHardcore Succubus Human Form sheet_65: -504988894
+      GandalfHardcore Succubus Human Form sheet_66: 784460509
+      GandalfHardcore Succubus Human Form sheet_67: 1695129610
+      GandalfHardcore Succubus Human Form sheet_68: 1419499139
+      GandalfHardcore Succubus Human Form sheet_69: -1181973828
+      GandalfHardcore Succubus Human Form sheet_7: -106790150
+      GandalfHardcore Succubus Human Form sheet_70: -1550858303
+      GandalfHardcore Succubus Human Form sheet_71: -1528005140
+      GandalfHardcore Succubus Human Form sheet_72: -1046207377
+      GandalfHardcore Succubus Human Form sheet_73: 612053335
+      GandalfHardcore Succubus Human Form sheet_74: -886679523
+      GandalfHardcore Succubus Human Form sheet_75: -2062289
+      GandalfHardcore Succubus Human Form sheet_76: 1280255125
+      GandalfHardcore Succubus Human Form sheet_77: 8888543
+      GandalfHardcore Succubus Human Form sheet_78: 885171544
+      GandalfHardcore Succubus Human Form sheet_79: -335634884
+      GandalfHardcore Succubus Human Form sheet_8: 649311588
+      GandalfHardcore Succubus Human Form sheet_80: 281414794
+      GandalfHardcore Succubus Human Form sheet_81: -1790891270
+      GandalfHardcore Succubus Human Form sheet_82: -1096074096
+      GandalfHardcore Succubus Human Form sheet_83: -1204631417
+      GandalfHardcore Succubus Human Form sheet_84: 909187774
+      GandalfHardcore Succubus Human Form sheet_85: 727778464
+      GandalfHardcore Succubus Human Form sheet_86: -861292504
+      GandalfHardcore Succubus Human Form sheet_87: -1240398097
+      GandalfHardcore Succubus Human Form sheet_88: -1715993224
+      GandalfHardcore Succubus Human Form sheet_89: 1270965325
+      GandalfHardcore Succubus Human Form sheet_9: 1993048789
+      GandalfHardcore Succubus Human Form sheet_90: 1094484416
+      GandalfHardcore Succubus Human Form sheet_91: -1153306681
+      GandalfHardcore Succubus Human Form sheet_92: 984179607
+      GandalfHardcore Succubus Human Form sheet_93: -787319364
+      GandalfHardcore Succubus Human Form sheet_94: -845808527
+      GandalfHardcore Succubus Human Form sheet_95: 1110910959
+      GandalfHardcore Succubus Human Form sheet_96: 1642595546
+      GandalfHardcore Succubus Human Form sheet_97: 1489355785
+      GandalfHardcore Succubus Human Form sheet_98: -1042361788
+      GandalfHardcore Succubus Human Form sheet_99: -697132100
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

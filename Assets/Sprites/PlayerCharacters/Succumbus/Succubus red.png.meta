@@ -1,0 +1,5398 @@
+fileFormatVersion: 2
+guid: 14675242b05ca0841b1ceea3a091d9fd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2736
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b359e88f32b0d45882056ba58e8fec
+      internalID: -1599604712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2736
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b182be897f801943b9687a5c8e11284
+      internalID: 1916228201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2736
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc0ba8700b15bd439c810de73e117e0
+      internalID: -874644120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2736
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef3e92394b707d47ad636c6c6658f4c
+      internalID: 87396593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_4
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2736
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9665a291bd8c54dafc576a867a7759
+      internalID: -267642081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2664
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81425da6d9eca854aa5a46434afcf353
+      internalID: -1454843669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2664
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2884ac69658884bbc008cfe1bfccb8
+      internalID: -1512226149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2664
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b45e47ac96883b4492ddb475af2d526
+      internalID: 1979687277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_8
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2664
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a196202b5cda949bc00561f63b1268
+      internalID: -1452596539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_9
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2664
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5b5e4de02fd2947930ccf5defcfd21
+      internalID: -2081119787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2592
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3ce9e5e92448342825c811e3457339
+      internalID: 1901635173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2592
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4b5b895c7d55a4eafad91e2b695359
+      internalID: -1230934992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2592
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9273e7201ed6a094f915e616586a808b
+      internalID: -505850054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2592
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fb8296588d50443b3146229575f64f
+      internalID: -2042560169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80bcfd38109bd34cb88ab8fdeecd954
+      internalID: -1351489029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2520
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc0c4c240c4b3346808253be1a7e3db
+      internalID: -1377735258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_17
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2520
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2439e7d91279f5947950e37fbfcc5c26
+      internalID: -1489161229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_18
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2520
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b8ca06c8053b04db1bce3f61a9f98b
+      internalID: 1973578503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_19
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2520
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd63ea3bb46f1d4bbf7f5ec65634911
+      internalID: -2070532960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_20
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2520
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42482b1955aed12438221b457e4d373a
+      internalID: 1978315729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_21
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2520
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9df14f871630e9479776077a617bc21
+      internalID: 824869849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_22
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2520
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fdde6efd8046644a23d4d15a57d623
+      internalID: 1276896252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2448
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef5b44c6e4203344935a946cd2b8cd1
+      internalID: 375950897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_24
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2448
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fc50f72d1d54640b210a676b263166
+      internalID: -1787788296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_25
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2448
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5f82d5a88a4094c83bb3f646e5c0f1
+      internalID: 1618996254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_26
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2448
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a6bfc1581f4f04ca69dacb3ba39555
+      internalID: -999623952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2376
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f7fae896b27b04ab73bc8301ad439b
+      internalID: -213425081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_28
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2376
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52efd4914c749bf4793804f1b8cd03df
+      internalID: 834324085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_29
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2376
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cdbf728a99f4b44bc2d53eee316096
+      internalID: -1728268458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_30
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2376
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d7b29dd0c7a2a4a9ce8d4030074512
+      internalID: 1206216314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_31
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2376
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e723810c5e6d6534fa820b2aabfea278
+      internalID: 1143604050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_32
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2376
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3417833a9bc9b49a39d4e8d90ac800
+      internalID: 1391097177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_33
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2376
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b57e20a56298a4cb2bd352c17b9660
+      internalID: 549125375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_34
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2376
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177140d4475f7644ea454113eaecd508
+      internalID: 1828241137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc951b1ac525f024b8ad27ce8ec75ae0
+      internalID: 1906990183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_36
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2304
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3537c2f320bee4eb14cf47c88477d5
+      internalID: -1336126608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_37
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2304
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e62f8af9dcdd4941abd93c822d472aa
+      internalID: -1687294137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_38
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2304
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0313fe410be563d458e2e8c855b71238
+      internalID: -1614458796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_39
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2304
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462b4342a2fb18e45a767cbb0ce5de09
+      internalID: -790609177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_40
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2304
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936a44b9ec5e91543b64da7f581ee731
+      internalID: -1042813335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_41
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2304
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ecedb7373d00a4ca71472421c30646
+      internalID: 757814384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_42
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2304
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5554792bdd573e4eb975392db1b8aef
+      internalID: 1261973644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2232
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bc662bbf1f9c34396a41106d5bdfa3
+      internalID: -403349302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_44
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2232
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54af6868eed150944ba99e37259de645
+      internalID: -532270343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_45
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2232
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca2e3d0ced3b184dab91d3e646c4148
+      internalID: 761731321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_46
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2232
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb87b6c9cdbb15459ee209e19dfff5b
+      internalID: -529875438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_47
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2232
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5b86bd9f27a1449bd26cec64a6bc2c
+      internalID: -797605734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_48
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2232
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167e58f7cc0c03d4396b36c0558242ea
+      internalID: 1234757747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_49
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2232
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844a52aec2e04204da035473bc5adf39
+      internalID: 1507574286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_50
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2232
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ca1e050f3de964ea38e806d481cb80
+      internalID: 1186072149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c06771080fb7d541a3064f113a23dd6
+      internalID: 1384104363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_52
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f86d864ceb569b4682e3095e5cadc82
+      internalID: -1893910584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_53
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9015bc717736fa41a8edb9e6605ff87
+      internalID: -309018669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_54
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b83c0ade1c33649838d55397a36f56
+      internalID: -1434006470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_55
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e2ab7524d0c2b42b6a25dece3fc60c
+      internalID: -778984757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_56
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab4769a70721e54e8aa926740d9569f
+      internalID: 1903568626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_57
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67662ef9ab93e5847ac7d5c65e0309bc
+      internalID: 2138783186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_58
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a7e7731f446424e83eeec8d70a3542
+      internalID: -731197829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee03a36eef00c604296c0bdfc91366b4
+      internalID: 1599587342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_60
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8ac8e09a7e94c489d8ad0fe353be20
+      internalID: -1597863726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_61
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd3df5fdc092064fbc58c1ba9593c32
+      internalID: 1725484817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_62
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831aebc9ecd9bba4ab297b10000dd71a
+      internalID: 1372954708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_63
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc479140da583a498d75219ab7301ef
+      internalID: -1930685221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_64
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5038b8c01f27e59409fef80bc244a99e
+      internalID: -1291099060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_65
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edddd0997a7d1e438ebe057a2b68098
+      internalID: -178541557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_66
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e74c63874768d2438cbafa4fc718faa
+      internalID: -12339299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3992d44143b2be479cb96268c3550b6
+      internalID: -1241568911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_68
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8027367da64e04990ece2ac8bd8d86
+      internalID: 1308680938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_69
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afd3fe0789e50d4c93dd70f5b698173
+      internalID: -446315739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_70
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913fcd1f7c076a644855440838c8589b
+      internalID: -269052283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_71
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4248330b042f744a17f8c6eb2beba7
+      internalID: 1602762056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_72
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70b24c727f37314b8ae4dbc3fabe7cf
+      internalID: -1955037943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_73
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e210a46b2bdfb04a8bb45c8dc7c113b
+      internalID: -953700231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_74
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8c093b4bfc5394aa2ee6742f8e4c30
+      internalID: -644139428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1944
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55730000ad9dc2c40a6ffd54d7d9dec0
+      internalID: -1024242658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_76
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1944
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7682fa0866646de4ea75c7963d64bc04
+      internalID: 1257988472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_77
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1944
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c604f8b6df3a44a4c97b04316fa602ed
+      internalID: 1183581483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_78
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1944
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a047e68815767eb418090c4a1cefd6cf
+      internalID: 112707583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_79
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1944
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e656b9140147caa43a9b498e772ef9f7
+      internalID: -141178242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_80
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1944
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8cc94e74bbc654689c20cd60b0cb8a
+      internalID: 1984844362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f189e02566dee6640be814504587e9e0
+      internalID: 2027797273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_82
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb241506ee9f744c8cd0b0e3ec48a00
+      internalID: -1961266863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_83
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec67c995e648824d83c34bbe986d039
+      internalID: -190306503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_84
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958a9f70e8503084eb11cf6c81284415
+      internalID: -1683898139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_85
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddaec34973fdbc4e9e67a852e0825f7
+      internalID: 890268949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_86
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344946b9643b89d4090250dd562d45db
+      internalID: -1207948804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_87
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b24f5d0daeeb64481e63b394abc79e
+      internalID: -201270956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_88
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20108d808bb1d5a44a01a2e1d6721cb2
+      internalID: 1895620715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857f7b7c1be8c8749ba03e12db1670ae
+      internalID: 1596613921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_90
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1800
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9d7718f614be14a87bca1bf645a1a6
+      internalID: 1789094200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_91
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1800
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81debfaec9d6ef438737724edbf3a53
+      internalID: 265826049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69fafdc36c7a78439f6d9e652de870a
+      internalID: -1657428827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_93
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1728
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef78b28c13fee26488348e5202d76ae8
+      internalID: -1039397337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_94
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1728
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8ccfe00fc37e040849e7cb375c340c
+      internalID: 1497516711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_95
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1728
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d4e13d78f58fd47a126b0ac0062293
+      internalID: -235171594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_96
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1728
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d46517866ed7d4c93a661dcbd2e201
+      internalID: -1826715490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00d39bcf6ae3a045bb17b902c869ffb
+      internalID: -1560773961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_98
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc120b27b733c448954b417dc107033
+      internalID: 1351774134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_99
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61be09e1e0fa41b469062aea13fa64ce
+      internalID: 370318783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_100
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3464dab08a80742a2f34713b1647b0
+      internalID: 1774460304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_101
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8e5334931533c46b1adbe8a650da9b
+      internalID: -1403982815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_102
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbbf66f1a7b87f4ea4d7127b4539451
+      internalID: -430983914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_103
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383d6416a02d51f4f833452a68a620ca
+      internalID: -1346605048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_104
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7208d4aeed6c074ab19c02b29caee7c
+      internalID: 2085961077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3e9928d23950a489edf1961750e2c9
+      internalID: -2031185027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_106
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba451ffcfc36cf478f634e2f81031c5
+      internalID: -1798650500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_107
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3921d2366eadb6948a072465d68f6463
+      internalID: 1337971868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_108
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3830ee044dbbc724aab2be3c1492954c
+      internalID: -1874581864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_109
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a4f423424fe414e974c1015a635146
+      internalID: -1471856095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_110
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eb5ce0d8395b1498e0ac99c69f5e18
+      internalID: 79703615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ad85890996ec049909ae4144a9ef6f
+      internalID: -629114121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_114
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1f3b89179558e4c866c2f65f921533
+      internalID: 307870498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_115
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6917754a3e0224eb1178247c84c32b
+      internalID: 835696693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_116
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e982e85b1841eef43a41212ee65da162
+      internalID: 1774182390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_117
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b414124644a69a4b8ba92116bb2a650
+      internalID: 1837573023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_118
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67d2d2bc8cc944479b7b612b20ed8ab
+      internalID: 1697655631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_119
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a3853782bdd024db3f4df7808e05d1
+      internalID: -2049892416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_120
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7631d8cf9afe1e84ba07231d8cd7b8ec
+      internalID: 1127196933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788b96049ff9df44cb639b81c0344aab
+      internalID: 751063490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_122
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb32490eab4c2584fb89cd3f2dfdcd61
+      internalID: -1535647515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_123
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227e8f31167dde24ca8f0eea6dd68edd
+      internalID: 102394817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_124
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df046004ba767e94e8497cce5c39b95f
+      internalID: 1995683377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_125
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae7d2975cea8b345b1e80b038134148
+      internalID: -1229299403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_126
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5074d6fd6f6a2d046a1fd5c989f839af
+      internalID: 818579473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_127
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2deb1097fccf44d4cbfe6adebe33abdf
+      internalID: -1963686126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_128
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc519d485d403e448aad83bd4487416
+      internalID: 1870993811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed21c40f8a1a44a4ab022356910dc4b9
+      internalID: -1216523611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_130
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c64757520b57c4bac97c82a6ccb994
+      internalID: -787140140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_131
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7691bbd0ddca440a3ba426c6013c73
+      internalID: 402059512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_132
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd9c87b11dac8647bd0e4938c42cd55
+      internalID: 662544056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_133
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88af5ac0eda85d84fb9b2d1c04e21600
+      internalID: 280354765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_134
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee5b6170eed42c449afe00a472ee77b
+      internalID: 1906192287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_135
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe39c55233f94104197dbde93d2263cd
+      internalID: 350031774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_136
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0407b8445610b4d89203509206f780
+      internalID: -1845856752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf74017595205e47b40a392804a42e9
+      internalID: 120174610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_138
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d66c1be8bc7fe94695ad191d7a0bb58
+      internalID: 1067256858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_139
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063f08eecb12d744ead82902b928f28d
+      internalID: 2083012225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_140
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d34aeffb339ca2459d1237ba58f3fd9
+      internalID: 129677438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_141
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768b1c9f8bd77ff44b0bcd84ef0e6ba8
+      internalID: -441992311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_142
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584dbc369f77bda488b9b4ea1e11e990
+      internalID: 1075786353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_143
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a6bc37b83b92a42a3dd4b7e959497f
+      internalID: 126492399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_144
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa74ad204a9aba641899025ef3e721c0
+      internalID: 311799868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1224
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ab269e8831d954b89c4cc9bac9943e
+      internalID: 1181420600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c704fce386b067a4b967935cee189c40
+      internalID: 1912367981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_154
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1152
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ce374f640b6bf49bf3716b86ffbd91
+      internalID: 223644411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_155
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1152
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6396c77d583a3945b4005262b8a6774
+      internalID: 314830332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_156
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1152
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb13121fec44954793e35b978825a06
+      internalID: -568853478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_157
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1152
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaf2691770d3bc48b1c768adf268a21
+      internalID: -440681620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1614f5b857858e04d97c8b234af185d9
+      internalID: 646551877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_159
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546fac1813e2bb343a2418e595f33acd
+      internalID: -671449746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_160
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5329463205fb52541a6ffc30f989bab2
+      internalID: 1824035779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_161
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703921653153018499c9fcb9a82fcbbd
+      internalID: -161918217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_162
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f89124339a7070428c5c22930b550c7
+      internalID: 2119586075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_163
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b473c480f5e0e4c8cd8fc908386271
+      internalID: -985919153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_164
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a20f28b16c8b094cab81555a0df6218
+      internalID: 411178298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_165
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2e8eacec5f7ce46ace1adcba12a163
+      internalID: -2006138190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_166
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d840e7134f931d7468e396622e673533
+      internalID: 2132754385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_167
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6b90b0f50272040b2b1ddaeca0ca07
+      internalID: 1910627970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_168
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0144bbdde6290f848b00d81b89f5417e
+      internalID: -1149717218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_169
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bf4a97303842946b6243372530a647
+      internalID: 703880830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_170
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5747a4cb9cce7468cfd2fc368f1752
+      internalID: -1005736834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_171
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db3696f0a9655b40957cce23243ce81
+      internalID: 262456413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_172
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1adbed3339de1046a2204bc4617f3f2
+      internalID: 1119820971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_173
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a2ae77a0f5de0429730b4a3d9149c5
+      internalID: 755680598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a3d3f76a4fdb74b82ef15aa1675a6c
+      internalID: 110265143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_175
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a1987d97041a2439a92ff82305445e
+      internalID: -488106766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_176
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9abcc82f9626a4ba9cd407d3a2b39f
+      internalID: 1122954066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_177
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600ef2aba3ae2ef45b30e62b9ec92f73
+      internalID: -1016816012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_178
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fea0e9df7fad294e8bc785013cd35e6
+      internalID: 365284969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_179
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462f542fb5b965d4ca9d98825598a5a7
+      internalID: 955393206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bf9da60a3538f419229c456085085f
+      internalID: 1175968219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_181
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a522f347b4e880d4e9760adf00ce3d45
+      internalID: -1776964129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_182
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc97237d972364e41b2a3147f28a0ea3
+      internalID: -1586871105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_183
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be162440afa17084b9ebc093125b233c
+      internalID: -1693404381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_184
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75f708c1ff9f134e801db3a9dea8232
+      internalID: -1530939299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_185
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4e751b45adfb140a2d4fbfe7f8f327
+      internalID: -1360564906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_186
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258827d38faf3644c9f8f3bad052160f
+      internalID: 571241907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_187
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219638d98589cdd47b47397ea3401357
+      internalID: -1066522333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_188
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274d5b9e0ce23494ebcb7049801fb8e4
+      internalID: 540256004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_189
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 792
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86b7b2fd0d30c74a9d0a8cdd725cc21
+      internalID: 873430653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d49e52cb3797c48b50fd2c85fca1af
+      internalID: 133351897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_195
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 720
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cd03e01734dde46a506aa53b3f6f45
+      internalID: -1742703644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_196
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 720
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca941d6eac8176049be6ad88938ea471
+      internalID: 455878946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_197
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 720
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d7e07c686fdc4488cf9a19300792df
+      internalID: 1891914254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_198
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 720
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a4136bb58b66141a3ddd5e9d077578
+      internalID: -168112973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_199
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa42654b554cf94187daed626181eac
+      internalID: 383086502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_200
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 648
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e109bfec9fd7189439631c5d536c7e6c
+      internalID: -1838019627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_201
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 648
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8c93c2f22290140bf7087f5b7160c5
+      internalID: 470918055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_202
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 648
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65428441ed92a8641957ee0ec663cafd
+      internalID: -1740179663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_203
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 648
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1143941fc6c28384db5d45502da6cbff
+      internalID: -1841026670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8ed07d71bfb1b4984aa3df1741e5c8
+      internalID: 56300395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_205
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 576
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9864b7bf53f32f4ebfc4b1cfd53ead7
+      internalID: -1634823564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_206
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 576
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4daa1f11b18e794f8b9c326cf97df93
+      internalID: -1639693961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_207
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 576
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb4bd0a2b92bad47bb78436afcd695f
+      internalID: -1890462865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_208
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 576
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72177ab62b26fe94fa5de7567f96f046
+      internalID: -1487411547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_209
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6453a8b1bab3c4bb5e74274bb2ec30
+      internalID: 750977712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_210
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 504
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7274386c3a6c5c94e8964eb9abbc6632
+      internalID: 786684740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_211
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 504
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830a299e03c40b94d9996406c326cbe6
+      internalID: 514662893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_212
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 504
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d097c3703075e04fa3dda181d80c773
+      internalID: 1194207487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_213
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 504
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1147edf3fe0e3734895917ae1c873f1d
+      internalID: 917200299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_214
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 504
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d574fbfd1ebccc4fa72831486f88200
+      internalID: 897751051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_215
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e183cffc08c01e44eb9ab44458ff4984
+      internalID: -505097803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_216
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 432
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9139c2854db03a343996809b88950ae0
+      internalID: -1007974914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_217
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 432
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0666abc4cb6ce44f81720cd7ec9f5f4
+      internalID: -1522232852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_218
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 432
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8529964e0979f74693b24200c9af0ba
+      internalID: -1485858253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_219
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 432
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449f94985766f6e4ebaf08c306e8eaf5
+      internalID: 9234551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_220
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 432
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f422bafe0a2e54a9e210930cf3b5d3
+      internalID: -1535388908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_221
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e33faab6e47a3449b791b5378bc9c52
+      internalID: 386790180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_222
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 360
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6c20bec1d357845847eec73a6a08bc
+      internalID: 1954981109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_223
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 360
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f4b474f562aee4595eda772c6cdf06
+      internalID: -986371263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_224
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 360
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4a29a7cad1d124f841bd4ad9a6cb9d
+      internalID: 280986880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_225
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 360
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a124797330ea44f86fea712f11a9aa
+      internalID: -663212804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_226
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 360
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097bc724d36376f42ba2a67497b68da9
+      internalID: -375111802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_227
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddeb8696d8e1d742ac7ad4dadf1551d
+      internalID: 671773477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_228
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 288
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6812bfdb9f68d438a6fdf58976cc7d
+      internalID: 940516104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_229
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 288
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c55617f44e4f9c49a8680fbcbad4245
+      internalID: 20499114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_230
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 288
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95f61b2566b5f4449601bcc6fe83135
+      internalID: 1165364865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_231
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 288
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18d695d40656494bbc83e04e4f17ed4
+      internalID: -376128716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_232
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 288
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877c067937003c244a95274a25244c08
+      internalID: 81597725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_233
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf3b6a795c479141aaa5e49f99d6ee2
+      internalID: 792844929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_234
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53fd4cfa2ba5bb4bb697980a8ad8c65
+      internalID: 799737302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_235
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a298060ef51284042974d9bbdb77d9a2
+      internalID: 1076221170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_236
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70b1d6030d1553459b578b4544f0dfd
+      internalID: 2026967521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_237
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f867a6f7709dd6f4bb95e82056222176
+      internalID: 1834313958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_238
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f70a91311e6ba9459d8e6deb4d6f1de
+      internalID: -992580400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_239
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893868b404f0a8e46b1c44adf399e2c6
+      internalID: 681641577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_240
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0152420ba081439439ec4b5b1fade62a
+      internalID: -2110332932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_241
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c435261c253325b439956fc82888f10c
+      internalID: 1429058915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_242
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 144
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c9853f9c989364c8fc9a5fc55d4937
+      internalID: 781415077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_249
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbe13cf7eb6de740a05b54346a68d5d
+      internalID: -873296647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_250
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aef6f1ee61a91c47966ac509f07619f
+      internalID: -1100431939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_251
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b715cf2ea2b4704481c591879b349ff
+      internalID: 2023805273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_252
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b48e233de721346a82f7ce5aae4dd5
+      internalID: 1892126198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_253
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f645a034694604d86e2c1bf9f7d252
+      internalID: -61824836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_254
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4297f428115ba24388b467326c81497
+      internalID: -1489162812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_255
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a428542e7d92624b97d92e191ee3031
+      internalID: -1467466369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_256
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc95a7037b41384189254055a3d818c
+      internalID: 388569053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_257
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa0c22cb9ecf43419bcea4af65ae222
+      internalID: -311032179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus red_258
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369837c4afdf12a4196a7a83a0735eed
+      internalID: 12886690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GandalfHardcore Succubus red_0: -1599604712
+      GandalfHardcore Succubus red_1: 1916228201
+      GandalfHardcore Succubus red_10: 1901635173
+      GandalfHardcore Succubus red_100: 1774460304
+      GandalfHardcore Succubus red_101: -1403982815
+      GandalfHardcore Succubus red_102: -430983914
+      GandalfHardcore Succubus red_103: -1346605048
+      GandalfHardcore Succubus red_104: 2085961077
+      GandalfHardcore Succubus red_105: -2031185027
+      GandalfHardcore Succubus red_106: -1798650500
+      GandalfHardcore Succubus red_107: 1337971868
+      GandalfHardcore Succubus red_108: -1874581864
+      GandalfHardcore Succubus red_109: -1471856095
+      GandalfHardcore Succubus red_11: -1230934992
+      GandalfHardcore Succubus red_110: 79703615
+      GandalfHardcore Succubus red_111: -1660573835
+      GandalfHardcore Succubus red_112: 2142108960
+      GandalfHardcore Succubus red_113: -629114121
+      GandalfHardcore Succubus red_114: 307870498
+      GandalfHardcore Succubus red_115: 835696693
+      GandalfHardcore Succubus red_116: 1774182390
+      GandalfHardcore Succubus red_117: 1837573023
+      GandalfHardcore Succubus red_118: 1697655631
+      GandalfHardcore Succubus red_119: -2049892416
+      GandalfHardcore Succubus red_12: -505850054
+      GandalfHardcore Succubus red_120: 1127196933
+      GandalfHardcore Succubus red_121: 751063490
+      GandalfHardcore Succubus red_122: -1535647515
+      GandalfHardcore Succubus red_123: 102394817
+      GandalfHardcore Succubus red_124: 1995683377
+      GandalfHardcore Succubus red_125: -1229299403
+      GandalfHardcore Succubus red_126: 818579473
+      GandalfHardcore Succubus red_127: -1963686126
+      GandalfHardcore Succubus red_128: 1870993811
+      GandalfHardcore Succubus red_129: -1216523611
+      GandalfHardcore Succubus red_13: -2042560169
+      GandalfHardcore Succubus red_130: -787140140
+      GandalfHardcore Succubus red_131: 402059512
+      GandalfHardcore Succubus red_132: 662544056
+      GandalfHardcore Succubus red_133: 280354765
+      GandalfHardcore Succubus red_134: 1906192287
+      GandalfHardcore Succubus red_135: 350031774
+      GandalfHardcore Succubus red_136: -1845856752
+      GandalfHardcore Succubus red_137: 120174610
+      GandalfHardcore Succubus red_138: 1067256858
+      GandalfHardcore Succubus red_139: 2083012225
+      GandalfHardcore Succubus red_14: -551896075
+      GandalfHardcore Succubus red_140: 129677438
+      GandalfHardcore Succubus red_141: -441992311
+      GandalfHardcore Succubus red_142: 1075786353
+      GandalfHardcore Succubus red_143: 126492399
+      GandalfHardcore Succubus red_144: 311799868
+      GandalfHardcore Succubus red_145: 1181420600
+      GandalfHardcore Succubus red_146: 499581744
+      GandalfHardcore Succubus red_147: 345652953
+      GandalfHardcore Succubus red_148: 1978711593
+      GandalfHardcore Succubus red_149: 992900820
+      GandalfHardcore Succubus red_15: -1351489029
+      GandalfHardcore Succubus red_150: -101759144
+      GandalfHardcore Succubus red_151: 41528365
+      GandalfHardcore Succubus red_152: -493793238
+      GandalfHardcore Succubus red_153: 1912367981
+      GandalfHardcore Succubus red_154: 223644411
+      GandalfHardcore Succubus red_155: 314830332
+      GandalfHardcore Succubus red_156: -568853478
+      GandalfHardcore Succubus red_157: -440681620
+      GandalfHardcore Succubus red_158: 646551877
+      GandalfHardcore Succubus red_159: -671449746
+      GandalfHardcore Succubus red_16: -1377735258
+      GandalfHardcore Succubus red_160: 1824035779
+      GandalfHardcore Succubus red_161: -161918217
+      GandalfHardcore Succubus red_162: 2119586075
+      GandalfHardcore Succubus red_163: -985919153
+      GandalfHardcore Succubus red_164: 411178298
+      GandalfHardcore Succubus red_165: -2006138190
+      GandalfHardcore Succubus red_166: 2132754385
+      GandalfHardcore Succubus red_167: 1910627970
+      GandalfHardcore Succubus red_168: -1149717218
+      GandalfHardcore Succubus red_169: 703880830
+      GandalfHardcore Succubus red_17: -1489161229
+      GandalfHardcore Succubus red_170: -1005736834
+      GandalfHardcore Succubus red_171: 262456413
+      GandalfHardcore Succubus red_172: 1119820971
+      GandalfHardcore Succubus red_173: 755680598
+      GandalfHardcore Succubus red_174: 110265143
+      GandalfHardcore Succubus red_175: -488106766
+      GandalfHardcore Succubus red_176: 1122954066
+      GandalfHardcore Succubus red_177: -1016816012
+      GandalfHardcore Succubus red_178: 365284969
+      GandalfHardcore Succubus red_179: 955393206
+      GandalfHardcore Succubus red_18: 1973578503
+      GandalfHardcore Succubus red_180: 1175968219
+      GandalfHardcore Succubus red_181: -1776964129
+      GandalfHardcore Succubus red_182: -1586871105
+      GandalfHardcore Succubus red_183: -1693404381
+      GandalfHardcore Succubus red_184: -1530939299
+      GandalfHardcore Succubus red_185: -1360564906
+      GandalfHardcore Succubus red_186: 571241907
+      GandalfHardcore Succubus red_187: -1066522333
+      GandalfHardcore Succubus red_188: 540256004
+      GandalfHardcore Succubus red_189: 873430653
+      GandalfHardcore Succubus red_19: -2070532960
+      GandalfHardcore Succubus red_190: -1985545244
+      GandalfHardcore Succubus red_191: -1444150564
+      GandalfHardcore Succubus red_192: 1953889711
+      GandalfHardcore Succubus red_193: 389610187
+      GandalfHardcore Succubus red_194: 133351897
+      GandalfHardcore Succubus red_195: -1742703644
+      GandalfHardcore Succubus red_196: 455878946
+      GandalfHardcore Succubus red_197: 1891914254
+      GandalfHardcore Succubus red_198: -168112973
+      GandalfHardcore Succubus red_199: 383086502
+      GandalfHardcore Succubus red_2: -874644120
+      GandalfHardcore Succubus red_20: 1978315729
+      GandalfHardcore Succubus red_200: -1838019627
+      GandalfHardcore Succubus red_201: 470918055
+      GandalfHardcore Succubus red_202: -1740179663
+      GandalfHardcore Succubus red_203: -1841026670
+      GandalfHardcore Succubus red_204: 56300395
+      GandalfHardcore Succubus red_205: -1634823564
+      GandalfHardcore Succubus red_206: -1639693961
+      GandalfHardcore Succubus red_207: -1890462865
+      GandalfHardcore Succubus red_208: -1487411547
+      GandalfHardcore Succubus red_209: 750977712
+      GandalfHardcore Succubus red_21: 824869849
+      GandalfHardcore Succubus red_210: 786684740
+      GandalfHardcore Succubus red_211: 514662893
+      GandalfHardcore Succubus red_212: 1194207487
+      GandalfHardcore Succubus red_213: 917200299
+      GandalfHardcore Succubus red_214: 897751051
+      GandalfHardcore Succubus red_215: -505097803
+      GandalfHardcore Succubus red_216: -1007974914
+      GandalfHardcore Succubus red_217: -1522232852
+      GandalfHardcore Succubus red_218: -1485858253
+      GandalfHardcore Succubus red_219: 9234551
+      GandalfHardcore Succubus red_22: 1276896252
+      GandalfHardcore Succubus red_220: -1535388908
+      GandalfHardcore Succubus red_221: 386790180
+      GandalfHardcore Succubus red_222: 1954981109
+      GandalfHardcore Succubus red_223: -986371263
+      GandalfHardcore Succubus red_224: 280986880
+      GandalfHardcore Succubus red_225: -663212804
+      GandalfHardcore Succubus red_226: -375111802
+      GandalfHardcore Succubus red_227: 671773477
+      GandalfHardcore Succubus red_228: 940516104
+      GandalfHardcore Succubus red_229: 20499114
+      GandalfHardcore Succubus red_23: 375950897
+      GandalfHardcore Succubus red_230: 1165364865
+      GandalfHardcore Succubus red_231: -376128716
+      GandalfHardcore Succubus red_232: 81597725
+      GandalfHardcore Succubus red_233: 792844929
+      GandalfHardcore Succubus red_234: 799737302
+      GandalfHardcore Succubus red_235: 1076221170
+      GandalfHardcore Succubus red_236: 2026967521
+      GandalfHardcore Succubus red_237: 1834313958
+      GandalfHardcore Succubus red_238: -992580400
+      GandalfHardcore Succubus red_239: 681641577
+      GandalfHardcore Succubus red_24: -1787788296
+      GandalfHardcore Succubus red_240: -2110332932
+      GandalfHardcore Succubus red_241: 1429058915
+      GandalfHardcore Succubus red_242: 781415077
+      GandalfHardcore Succubus red_243: -1032859956
+      GandalfHardcore Succubus red_244: 523494208
+      GandalfHardcore Succubus red_245: 374973790
+      GandalfHardcore Succubus red_246: 876699628
+      GandalfHardcore Succubus red_247: 531034284
+      GandalfHardcore Succubus red_248: 21927
+      GandalfHardcore Succubus red_249: -873296647
+      GandalfHardcore Succubus red_25: 1618996254
+      GandalfHardcore Succubus red_250: -1100431939
+      GandalfHardcore Succubus red_251: 2023805273
+      GandalfHardcore Succubus red_252: 1892126198
+      GandalfHardcore Succubus red_253: -61824836
+      GandalfHardcore Succubus red_254: -1489162812
+      GandalfHardcore Succubus red_255: -1467466369
+      GandalfHardcore Succubus red_256: 388569053
+      GandalfHardcore Succubus red_257: -311032179
+      GandalfHardcore Succubus red_258: 12886690
+      GandalfHardcore Succubus red_259: -985141659
+      GandalfHardcore Succubus red_26: -999623952
+      GandalfHardcore Succubus red_260: 1714662272
+      GandalfHardcore Succubus red_261: -1342087261
+      GandalfHardcore Succubus red_262: 440868822
+      GandalfHardcore Succubus red_263: -7153888
+      GandalfHardcore Succubus red_264: -1163861337
+      GandalfHardcore Succubus red_27: -213425081
+      GandalfHardcore Succubus red_28: 834324085
+      GandalfHardcore Succubus red_29: -1728268458
+      GandalfHardcore Succubus red_3: 87396593
+      GandalfHardcore Succubus red_30: 1206216314
+      GandalfHardcore Succubus red_31: 1143604050
+      GandalfHardcore Succubus red_32: 1391097177
+      GandalfHardcore Succubus red_33: 549125375
+      GandalfHardcore Succubus red_34: 1828241137
+      GandalfHardcore Succubus red_35: 1906990183
+      GandalfHardcore Succubus red_36: -1336126608
+      GandalfHardcore Succubus red_37: -1687294137
+      GandalfHardcore Succubus red_38: -1614458796
+      GandalfHardcore Succubus red_39: -790609177
+      GandalfHardcore Succubus red_4: -267642081
+      GandalfHardcore Succubus red_40: -1042813335
+      GandalfHardcore Succubus red_41: 757814384
+      GandalfHardcore Succubus red_42: 1261973644
+      GandalfHardcore Succubus red_43: -403349302
+      GandalfHardcore Succubus red_44: -532270343
+      GandalfHardcore Succubus red_45: 761731321
+      GandalfHardcore Succubus red_46: -529875438
+      GandalfHardcore Succubus red_47: -797605734
+      GandalfHardcore Succubus red_48: 1234757747
+      GandalfHardcore Succubus red_49: 1507574286
+      GandalfHardcore Succubus red_5: -1454843669
+      GandalfHardcore Succubus red_50: 1186072149
+      GandalfHardcore Succubus red_51: 1384104363
+      GandalfHardcore Succubus red_52: -1893910584
+      GandalfHardcore Succubus red_53: -309018669
+      GandalfHardcore Succubus red_54: -1434006470
+      GandalfHardcore Succubus red_55: -778984757
+      GandalfHardcore Succubus red_56: 1903568626
+      GandalfHardcore Succubus red_57: 2138783186
+      GandalfHardcore Succubus red_58: -731197829
+      GandalfHardcore Succubus red_59: 1599587342
+      GandalfHardcore Succubus red_6: -1512226149
+      GandalfHardcore Succubus red_60: -1597863726
+      GandalfHardcore Succubus red_61: 1725484817
+      GandalfHardcore Succubus red_62: 1372954708
+      GandalfHardcore Succubus red_63: -1930685221
+      GandalfHardcore Succubus red_64: -1291099060
+      GandalfHardcore Succubus red_65: -178541557
+      GandalfHardcore Succubus red_66: -12339299
+      GandalfHardcore Succubus red_67: -1241568911
+      GandalfHardcore Succubus red_68: 1308680938
+      GandalfHardcore Succubus red_69: -446315739
+      GandalfHardcore Succubus red_7: 1979687277
+      GandalfHardcore Succubus red_70: -269052283
+      GandalfHardcore Succubus red_71: 1602762056
+      GandalfHardcore Succubus red_72: -1955037943
+      GandalfHardcore Succubus red_73: -953700231
+      GandalfHardcore Succubus red_74: -644139428
+      GandalfHardcore Succubus red_75: -1024242658
+      GandalfHardcore Succubus red_76: 1257988472
+      GandalfHardcore Succubus red_77: 1183581483
+      GandalfHardcore Succubus red_78: 112707583
+      GandalfHardcore Succubus red_79: -141178242
+      GandalfHardcore Succubus red_8: -1452596539
+      GandalfHardcore Succubus red_80: 1984844362
+      GandalfHardcore Succubus red_81: 2027797273
+      GandalfHardcore Succubus red_82: -1961266863
+      GandalfHardcore Succubus red_83: -190306503
+      GandalfHardcore Succubus red_84: -1683898139
+      GandalfHardcore Succubus red_85: 890268949
+      GandalfHardcore Succubus red_86: -1207948804
+      GandalfHardcore Succubus red_87: -201270956
+      GandalfHardcore Succubus red_88: 1895620715
+      GandalfHardcore Succubus red_89: 1596613921
+      GandalfHardcore Succubus red_9: -2081119787
+      GandalfHardcore Succubus red_90: 1789094200
+      GandalfHardcore Succubus red_91: 265826049
+      GandalfHardcore Succubus red_92: -1657428827
+      GandalfHardcore Succubus red_93: -1039397337
+      GandalfHardcore Succubus red_94: 1497516711
+      GandalfHardcore Succubus red_95: -235171594
+      GandalfHardcore Succubus red_96: -1826715490
+      GandalfHardcore Succubus red_97: -1560773961
+      GandalfHardcore Succubus red_98: 1351774134
+      GandalfHardcore Succubus red_99: 370318783
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5398 @@
+fileFormatVersion: 2
+guid: 90af086a39af51c4d9655577393642f2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2736
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea499141d8bdc741b82a70a3e119a16
+      internalID: 1071605538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2736
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bf0bb980944ed4d998fb0531fcccd1
+      internalID: -90915179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2736
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9292133b6b3be4ea2970d18fb141d2
+      internalID: -681500489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2736
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b3536c56a4e994c896d452bec8bfda
+      internalID: -1774431413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_4
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2736
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db118d295de9e7946b6394a25e9980d6
+      internalID: -179640057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2664
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96374e7c0dc97f84595e5246429ad427
+      internalID: 265175648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2664
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8b0fa3b92eb6446ab32b7d3bcc40e0
+      internalID: -218026332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2664
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73685eb3dba60e74094b1b88d9d26622
+      internalID: 941003403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_8
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2664
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2a74d2a68d1b64e9169b808670945c
+      internalID: 1203568527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_9
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2664
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c238ab390d3314aad89cfacac90233
+      internalID: -1957189349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2592
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dc13b5cfa713149808b9e65e525967
+      internalID: -928034065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2592
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa787dbb4e639f42bbe7e611623c1c0
+      internalID: 1956883290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2592
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3944888cd79561042a4a1665e16466a3
+      internalID: -1463269826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2592
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a57e0d11c72f7448a65b8d5434d32b
+      internalID: -261116367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be860b7f261e5e4e9d28376e208d4bd
+      internalID: 909386943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2520
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1f28e16bbaf2a469990195c6150f55
+      internalID: -1070536030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_17
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2520
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f8aedfa87af094ab9e0b81bdfb9665
+      internalID: 3876327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_18
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2520
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e247260043ad6a4479410cb5ae8d6f32
+      internalID: 186593763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_19
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2520
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fc956a46f8c544999b04590dffa532
+      internalID: -1635216172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_20
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2520
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c458ea85469b444af20f9b90802d7b
+      internalID: 1516562871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_21
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2520
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3d6c0cdf8f6f1489d68cbbfc5c0ab9
+      internalID: -1201475150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_22
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2520
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3258f41d1f54dc1409c46abd5ec59110
+      internalID: -1370650317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2448
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298f88afbb83d7b4f9af6a6aa1154c3b
+      internalID: -1488941952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_24
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2448
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4137f087c65a04dabddbfcd0a2665e
+      internalID: -1949076347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_25
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2448
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b927476683b1b954d8f6a54ac317de9a
+      internalID: -1242174590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_26
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2448
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1f7e32d83aee04cad8448a6aa3e976
+      internalID: 410884293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2376
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537eba962afec9e4db06aa19ca2eaa8b
+      internalID: -687183506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_28
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2376
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5379c666a2b38944a8676372ff4e9322
+      internalID: -251251666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_29
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2376
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ababa1f59d96b4ab3ad8bd8d6c61e0
+      internalID: 50840226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_30
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2376
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837b46d9f8cc98e43940c3fa3f5dfc74
+      internalID: -1255596821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_31
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2376
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1c5113555b86f4fa6ad5d18b2e1eb8
+      internalID: -90299925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_32
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2376
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8691fad7073bd4086b1ef9611f92ee
+      internalID: 1647233119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_33
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2376
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4a89a2b8cd32747a111fb3e1e9d680
+      internalID: 1751282425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_34
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2376
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3a1cec777fce84cb16aed4a3e0b455
+      internalID: -274010703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f42fdd1f7015f649a433d52a3dc81e3
+      internalID: 1790976386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_36
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2304
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9536ada1124ccd4eba6fb11b0c24e3b
+      internalID: 1580357006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_37
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2304
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f045cb0b4cdc5418f7ab9b1d350b46
+      internalID: -1625274113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_38
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2304
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205a5ce663502db4c89a990cd9f0d274
+      internalID: -1386231955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_39
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2304
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717a3196c63c9f14ca3262f0a0fe4ffe
+      internalID: -515693503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_40
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2304
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc72bcf315c432f4aafdc01da577aec1
+      internalID: -1887503130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_41
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2304
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578b308db1565dc42b859a695db12b49
+      internalID: -995984059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_42
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2304
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d05d74421e008c4daac00479641f6fb
+      internalID: -1822516190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2232
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bc22270fb9f504cac3b280c8f335a9
+      internalID: 1997538555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_44
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2232
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37890b13eb07b214e81d3d41de6de08b
+      internalID: 1022255986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_45
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2232
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f027d4aae67ec8d47927f5e3d22c5132
+      internalID: 1263254763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_46
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2232
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097963c44521b644885f796ea6bc1959
+      internalID: -1257096730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_47
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2232
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35da9ae1e7205ec4d978ea0ad886dc57
+      internalID: 1308828549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_48
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2232
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9902321ebba154f83279a831c858ed
+      internalID: -1882031569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_49
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2232
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24ac76c4e33e1b4cb14cc3f09ed8961
+      internalID: -792330783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_50
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2232
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf05eb9b5470134cbf22838276d7b89
+      internalID: -1317804738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61f1fbe9b5e6e344bb42e4cc99d26b9
+      internalID: -877803725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_52
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc9f974cbf2eb547987b0e60974b4dc
+      internalID: 1196533870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_53
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6355e2f6a411440b72368eedd5f98c
+      internalID: 474508650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_54
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bdd912a46dddf47ba4201a6d5641ac
+      internalID: 996679851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_55
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f729836dffe74a40a0b509e26ff229b
+      internalID: 857808953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_56
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cf8a33965e8d7498ce4dec2efecc21
+      internalID: -1452069220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_57
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069eaeacd2384ce4280699bb590adc61
+      internalID: -1367033734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_58
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130584b9814ad7848b7298d2562160d6
+      internalID: -1733773280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88bd93199e534346b9dd2c5124708c0
+      internalID: -1723911633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_60
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c529cdc70c3b8f64d8b51b6634c404e5
+      internalID: -1380650242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_61
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f3087a2f4f04948bf7d5f3abbbda8f
+      internalID: -310297617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_62
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed387621b666c8d459a4d7ac89cea143
+      internalID: -1767366092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_63
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65326d35ee4e86e4ba3dfad8c2371d69
+      internalID: 467545907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_64
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e6b40c925b74243880ce7a7de4fbe8
+      internalID: -274759500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_65
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6040fbe35ea1844a65d0b5105d4b43
+      internalID: -1401516098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_66
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337e370479ca818419cda801dce481d9
+      internalID: 287779984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf1cf806fb918f42a487d3aa3f2cba5
+      internalID: -1890762154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_68
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9dcabc3c32ebf4b917ef54d960f02a
+      internalID: 333281548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_69
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b9898a1d86e74419764fe5122973c3
+      internalID: 1454219211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_70
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3881c89656ab9b5428dc6ff0da2151f8
+      internalID: 944508501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_71
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97a46cdd1e1fae45b6283efebcf8772
+      internalID: 1635614848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_72
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f3131d2ee43e442ae5ffcec975b85b
+      internalID: -1319931087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_73
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c1469e571c9db47974fc99b71bbd26
+      internalID: -2145165494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_74
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c880e41660a1944809da27835d2aca
+      internalID: 234653095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1944
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3b0c6e06a777f4b92ad661ba593ddd
+      internalID: 40134732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_76
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1944
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9ae2cf273a2ed458046f16eaa5ec11
+      internalID: 401025119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_77
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1944
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757933d788ca66648b3b67e0a8675941
+      internalID: 1168963641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_78
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1944
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5eb63af1bbc4949af8703c1613f8f9
+      internalID: 781707961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_79
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1944
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def7b5eadf4905c4abf066dc1dbeeb52
+      internalID: -1003791337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_80
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1944
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b701243e90325e4dbc1685989212a46
+      internalID: 1498808631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079825d5266dda944a28308e6f1e6398
+      internalID: -611965632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_82
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83339b4ff15d0424381b362afcdcc420
+      internalID: -1266191369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_83
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105abee8408b2f840805920d9a890194
+      internalID: -1276993192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_84
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f298b42f4ea45c4fafc13d10ccb5248
+      internalID: 235979573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_85
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324b00855c8b8364ba59454bb6488fdc
+      internalID: -1785549418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_86
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6839737e5cf8c6e4db86293991e49757
+      internalID: -1259133933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_87
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d60ca744c033e46b27e2d43d37c267
+      internalID: 1261798338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_88
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2249e7d7c3cd46048b56c1547c01ecb9
+      internalID: 671388729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7320d74b3374faf499296f63dac98508
+      internalID: 341525664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_90
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1800
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d1e83af473a5b4d8510c422da566ad
+      internalID: -1661556076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_91
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1800
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249fc7175df09b149b33b9a7b2bd7d15
+      internalID: -1665848295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4329639b9427b264580fa724e78b76f1
+      internalID: -2041809438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_93
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1728
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfdd548ba5dba0448fc662d2f329355
+      internalID: -1482105371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_94
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1728
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6429384b8863ce74f819e9c5bf5299ff
+      internalID: 1231218358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_95
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1728
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54c7d4c1d3f5c8419c4e6c166d20687
+      internalID: -1499556712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_96
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1728
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba506595e87d3ba41958de920ab5b605
+      internalID: 2076488620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06979eb0ce5bc74fa2483845cc00f52
+      internalID: -463408521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_98
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decadc0730dd6a9499b7b4a44191aa11
+      internalID: 520473163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_99
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36b7b333f9680c4b852cea3d6351304
+      internalID: 1914863010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_100
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de34c70f4472934ea5cf3e4278366b0
+      internalID: 1474428453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_101
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868c4df4355a94e44bfc1a234ef47642
+      internalID: -1252046837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_102
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedf49a67dcf45c49b80c57584725487
+      internalID: 224018476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_103
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69e4f4afd5530a48add452d4e6b4b1c
+      internalID: 1581838576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_104
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197ec3ff351a42243b49a01a097a4f0b
+      internalID: -531347503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1f085ac4505df4e80d1e8127a6616f
+      internalID: 1858648659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_106
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c80d608164240449339ecdfcf063ec
+      internalID: 2071050129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_107
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26389c986c7410a43a6d2d98516f8b56
+      internalID: 1543808374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_108
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8ff0e0039a3c249bb4d6de82843523
+      internalID: -752198515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_109
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5863ff48ffaee9441ad236e0ed71c60b
+      internalID: -533022715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_110
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7352a8aeedf582943859b2325a4ab5fe
+      internalID: 1024676815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_111
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c568f38ce417f6409db170a349d81bb
+      internalID: -180120745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_112
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b00c1153a4d9f42828abf83cba25ec
+      internalID: -1601441990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6514f235aff80f647aa069bf501e429b
+      internalID: -38833966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_114
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8babfb3a6efd64d9849b5c4d7a44f9
+      internalID: -1115726121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_115
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d8ae15f1b659a44888be99801221a9
+      internalID: 517709466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_116
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad35e6e296830614998a63f0430eb6eb
+      internalID: -835956262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_117
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a7b2f591b4c8d458850905662c08bd
+      internalID: -1090078237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_118
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f7019276aed344ca2731ddbce54607
+      internalID: 357247804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_119
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901b6e81003999f449216cf2db73d346
+      internalID: 802418972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_120
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d92a9256932a141b65415a9d2e7b7d
+      internalID: -943342826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd6ede439d1c1a468ff50cb4dc4e196
+      internalID: -501918844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_122
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a32f1ab5448e59489d0bcfd493d8409
+      internalID: -495894507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_123
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c263fc36fe280e54a898f5b208a6483b
+      internalID: -404262503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_124
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de73725ba09c3441b9e61898e52e0da
+      internalID: 326678483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_125
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc7689ddeebe8a49acef9b834e4daeb
+      internalID: -686248574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_126
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c3ec0c1da33cb4982c80781e3d3621
+      internalID: 1425107534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_127
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208934bf5ee3d3c4dbf56fa04cb5c1e2
+      internalID: -1148883534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_128
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43a91bec4e28434faabf2c9d7d087dd
+      internalID: -1865941820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7d0293c880b994a8b2fd1df1e24e85
+      internalID: -1438852313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_130
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba270961f336224e9af43e4f9c200ef
+      internalID: 1088536281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_131
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc18fc580a8adf43a3abbcd5f8b8de1
+      internalID: -439774976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_132
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258a62daaf23596429c521823bb8763d
+      internalID: 660106665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_133
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5db2817fe157a42a215d4d2a88a8c9
+      internalID: 1010690437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_134
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cf63022fed090459e380422d3a7c27
+      internalID: 2096324390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_135
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93eb3a553f7192f47a54196f9cba69cc
+      internalID: -1523852372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_136
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351b68a824f57fe4692fee7a5e0f4d4a
+      internalID: -1737012642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74042ab93e95ef147bdf8c97bcb4e398
+      internalID: 1636044072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_138
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e933b2a8fc0c38478912c38a3e92950
+      internalID: -545152480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_139
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0511b950c714fce4ea55039326d74481
+      internalID: -349783352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_140
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4d671d14504ec438dfc3cad549a921
+      internalID: -979827100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_141
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8453761d21b164f8e651ecaabd7660
+      internalID: 971423933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_142
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdd2f9ae1204074697d0e14921a4e6e
+      internalID: 1290028419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_143
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fc40e01269fa94282f7c6ed5056772
+      internalID: -2132427074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_144
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bd34adfb9476d4088e7d2dbf56f2a9
+      internalID: 1619363593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1224
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fae0d6e37da264a9269237929898c7
+      internalID: -618056600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a34d4abe023b749871d79f8adb07f5
+      internalID: 2040479752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_154
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1152
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cce748a234e094987ef075b119edd1
+      internalID: 1300594852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_155
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1152
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00e141270149a74281a13e40f3f3f73
+      internalID: -1249036471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_156
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1152
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7988114414c224645b01aedf1af5a0b1
+      internalID: -493076278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_157
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1152
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fd819fcea5ef444af207c7d1d4a60f
+      internalID: -260580573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9cfedb0898ce94ea291492a6541728
+      internalID: -1052199388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_159
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598bf5eb886597c43a61a53ebea12ad8
+      internalID: -884657595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_160
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3d6aa8eb52b1245a83478d344eae1d
+      internalID: -39826261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_161
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb56d0dde1cef0e4e97f8893a81a9b0b
+      internalID: -917187858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_162
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fd95c067b310544ba183204ba1be33
+      internalID: -46459264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_163
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa91c097cf5e9447b7654ead1886bb9
+      internalID: -1459389385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_164
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e85488c3b8395d4180e8baba75a84a3
+      internalID: 1956896068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_165
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f65e80ad6b39642a4eab828f53844d
+      internalID: 54336950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_166
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2fa38c2c85d4949ab007780d759163
+      internalID: 1394949595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_167
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b034610e3a0251f4a92e0888ac69aae0
+      internalID: -246346716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_168
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260cb3d579cdd5944bf6f9fbfed46ebd
+      internalID: -290890250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_169
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5a913fb8e9be644902d1247cc68e77
+      internalID: -361993452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_170
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedde29e903499641a4d2dde67fda53e
+      internalID: -1006646603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_171
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c485b4757df0e47acde7d0532596d6
+      internalID: -2076367875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_172
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea844794f8024c1408cca49ae60b18f3
+      internalID: 820054319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_173
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923bb193770792849ae87d676f1d6456
+      internalID: 1051029697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d858c976367ad944b3e1d8f4879e810
+      internalID: -1723654306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_175
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64997836ba691a478ce4a3ece09341b
+      internalID: -28153486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_176
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c58b586e90a9634aa029db6f5ed0950
+      internalID: 1197669401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_177
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3551d001e4cd5004a98987cf75f853e6
+      internalID: 1457418340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_178
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ae68704c732b848b340b9dbed5fa72
+      internalID: -910044029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_179
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108d1c14f0250be48ad581e3c198bd8e
+      internalID: -2114213994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c02c9ff19712342b709d0e3cb9d9ee
+      internalID: 735452605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_181
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfa83e0ba311a04996b6138e4ec5afc
+      internalID: 201829049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_182
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9562e7bca1c7d149939005fd601d096
+      internalID: 869156763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_183
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f80c3b9c5e8ff84db17de2049a0c803
+      internalID: -919256615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_184
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633fab779690bb14fac9d7f4009369b0
+      internalID: 275361524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_185
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1dc8a88f9407342b156b6082db072f
+      internalID: 2117090743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_186
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f0aa74acd15394c9a5e11fe1154407
+      internalID: -869688078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_187
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baed03d398d49846a439d91cc402d9a
+      internalID: 474477281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_188
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3237d6e557832040968160c0711cdad
+      internalID: -907485973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_189
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 792
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ceb5e8cdac371e4b8739269cd4e5e9c
+      internalID: -1374676322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3311809a8293c294e821639da367b3a7
+      internalID: -518043485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_195
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 720
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96637e1c925bf5f428f607f0ae574eca
+      internalID: -1498897124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_196
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 720
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a6c3cdfd538ec4fa77b498776bc227
+      internalID: -322063773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_197
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 720
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b88164aae8f226469c332e40de0586f
+      internalID: 500701487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_198
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 720
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1338ebad132c1b44481ff6bfafddfa4e
+      internalID: 1524554242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_199
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c666dbc1435bd7949bb4b5a86cb0a45c
+      internalID: 493372827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_200
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 648
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e9b38eba86b714c924e0362f5fda03
+      internalID: -1239536555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_201
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 648
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6754f9de609ab8145b5bf0580921fec8
+      internalID: 1476709977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_202
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 648
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c362446415e5e924ca43c095cefd4891
+      internalID: 1771022333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_203
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 648
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049d72169e4e86f44bbb474468d2594d
+      internalID: -966225109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4449217a93766144b2b3d6290fb8dc1
+      internalID: 1734724347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_205
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 576
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bfaab6b38ee994eab6b8695efd352c
+      internalID: 1842419191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_206
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 576
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ed8a83db667a8408f6c4fe59c54b90
+      internalID: -1997555754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_207
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 576
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac81790a1a0fb14fbfff979aad16848
+      internalID: 499388288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_208
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 576
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d9ba2078e69814ab47f14deafa36bc
+      internalID: -205061031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_209
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3018a8735c2d5a44595f08d054a3d867
+      internalID: 1570996582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_210
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 504
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e7ee288ef29dc40b125fd7e722682e
+      internalID: 1710096009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_211
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 504
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeaf74125c57939459ad80e02e56bf4c
+      internalID: 1540852696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_212
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 504
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dd0f6016f9fc84bbe31c533ca96fc7
+      internalID: 51985997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_213
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 504
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a573c142c6b0d1046970027bc5e91528
+      internalID: -1494339348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_214
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 504
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e6a5e7118666e4b8819017648f67f6
+      internalID: -555095930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_215
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb74292d8e599049b36e08c665b788e
+      internalID: -519160736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_216
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 432
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f6cb20110ad754e96094d01c921972
+      internalID: 71025491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_217
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 432
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f12cb061bef6a49b0b42cf88f77373
+      internalID: -255430171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_218
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 432
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b4249ca96c9f843b7c14d61d687478
+      internalID: 1996301171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_219
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 432
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35d203619b78e24fabc338e0f2fb015
+      internalID: 159501284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_221
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d860b2cd3de72e248b5b0a7a834eb9b3
+      internalID: -1521203142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_222
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 360
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b72bbba2798884aaa6a1a4cbef6cb5
+      internalID: -254351623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_223
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 360
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54881789d8d11e047ac93d57c8ce8dd8
+      internalID: -8768397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_224
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 360
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af860b1225ae5c3438c96d10350d372b
+      internalID: 380023892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_225
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 360
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777607e114969254492f5484a326db3b
+      internalID: 2079757028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_226
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 360
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2744c3671501943be85138a4bd9d69
+      internalID: -487744582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_227
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2a213acfb706b408b2eb1856f1c88e
+      internalID: 1041729991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_228
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 288
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129d4148d13ad3b4a961328cd5aa280c
+      internalID: 1846392767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_229
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 288
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f495dc5e410e0414c8acd81a6386eae3
+      internalID: 1777182157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_230
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 288
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e50deb179aa9744a5301915272fff6
+      internalID: -1336288380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_231
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 288
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a214800cdc1831d47a609202b7e736be
+      internalID: 1267229519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_233
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c34ca787c791c74e98493e7cf5a9b8a
+      internalID: -525106617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_234
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3b6b90d21295444801d52f97e7d01a
+      internalID: -133265535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_235
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654c5e6d76973dd4e9a7a81b498f0bba
+      internalID: -1716074581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_236
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7606af33dda122540a7350af26d3c88c
+      internalID: -402622124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_237
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f67827d443c1643a555ce5770701f8
+      internalID: -2042233920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_238
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0444c4c8aed33c444816ea137b518f99
+      internalID: 1762015065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_239
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8c4fcecc32ca5418eff3521d66afaa
+      internalID: -1686438803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_240
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df45feaeb55dae442b087400cb741d12
+      internalID: 1461775156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_241
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272f85567c6a8de4ca1baa8f501ef83a
+      internalID: 864610884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_242
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 144
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c201dcb6e722b44aa7ad00290824a4c
+      internalID: -1416748441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_249
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5775dfdd92cd26e49baa7b29e5a75a61
+      internalID: 367586067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_250
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe9f01eae0f06e44a78d8849e4e0db6
+      internalID: -1472918824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_251
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9a9efbcb9249647aa66d9a3480909c
+      internalID: 961245962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_252
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7c3ca5a3406204682b476ed4aaf3fe
+      internalID: -1037150507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_253
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd461ab1edc176c428b5ab7b61e72594
+      internalID: 1867508885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_254
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ee1e5dc6e99c8448fbc3c593fac23f
+      internalID: 1427942587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_255
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a6af8196e25644ba6fc37618ae5e25
+      internalID: -1654867820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_256
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18b4b201870361428ed7cd17998ef4d
+      internalID: -1913265256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_257
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f208a2d5664d14a92c203e20429a13
+      internalID: 1825442270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus purple_258
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d691a4089867bd344a77a349ea1bcc29
+      internalID: 1059659130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GandalfHardcore Succubus purple_0: 1071605538
+      GandalfHardcore Succubus purple_1: -90915179
+      GandalfHardcore Succubus purple_10: -928034065
+      GandalfHardcore Succubus purple_100: 1474428453
+      GandalfHardcore Succubus purple_101: -1252046837
+      GandalfHardcore Succubus purple_102: 224018476
+      GandalfHardcore Succubus purple_103: 1581838576
+      GandalfHardcore Succubus purple_104: -531347503
+      GandalfHardcore Succubus purple_105: 1858648659
+      GandalfHardcore Succubus purple_106: 2071050129
+      GandalfHardcore Succubus purple_107: 1543808374
+      GandalfHardcore Succubus purple_108: -752198515
+      GandalfHardcore Succubus purple_109: -533022715
+      GandalfHardcore Succubus purple_11: 1956883290
+      GandalfHardcore Succubus purple_110: 1024676815
+      GandalfHardcore Succubus purple_111: -180120745
+      GandalfHardcore Succubus purple_112: -1601441990
+      GandalfHardcore Succubus purple_113: -38833966
+      GandalfHardcore Succubus purple_114: -1115726121
+      GandalfHardcore Succubus purple_115: 517709466
+      GandalfHardcore Succubus purple_116: -835956262
+      GandalfHardcore Succubus purple_117: -1090078237
+      GandalfHardcore Succubus purple_118: 357247804
+      GandalfHardcore Succubus purple_119: 802418972
+      GandalfHardcore Succubus purple_12: -1463269826
+      GandalfHardcore Succubus purple_120: -943342826
+      GandalfHardcore Succubus purple_121: -501918844
+      GandalfHardcore Succubus purple_122: -495894507
+      GandalfHardcore Succubus purple_123: -404262503
+      GandalfHardcore Succubus purple_124: 326678483
+      GandalfHardcore Succubus purple_125: -686248574
+      GandalfHardcore Succubus purple_126: 1425107534
+      GandalfHardcore Succubus purple_127: -1148883534
+      GandalfHardcore Succubus purple_128: -1865941820
+      GandalfHardcore Succubus purple_129: -1438852313
+      GandalfHardcore Succubus purple_13: -261116367
+      GandalfHardcore Succubus purple_130: 1088536281
+      GandalfHardcore Succubus purple_131: -439774976
+      GandalfHardcore Succubus purple_132: 660106665
+      GandalfHardcore Succubus purple_133: 1010690437
+      GandalfHardcore Succubus purple_134: 2096324390
+      GandalfHardcore Succubus purple_135: -1523852372
+      GandalfHardcore Succubus purple_136: -1737012642
+      GandalfHardcore Succubus purple_137: 1636044072
+      GandalfHardcore Succubus purple_138: -545152480
+      GandalfHardcore Succubus purple_139: -349783352
+      GandalfHardcore Succubus purple_14: 1296970755
+      GandalfHardcore Succubus purple_140: -979827100
+      GandalfHardcore Succubus purple_141: 971423933
+      GandalfHardcore Succubus purple_142: 1290028419
+      GandalfHardcore Succubus purple_143: -2132427074
+      GandalfHardcore Succubus purple_144: 1619363593
+      GandalfHardcore Succubus purple_145: -618056600
+      GandalfHardcore Succubus purple_146: -1494846036
+      GandalfHardcore Succubus purple_147: -1950762709
+      GandalfHardcore Succubus purple_148: 137798798
+      GandalfHardcore Succubus purple_149: -1383970666
+      GandalfHardcore Succubus purple_15: 909386943
+      GandalfHardcore Succubus purple_150: -1083241638
+      GandalfHardcore Succubus purple_151: 356811261
+      GandalfHardcore Succubus purple_152: 129098979
+      GandalfHardcore Succubus purple_153: 2040479752
+      GandalfHardcore Succubus purple_154: 1300594852
+      GandalfHardcore Succubus purple_155: -1249036471
+      GandalfHardcore Succubus purple_156: -493076278
+      GandalfHardcore Succubus purple_157: -260580573
+      GandalfHardcore Succubus purple_158: -1052199388
+      GandalfHardcore Succubus purple_159: -884657595
+      GandalfHardcore Succubus purple_16: -1070536030
+      GandalfHardcore Succubus purple_160: -39826261
+      GandalfHardcore Succubus purple_161: -917187858
+      GandalfHardcore Succubus purple_162: -46459264
+      GandalfHardcore Succubus purple_163: -1459389385
+      GandalfHardcore Succubus purple_164: 1956896068
+      GandalfHardcore Succubus purple_165: 54336950
+      GandalfHardcore Succubus purple_166: 1394949595
+      GandalfHardcore Succubus purple_167: -246346716
+      GandalfHardcore Succubus purple_168: -290890250
+      GandalfHardcore Succubus purple_169: -361993452
+      GandalfHardcore Succubus purple_17: 3876327
+      GandalfHardcore Succubus purple_170: -1006646603
+      GandalfHardcore Succubus purple_171: -2076367875
+      GandalfHardcore Succubus purple_172: 820054319
+      GandalfHardcore Succubus purple_173: 1051029697
+      GandalfHardcore Succubus purple_174: -1723654306
+      GandalfHardcore Succubus purple_175: -28153486
+      GandalfHardcore Succubus purple_176: 1197669401
+      GandalfHardcore Succubus purple_177: 1457418340
+      GandalfHardcore Succubus purple_178: -910044029
+      GandalfHardcore Succubus purple_179: -2114213994
+      GandalfHardcore Succubus purple_18: 186593763
+      GandalfHardcore Succubus purple_180: 735452605
+      GandalfHardcore Succubus purple_181: 201829049
+      GandalfHardcore Succubus purple_182: 869156763
+      GandalfHardcore Succubus purple_183: -919256615
+      GandalfHardcore Succubus purple_184: 275361524
+      GandalfHardcore Succubus purple_185: 2117090743
+      GandalfHardcore Succubus purple_186: -869688078
+      GandalfHardcore Succubus purple_187: 474477281
+      GandalfHardcore Succubus purple_188: -907485973
+      GandalfHardcore Succubus purple_189: -1374676322
+      GandalfHardcore Succubus purple_19: -1635216172
+      GandalfHardcore Succubus purple_190: 592133534
+      GandalfHardcore Succubus purple_191: 421964772
+      GandalfHardcore Succubus purple_192: 1455102515
+      GandalfHardcore Succubus purple_193: -1799878739
+      GandalfHardcore Succubus purple_194: -518043485
+      GandalfHardcore Succubus purple_195: -1498897124
+      GandalfHardcore Succubus purple_196: -322063773
+      GandalfHardcore Succubus purple_197: 500701487
+      GandalfHardcore Succubus purple_198: 1524554242
+      GandalfHardcore Succubus purple_199: 493372827
+      GandalfHardcore Succubus purple_2: -681500489
+      GandalfHardcore Succubus purple_20: 1516562871
+      GandalfHardcore Succubus purple_200: -1239536555
+      GandalfHardcore Succubus purple_201: 1476709977
+      GandalfHardcore Succubus purple_202: 1771022333
+      GandalfHardcore Succubus purple_203: -966225109
+      GandalfHardcore Succubus purple_204: 1734724347
+      GandalfHardcore Succubus purple_205: 1842419191
+      GandalfHardcore Succubus purple_206: -1997555754
+      GandalfHardcore Succubus purple_207: 499388288
+      GandalfHardcore Succubus purple_208: -205061031
+      GandalfHardcore Succubus purple_209: 1570996582
+      GandalfHardcore Succubus purple_21: -1201475150
+      GandalfHardcore Succubus purple_210: 1710096009
+      GandalfHardcore Succubus purple_211: 1540852696
+      GandalfHardcore Succubus purple_212: 51985997
+      GandalfHardcore Succubus purple_213: -1494339348
+      GandalfHardcore Succubus purple_214: -555095930
+      GandalfHardcore Succubus purple_215: -519160736
+      GandalfHardcore Succubus purple_216: 71025491
+      GandalfHardcore Succubus purple_217: -255430171
+      GandalfHardcore Succubus purple_218: 1996301171
+      GandalfHardcore Succubus purple_219: 159501284
+      GandalfHardcore Succubus purple_22: -1370650317
+      GandalfHardcore Succubus purple_220: -194092822
+      GandalfHardcore Succubus purple_221: -1521203142
+      GandalfHardcore Succubus purple_222: -254351623
+      GandalfHardcore Succubus purple_223: -8768397
+      GandalfHardcore Succubus purple_224: 380023892
+      GandalfHardcore Succubus purple_225: 2079757028
+      GandalfHardcore Succubus purple_226: -487744582
+      GandalfHardcore Succubus purple_227: 1041729991
+      GandalfHardcore Succubus purple_228: 1846392767
+      GandalfHardcore Succubus purple_229: 1777182157
+      GandalfHardcore Succubus purple_23: -1488941952
+      GandalfHardcore Succubus purple_230: -1336288380
+      GandalfHardcore Succubus purple_231: 1267229519
+      GandalfHardcore Succubus purple_232: 931598110
+      GandalfHardcore Succubus purple_233: -525106617
+      GandalfHardcore Succubus purple_234: -133265535
+      GandalfHardcore Succubus purple_235: -1716074581
+      GandalfHardcore Succubus purple_236: -402622124
+      GandalfHardcore Succubus purple_237: -2042233920
+      GandalfHardcore Succubus purple_238: 1762015065
+      GandalfHardcore Succubus purple_239: -1686438803
+      GandalfHardcore Succubus purple_24: -1949076347
+      GandalfHardcore Succubus purple_240: 1461775156
+      GandalfHardcore Succubus purple_241: 864610884
+      GandalfHardcore Succubus purple_242: -1416748441
+      GandalfHardcore Succubus purple_243: -1386029
+      GandalfHardcore Succubus purple_244: 1526065314
+      GandalfHardcore Succubus purple_245: 1415710224
+      GandalfHardcore Succubus purple_246: 1803975203
+      GandalfHardcore Succubus purple_247: 463586474
+      GandalfHardcore Succubus purple_248: -1743170308
+      GandalfHardcore Succubus purple_249: 367586067
+      GandalfHardcore Succubus purple_25: -1242174590
+      GandalfHardcore Succubus purple_250: -1472918824
+      GandalfHardcore Succubus purple_251: 961245962
+      GandalfHardcore Succubus purple_252: -1037150507
+      GandalfHardcore Succubus purple_253: 1867508885
+      GandalfHardcore Succubus purple_254: 1427942587
+      GandalfHardcore Succubus purple_255: -1654867820
+      GandalfHardcore Succubus purple_256: -1913265256
+      GandalfHardcore Succubus purple_257: 1825442270
+      GandalfHardcore Succubus purple_258: 1059659130
+      GandalfHardcore Succubus purple_259: -2007511591
+      GandalfHardcore Succubus purple_26: 410884293
+      GandalfHardcore Succubus purple_260: -2024163071
+      GandalfHardcore Succubus purple_261: 533555010
+      GandalfHardcore Succubus purple_262: 1479524671
+      GandalfHardcore Succubus purple_263: 1440735162
+      GandalfHardcore Succubus purple_264: -868878507
+      GandalfHardcore Succubus purple_27: -687183506
+      GandalfHardcore Succubus purple_28: -251251666
+      GandalfHardcore Succubus purple_29: 50840226
+      GandalfHardcore Succubus purple_3: -1774431413
+      GandalfHardcore Succubus purple_30: -1255596821
+      GandalfHardcore Succubus purple_31: -90299925
+      GandalfHardcore Succubus purple_32: 1647233119
+      GandalfHardcore Succubus purple_33: 1751282425
+      GandalfHardcore Succubus purple_34: -274010703
+      GandalfHardcore Succubus purple_35: 1790976386
+      GandalfHardcore Succubus purple_36: 1580357006
+      GandalfHardcore Succubus purple_37: -1625274113
+      GandalfHardcore Succubus purple_38: -1386231955
+      GandalfHardcore Succubus purple_39: -515693503
+      GandalfHardcore Succubus purple_4: -179640057
+      GandalfHardcore Succubus purple_40: -1887503130
+      GandalfHardcore Succubus purple_41: -995984059
+      GandalfHardcore Succubus purple_42: -1822516190
+      GandalfHardcore Succubus purple_43: 1997538555
+      GandalfHardcore Succubus purple_44: 1022255986
+      GandalfHardcore Succubus purple_45: 1263254763
+      GandalfHardcore Succubus purple_46: -1257096730
+      GandalfHardcore Succubus purple_47: 1308828549
+      GandalfHardcore Succubus purple_48: -1882031569
+      GandalfHardcore Succubus purple_49: -792330783
+      GandalfHardcore Succubus purple_5: 265175648
+      GandalfHardcore Succubus purple_50: -1317804738
+      GandalfHardcore Succubus purple_51: -877803725
+      GandalfHardcore Succubus purple_52: 1196533870
+      GandalfHardcore Succubus purple_53: 474508650
+      GandalfHardcore Succubus purple_54: 996679851
+      GandalfHardcore Succubus purple_55: 857808953
+      GandalfHardcore Succubus purple_56: -1452069220
+      GandalfHardcore Succubus purple_57: -1367033734
+      GandalfHardcore Succubus purple_58: -1733773280
+      GandalfHardcore Succubus purple_59: -1723911633
+      GandalfHardcore Succubus purple_6: -218026332
+      GandalfHardcore Succubus purple_60: -1380650242
+      GandalfHardcore Succubus purple_61: -310297617
+      GandalfHardcore Succubus purple_62: -1767366092
+      GandalfHardcore Succubus purple_63: 467545907
+      GandalfHardcore Succubus purple_64: -274759500
+      GandalfHardcore Succubus purple_65: -1401516098
+      GandalfHardcore Succubus purple_66: 287779984
+      GandalfHardcore Succubus purple_67: -1890762154
+      GandalfHardcore Succubus purple_68: 333281548
+      GandalfHardcore Succubus purple_69: 1454219211
+      GandalfHardcore Succubus purple_7: 941003403
+      GandalfHardcore Succubus purple_70: 944508501
+      GandalfHardcore Succubus purple_71: 1635614848
+      GandalfHardcore Succubus purple_72: -1319931087
+      GandalfHardcore Succubus purple_73: -2145165494
+      GandalfHardcore Succubus purple_74: 234653095
+      GandalfHardcore Succubus purple_75: 40134732
+      GandalfHardcore Succubus purple_76: 401025119
+      GandalfHardcore Succubus purple_77: 1168963641
+      GandalfHardcore Succubus purple_78: 781707961
+      GandalfHardcore Succubus purple_79: -1003791337
+      GandalfHardcore Succubus purple_8: 1203568527
+      GandalfHardcore Succubus purple_80: 1498808631
+      GandalfHardcore Succubus purple_81: -611965632
+      GandalfHardcore Succubus purple_82: -1266191369
+      GandalfHardcore Succubus purple_83: -1276993192
+      GandalfHardcore Succubus purple_84: 235979573
+      GandalfHardcore Succubus purple_85: -1785549418
+      GandalfHardcore Succubus purple_86: -1259133933
+      GandalfHardcore Succubus purple_87: 1261798338
+      GandalfHardcore Succubus purple_88: 671388729
+      GandalfHardcore Succubus purple_89: 341525664
+      GandalfHardcore Succubus purple_9: -1957189349
+      GandalfHardcore Succubus purple_90: -1661556076
+      GandalfHardcore Succubus purple_91: -1665848295
+      GandalfHardcore Succubus purple_92: -2041809438
+      GandalfHardcore Succubus purple_93: -1482105371
+      GandalfHardcore Succubus purple_94: 1231218358
+      GandalfHardcore Succubus purple_95: -1499556712
+      GandalfHardcore Succubus purple_96: 2076488620
+      GandalfHardcore Succubus purple_97: -463408521
+      GandalfHardcore Succubus purple_98: 520473163
+      GandalfHardcore Succubus purple_99: 1914863010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

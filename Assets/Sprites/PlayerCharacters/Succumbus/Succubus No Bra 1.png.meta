@@ -1,0 +1,5398 @@
+fileFormatVersion: 2
+guid: e1b99fde84b0ea74e8c3862c0eb67a7c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2736
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59d4f21e1b19ef43be2b6948abc1ec5
+      internalID: 924357518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2736
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d4546804dcc2e449503c5dfb35cb4d
+      internalID: -414414384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2736
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4201fe873b3a3cd4ba8ff95ff9a4efaa
+      internalID: 291073359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2736
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c89d1247518d39418bf4767dbac1614
+      internalID: -1188412621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2736
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01eaa8fbaaec4284c80be8577a21832e
+      internalID: -525615871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2664
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0dbc430ef96d943b426530337cb2ea
+      internalID: -1255827947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2664
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978ccafd5c8a1ea468d59405dfae4e1e
+      internalID: 1485156051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2664
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45ea5916913bec4bbf2efd08eeaf223
+      internalID: 619645687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2664
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ad61d60d547a243ae47aac0e5fddc0
+      internalID: -915850745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2664
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42a7ee144324934ab07c8c0206a9c52
+      internalID: 1771548719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2592
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdfe10caa7d41e4b9c20204b5c1e90e
+      internalID: -275532892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2592
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0657558050b2b7344927d152a5b97c87
+      internalID: 1794604267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2592
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9300e2afc5a45419b25a7dc16a5634
+      internalID: 798962896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2592
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b91121a4ed4704eafba046a8b8376a
+      internalID: -1362112364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b38573ab425cc4b84a2b45f3fb715b
+      internalID: 723829444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2520
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ebb4078354a164e90fbdb436b1aa0c
+      internalID: 399657237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_17
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2520
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e111ede331feb0c4180ebc266898d5d0
+      internalID: -2085996586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_18
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2520
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d14d18c4615ecf45ba9aa1040c7a0d0
+      internalID: 434880124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_19
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2520
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae60e4d0c73b9a42b03775b3754b577
+      internalID: 1052653210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_20
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2520
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982dfcbd0d1d21b4785387899afbc0c5
+      internalID: 1400780423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_21
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2520
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61544a8834692924f9d4ac908e2ea900
+      internalID: 897679238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_22
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2520
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf6d279f9f58084094fa4963378b732
+      internalID: 623449401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2448
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d601577e9db93b145b3665db1780a1b7
+      internalID: -1445067760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_24
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2448
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad176dc0ce58c8e46b26ba5256c78a27
+      internalID: 2039164277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_25
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2448
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7505bee003be942a5ce95068d7ccd2
+      internalID: -851746036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_26
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2448
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e74159d46c93d648841f4788b8c32b8
+      internalID: 789957660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2376
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282afc19b4d2bcf4a95c3875352ffdbd
+      internalID: -982985208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_28
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2376
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de878eb479e83934c94fbd9f713423f4
+      internalID: 87871557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_29
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2376
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8a608fe9dfc1e43be2f9adb6f836cd
+      internalID: -12038021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_30
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2376
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba86c4fb87bd1654180256f49a334e0a
+      internalID: -1044045877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_31
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2376
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ebf65067d82a14481d81d69147d8ab
+      internalID: -1216457875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_32
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2376
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e55c21c7480a145926402bfe1221f8
+      internalID: 1564171538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_33
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2376
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef166f95f7a4a47439d942406ab209b1
+      internalID: -2054556552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_34
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2376
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a590a78cd20a04a82141cef68c3642
+      internalID: 607233600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96599a62a99d21d4e9e4c4c830fcaa7a
+      internalID: 936008186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_36
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2304
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263d6f3b29cba184a94bba6d139a57a2
+      internalID: 1632350619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_37
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2304
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a671bdb2be0945c4198ec7e9e198f63a
+      internalID: -691049078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_38
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2304
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5d7ba3eccfd3f4c8e479e16a26a9e0
+      internalID: 2094562299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_39
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2304
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1585a530e7a334083c1a4fc6529e46
+      internalID: 2133987058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_40
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2304
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c948983663eed1408af4dd1f922e3d4
+      internalID: 1592948832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_41
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2304
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c986e8ac7a4370a408f381b9111cb98a
+      internalID: 1928641042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_42
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2304
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0bf8e806cd3aa4589ece49b64363f1
+      internalID: 837125704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2232
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a2bd0b3574d3a4c877e92cad5393c2
+      internalID: -1196312970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_44
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2232
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3c2044def082741ba3e278e39965bf
+      internalID: -154521489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_45
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2232
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0eca9e24c03d3438010bfd4790d399
+      internalID: -1238073258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_46
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2232
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85475eacd14443f469d32794d5945c90
+      internalID: -2127047914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_47
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2232
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09325ffc331e671428f44e4c950c562f
+      internalID: -1900804456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_48
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2232
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e4385db36b95b4c920c4f82242a86c
+      internalID: -1693964890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_49
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2232
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0fe07215f57b34d92aebc9dba079c6
+      internalID: -2078715708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_50
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2232
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f0db70e8fcea141bc28fa92914e674
+      internalID: 791952760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc3ee853a1cd4d438dde14082735ef9
+      internalID: -175044170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_52
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70501672633294742a87e5605bd52ac1
+      internalID: -75196390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_53
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1818546ce99bd054d97e3cf8d713100a
+      internalID: -1955476193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_54
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3147ccd6dea95f94b8a6d3a2949b6cac
+      internalID: 954645580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_55
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075de3b475a7c9b4baffcfba143ebbba
+      internalID: 144302865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_56
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5bff66d0c1ec14d81e40a4414d6adc
+      internalID: 2070073979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_57
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3dd9290c1a80141b21238b9e1ab236
+      internalID: 1272622478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_58
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2160
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca175cba1afc2694486dc8375630dee4
+      internalID: -225011524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c6f56e60ea08d4a9fc29124782cd4f
+      internalID: 579158939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_60
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfb9ccbad102f849a235ef59e032c2b
+      internalID: 203676651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_61
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1183362b7848f1845a43964fef265407
+      internalID: -1113699019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_62
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f40568661d131142b2df834b890211c
+      internalID: 617549252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_63
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6563a86928fab6844b7cb634bcf70db3
+      internalID: 1184953971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_64
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d41e15697602a244a8332fc6944044e
+      internalID: 1590978913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_65
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaa2a791c395ab45a7332bf400e388a
+      internalID: 2117573523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_66
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2088
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a849057b66029ed4d8240b0bb4407838
+      internalID: 741979150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60121ac8915dc2a47b5d77ef486d109e
+      internalID: 945410088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_68
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b5abc24e5d6384b8a0a813c30931d9
+      internalID: 922580918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_69
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdefedbcff0b11d4e86847d98a86bbd9
+      internalID: 1410353570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_70
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5706e47df2d8a4f82046ace3af8797
+      internalID: 1200924642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_71
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0e57b3673582842a257b5d1f223540
+      internalID: -1656141024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_72
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f9d0ec478b07b46b1bb7be66b77f0e
+      internalID: -1432691783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_73
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1048ab12d852d334990dc912d52a6cc4
+      internalID: 551538456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_74
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2016
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae298f68bedee014abc6a1e5435b09d3
+      internalID: 1173796279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1944
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffafc9499ff06d458dc15e6b7b03cd4
+      internalID: 973688107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_76
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1944
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02ad574ded96a64780c9a216a98ddfd
+      internalID: -1439484460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_77
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1944
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02d6d2aaa54a144fafc2835219183af
+      internalID: 1517454308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_78
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1944
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d872c41af7a3b4682a684367f32e98
+      internalID: 241207418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_79
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1944
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2fc22a10f9146489cbe87a2d7af930
+      internalID: 1550305204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_80
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1944
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ab5474c51e72b4b8eb13c010a6a04e
+      internalID: -2142536005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fb572fb02e923488c979771213d6bc
+      internalID: -1257631877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_82
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f756d05302fbf4dbd1ae471cf5f2d6
+      internalID: 380270359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_83
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12335fc80ebba7b499d7097d730ccc20
+      internalID: -2136553337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_84
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bc1b8ac335fdf4c86abb30031e7aee
+      internalID: -746869054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_85
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa22b7104b683b41b9acb2b7e91876b
+      internalID: -1296979370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_86
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67923e2ab5374a499e1c2981f39d550
+      internalID: -1321037924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_87
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec255dbec5fa194a93d9f7c408ebec1
+      internalID: 194237140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_88
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1872
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a183b12f02ba442a15fde31b4c431e
+      internalID: -1230299528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ef2e5d5a100524c980a46c054e2008
+      internalID: -993453121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_90
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1800
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8553eaf226a220c46b93f16de47a5c9f
+      internalID: 700770522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_91
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1800
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3875e88c3ce73744c9524e12f00c19d6
+      internalID: 1924008039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891c7ad294e21bb47a3f0416cce4216c
+      internalID: -172996962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_93
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1728
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4309ae68aca45c45a8150aa8fe6ab70
+      internalID: 359893114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_94
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1728
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01da0b0fa9a98cb41972af62ef59cba2
+      internalID: -1197700279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_95
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1728
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee9a34fbebd73846b4d94b921aeb898
+      internalID: -2071512201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_96
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1728
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e69e59c2e4bcd42aa94526d5311d8d
+      internalID: 931221072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0a3807bd33f5d499125c993b527717
+      internalID: -1360996481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_98
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b235aee2cbec34dbf00c959ba0a673
+      internalID: 415533714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_99
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679d84f5addadd749b97b9e53baaf6ce
+      internalID: -1410740294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_100
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58d8b14dad39f74f86a6d5ef9f37e10
+      internalID: 1096583295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_101
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683e3d4ee33d52a4898e9fd019b6f27d
+      internalID: 1209456153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_102
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aa5d3d25599cd4090bb19b26b8b0f4
+      internalID: -887418819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_103
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15db1a87d5dc344f93e7dae636a034f
+      internalID: 335365078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_104
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1656
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24490872ed3e73b43acc4ff0aa074f7b
+      internalID: 1283734529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5890ffa611873254d9e729e7f0c001dc
+      internalID: 1013880742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_106
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdec16d83bb8e7c4fb8167015c3f7917
+      internalID: 900229858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_107
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63c7dc84f72f364ca52ce04a2a710b0
+      internalID: -1775087756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_108
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a6fcce51705e64c9785692226ee475
+      internalID: -1004523938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_109
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f639ade4e2b1e499849ac720a4d56f
+      internalID: 1576863425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_110
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ce124ae7eb55b4d80ca30f35c92c43
+      internalID: 1889984298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_111
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488466a3318150241867f400b3d05b62
+      internalID: -402642935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_112
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1584
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b20a3b676d49e408dfb513f37573db
+      internalID: -1797175516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78603ad706318c040902d79f7a827261
+      internalID: 1758983428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_114
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91aaf8fa9a3b6304c9e510cfdd4d456f
+      internalID: 1745807293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_115
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c12edebba0dd034094ba367318a4ce1
+      internalID: -320516043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_116
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a22ab195937cc1498d8c468cfc5a9e6
+      internalID: 1532723297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_117
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f370f59730cdfcf4b8973a1e3cf8b89d
+      internalID: -747946884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_118
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef849bda78515834f9ac8c3ed8aed64e
+      internalID: 1889107399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_119
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a372473daa055f04988f755a5bf1f044
+      internalID: 23688712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_120
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1512
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e093f9418ff6b4fa7c800a757d5e40
+      internalID: -2076722211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d6d899944792a4db7691a14d904ff4
+      internalID: 1876287424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_122
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81356c47feed79c45a59f7c13746c7a6
+      internalID: 1254812933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_123
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e0d870f16f89b43a9ee56126418ef9
+      internalID: -1685142420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_124
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6653608403f1eac458d923bdb599e87d
+      internalID: -1963535620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_125
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5698a80708edbaa45a0321f6704225c5
+      internalID: -1664154385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_126
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71de6f22a9f3a64eb8b64bc31abaad0
+      internalID: -741149487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_127
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ccd380636a1124495e50f281f6de16
+      internalID: 687138322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_128
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1440
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a25dbc2d77c25e41af83edd5217a52b
+      internalID: -1627406795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120a5f18f261a6740a1a32db963a5a1a
+      internalID: 2128323099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_130
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df41709a0d7ca24c9f1c935773ce3a3
+      internalID: 221447760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_131
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca74f2fe29e00774892e8db1eb8e862c
+      internalID: -1919112248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_132
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a71468c1df86a5439b755428a99f78e
+      internalID: -1076420252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_133
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e31353102daa04d94fba4f80c65c85
+      internalID: 1637734199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_134
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c35431fb3ace4c46aed4e84d8dd1527
+      internalID: -1550409399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_135
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f2fc5e2d210e049b79bde0a7bb9901
+      internalID: -692211566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_136
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1368
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128d05560f460f24eac28d9cdfee78e4
+      internalID: -1706165674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67ab8e3c55e926478ada4b2a4854457
+      internalID: -1872175340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_138
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad815c9185b9b6442b547b92aa056b75
+      internalID: 412483354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_139
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e547127cb56bc4b966294d57f2ca70
+      internalID: 2016836200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_140
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23cd23736448e44988f57d19921921f
+      internalID: 1560798316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_141
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c875b4ad12f0ec045a215945654e6a48
+      internalID: -1044974502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_142
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a42476f6e19c1a4eba63e73c79ef4e3
+      internalID: -1355811306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_143
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1459eb051e98dcb4486a43e042f031ef
+      internalID: -505326468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_144
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1296
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38eb38df2469bab4984883f276aad8f7
+      internalID: 104750959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1224
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3adcf0390436684d95903a45df8b4ec
+      internalID: -1674581009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006b3bce8fdfa1241bd0d326c3f36b53
+      internalID: -2025578839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_154
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1152
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749efad760247874cb47931b429353ed
+      internalID: 670625061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_155
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1152
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9815def18bf6b4498b2230452c5a20
+      internalID: -794362689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_156
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1152
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d194a6d757b25458f158e0fd495ec8
+      internalID: 2069841862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_157
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1152
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6705abdd372db499dec50a3c58ea97
+      internalID: -286623741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1949e3de83f70864a874e3bec17dfc79
+      internalID: -1235083981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_159
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe49be9f39b8444985cf3924cd22869
+      internalID: 1442294116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_160
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce9a0cd3e1388d48a7f7d03c07d1cd4
+      internalID: -1203838468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_161
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13eeb2d1408db3548962974f71ab123b
+      internalID: -1122875378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_162
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196a650105ff0c04cba4d0182f1011b9
+      internalID: 1698830435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_163
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a07f8268f3e274a87af57fc8de0659
+      internalID: -1786977239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_164
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f42a10f60663547bfa677ce3bbedc4
+      internalID: -497930467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_165
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1080
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522df2a171cf6304db460ba326f01347
+      internalID: -1637105787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_166
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f66901091aa0a4f8a15c1039b7b743
+      internalID: -1154822374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_167
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db1080b890513e4ca6d2a906ed571c8
+      internalID: 235861337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_168
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a159ab8ea9d66e41a237d407204921b
+      internalID: -2037515671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_169
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbac2420d2287644898ee471c1e11bdd
+      internalID: 1637892502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_170
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24992cbc8da6d1648b05b916c37cfae7
+      internalID: 719455622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_171
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be2a6fe686f71343bee480675770df2
+      internalID: 539240773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_172
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eabe0edd91cb641b1d68c06d55f5fb
+      internalID: -525505193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_173
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1008
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b08d68a0c7955d4dab35fe5c85510a5
+      internalID: -829253424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d728fecbaccf81b49a87b30ac62013f7
+      internalID: -769115606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_175
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7cbf6bbfedf63418d88e6c3753b655
+      internalID: 1558657366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_176
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e21092dc71bcd4889f5f72892b65d5
+      internalID: 642403985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_177
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d44369460dacb4d8eb001eff5e6e0c
+      internalID: -24349284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_178
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e8a037cc7675048afd22d1c0e540d7
+      internalID: -1306650666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_179
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 936
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a152ce385060554da7a1228e0f2a5c9
+      internalID: -1049228167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d781808b9a3b78044929f2255e39948a
+      internalID: 2027094833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_181
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2cba1c46bdce34d8b19e29f8f009d0
+      internalID: 2143994594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_182
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c82a84ce7b8489489e4107b9e506ac8
+      internalID: -1921559806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_183
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1a44774fd822846af0b187e6002357
+      internalID: 972937986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_184
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6f961974148ff41a2babc92685b437
+      internalID: -1638469324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_185
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f16d014d6048744bbeae1ccfc6e076
+      internalID: 549747699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_186
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa87aae339d41145b1afd0c9964cdd5
+      internalID: 773849282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_187
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 864
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f7b257084d79d49a4d2ae7c9cd0858
+      internalID: 77191337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_188
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a066c11f9e5f04c860c6c24c52af5c
+      internalID: -1742320663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_189
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 792
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f81a685f909cd04f92374bb09128d4b
+      internalID: -2010890727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00958bdc6ba2c644585f30295b1c55a9
+      internalID: -1911797686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_195
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 720
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6654f722e08c143a8debdb079386af
+      internalID: 1265982794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_196
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 720
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2a3b940cb417840bc2753118d3fb7a
+      internalID: 1016582333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_197
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 720
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a386fd1f21162428a1084b4e1cd7a5
+      internalID: 304990847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_198
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 720
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55536791966eae843bda716b0bd49080
+      internalID: 646185951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_199
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff2663c4698aee4d82f723aac6fa700
+      internalID: 1335801806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_200
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 648
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d48353ab9d09014f9539c1c2d3bf973
+      internalID: 736390798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_201
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 648
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67aa732a188a8bd408d64cc254e7ca69
+      internalID: 700746002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_202
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 648
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c07702bfca953d4ca2f31555da7a244
+      internalID: -1668716574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_203
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 648
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94ce7dccdbc1e442ad4a85d8551dde0
+      internalID: 1651099816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddb0baa4f6c62f418c285c194d71dff
+      internalID: 1526755922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_205
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 576
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb2f48969881c54eb894c4a87fbaca3
+      internalID: 1002264811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_206
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 576
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9bd46d68c229241a115497c6dc6842
+      internalID: 502033139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_207
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 576
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3b03fc5cd496e44a0d6f0d9705ecc0
+      internalID: -1353792621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_208
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 576
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca796a1aa54686347967e89b8cf39f41
+      internalID: 570154157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_209
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bad348686e3d14d88a3b79977d3f4e
+      internalID: -467430130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_210
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 504
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244a657b48167cd4988c51a8a2616928
+      internalID: -297344471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_211
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 504
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8c64fcf1d4ade498f6c63b21169cbb
+      internalID: 1874830968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_212
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 504
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d8efb4f89a1e344b37f7a0a032ee4a
+      internalID: 407624842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_213
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 504
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7359cbf6d567840bdc8b81f6b24899
+      internalID: -1555399712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_214
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 504
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9010b0cd26b534b8be6b42b2ece8cd
+      internalID: -556992397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_215
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e66929d8ad07f54b889510de090820d
+      internalID: -151597111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_216
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 432
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da5b3e0fef08f24eb4f2cc84abb15ac
+      internalID: 1877901724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_217
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 432
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e28a05a214b1442a5435d7ece045ec
+      internalID: -36307862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_218
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 432
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7ad51601020c34494cd0fc3e26ef81
+      internalID: -752755541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_219
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 432
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6931b65e59107646ad72824585a09d9
+      internalID: -55659993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_221
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bb18091815c2b44a385ce0cdb8032c
+      internalID: -965021503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_222
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 360
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5273fb28103b12f44ac096b94e168331
+      internalID: -1160330864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_223
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 360
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a993c2176419694ea944df184c2980a
+      internalID: 409369524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_224
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 360
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04dab9d11ff43a48b4c65b95d885222
+      internalID: 1020308789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_225
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 360
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0ee9f7fb19e7a48b5e863f1d28abd6
+      internalID: -734443853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_226
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 360
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef0be1232f839d48af005298c727824
+      internalID: 718637185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_227
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e73a1ceb922c147a9fb7a5ce8c058d
+      internalID: 483925277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_228
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 288
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacbebb66daccdc4589e882b9a695a99
+      internalID: -386907721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_229
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 288
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6982f29e9de0e44db81a7ff434742a4
+      internalID: -353487771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_230
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 288
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbfc5decb158454b9c72af32bd9c322
+      internalID: 570719008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_231
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 288
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0dc4a3933112943a85c1835b755159
+      internalID: -650246791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_233
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd13a6f6f4c87045a76ac1b02c849a9
+      internalID: -657076807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_234
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7807bd97461762842bc439c62ad10b15
+      internalID: 1278650159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_235
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b22f3f026f15548b124812b7b4ce94
+      internalID: 106076995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_236
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabe17196b36aab49b7a5b4e841d8a5f
+      internalID: 859544586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_237
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98aa7f34a2b73eb458fd9950ae02b712
+      internalID: 690549300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_238
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5bed8880e4b6b408de5a8a8017b329
+      internalID: 412547183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_239
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a882a34b65051864493278b5cc8800c2
+      internalID: 1698113884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_240
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 216
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0ee0cfd54a9274492cadbb29081c2c
+      internalID: -124447672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_241
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9429b8ff865ff4499c3e6083e9f8b0
+      internalID: -963424024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_242
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 144
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e638ea11753254a4fb6407de9b433cfa
+      internalID: 912243443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_249
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8960716c082c99439fd8e016fa9976d
+      internalID: -1062687278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_250
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3748f8f1e4b5c56439390269ca331e7d
+      internalID: 469234418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_251
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ace8f3ac0cfa3a44b29bc07f9ba5be0
+      internalID: 405675369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_252
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac71c3629a23d744b216dbfb4c1e303
+      internalID: 217945279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_253
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5701553a5716b4c8ea555edd7f35d8
+      internalID: 1982586265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_254
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8d35404b8a3124bbfff1cab20da61e
+      internalID: 1229205984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_255
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e647fc1db7955409fd54825b44cdfd
+      internalID: 759984858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_256
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 72
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc58552eaba6ae47ba5c6cc42c13db5
+      internalID: -2035388346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_257
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a08dc64c5129ab42a5e053cdc74707e
+      internalID: 1373486563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GandalfHardcore Succubus No Bra sheet 1_258
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1d48df4d8371d4c96c305b67b1fec1
+      internalID: 1612625505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GandalfHardcore Succubus No Bra sheet 1_0: 924357518
+      GandalfHardcore Succubus No Bra sheet 1_1: -414414384
+      GandalfHardcore Succubus No Bra sheet 1_10: -275532892
+      GandalfHardcore Succubus No Bra sheet 1_100: 1096583295
+      GandalfHardcore Succubus No Bra sheet 1_101: 1209456153
+      GandalfHardcore Succubus No Bra sheet 1_102: -887418819
+      GandalfHardcore Succubus No Bra sheet 1_103: 335365078
+      GandalfHardcore Succubus No Bra sheet 1_104: 1283734529
+      GandalfHardcore Succubus No Bra sheet 1_105: 1013880742
+      GandalfHardcore Succubus No Bra sheet 1_106: 900229858
+      GandalfHardcore Succubus No Bra sheet 1_107: -1775087756
+      GandalfHardcore Succubus No Bra sheet 1_108: -1004523938
+      GandalfHardcore Succubus No Bra sheet 1_109: 1576863425
+      GandalfHardcore Succubus No Bra sheet 1_11: 1794604267
+      GandalfHardcore Succubus No Bra sheet 1_110: 1889984298
+      GandalfHardcore Succubus No Bra sheet 1_111: -402642935
+      GandalfHardcore Succubus No Bra sheet 1_112: -1797175516
+      GandalfHardcore Succubus No Bra sheet 1_113: 1758983428
+      GandalfHardcore Succubus No Bra sheet 1_114: 1745807293
+      GandalfHardcore Succubus No Bra sheet 1_115: -320516043
+      GandalfHardcore Succubus No Bra sheet 1_116: 1532723297
+      GandalfHardcore Succubus No Bra sheet 1_117: -747946884
+      GandalfHardcore Succubus No Bra sheet 1_118: 1889107399
+      GandalfHardcore Succubus No Bra sheet 1_119: 23688712
+      GandalfHardcore Succubus No Bra sheet 1_12: 798962896
+      GandalfHardcore Succubus No Bra sheet 1_120: -2076722211
+      GandalfHardcore Succubus No Bra sheet 1_121: 1876287424
+      GandalfHardcore Succubus No Bra sheet 1_122: 1254812933
+      GandalfHardcore Succubus No Bra sheet 1_123: -1685142420
+      GandalfHardcore Succubus No Bra sheet 1_124: -1963535620
+      GandalfHardcore Succubus No Bra sheet 1_125: -1664154385
+      GandalfHardcore Succubus No Bra sheet 1_126: -741149487
+      GandalfHardcore Succubus No Bra sheet 1_127: 687138322
+      GandalfHardcore Succubus No Bra sheet 1_128: -1627406795
+      GandalfHardcore Succubus No Bra sheet 1_129: 2128323099
+      GandalfHardcore Succubus No Bra sheet 1_13: -1362112364
+      GandalfHardcore Succubus No Bra sheet 1_130: 221447760
+      GandalfHardcore Succubus No Bra sheet 1_131: -1919112248
+      GandalfHardcore Succubus No Bra sheet 1_132: -1076420252
+      GandalfHardcore Succubus No Bra sheet 1_133: 1637734199
+      GandalfHardcore Succubus No Bra sheet 1_134: -1550409399
+      GandalfHardcore Succubus No Bra sheet 1_135: -692211566
+      GandalfHardcore Succubus No Bra sheet 1_136: -1706165674
+      GandalfHardcore Succubus No Bra sheet 1_137: -1872175340
+      GandalfHardcore Succubus No Bra sheet 1_138: 412483354
+      GandalfHardcore Succubus No Bra sheet 1_139: 2016836200
+      GandalfHardcore Succubus No Bra sheet 1_14: -609814328
+      GandalfHardcore Succubus No Bra sheet 1_140: 1560798316
+      GandalfHardcore Succubus No Bra sheet 1_141: -1044974502
+      GandalfHardcore Succubus No Bra sheet 1_142: -1355811306
+      GandalfHardcore Succubus No Bra sheet 1_143: -505326468
+      GandalfHardcore Succubus No Bra sheet 1_144: 104750959
+      GandalfHardcore Succubus No Bra sheet 1_145: -1674581009
+      GandalfHardcore Succubus No Bra sheet 1_146: 310206805
+      GandalfHardcore Succubus No Bra sheet 1_147: 1232785979
+      GandalfHardcore Succubus No Bra sheet 1_148: 2145603695
+      GandalfHardcore Succubus No Bra sheet 1_149: 1256065053
+      GandalfHardcore Succubus No Bra sheet 1_15: 723829444
+      GandalfHardcore Succubus No Bra sheet 1_150: -227762258
+      GandalfHardcore Succubus No Bra sheet 1_151: -652281884
+      GandalfHardcore Succubus No Bra sheet 1_152: 1335649950
+      GandalfHardcore Succubus No Bra sheet 1_153: -2025578839
+      GandalfHardcore Succubus No Bra sheet 1_154: 670625061
+      GandalfHardcore Succubus No Bra sheet 1_155: -794362689
+      GandalfHardcore Succubus No Bra sheet 1_156: 2069841862
+      GandalfHardcore Succubus No Bra sheet 1_157: -286623741
+      GandalfHardcore Succubus No Bra sheet 1_158: -1235083981
+      GandalfHardcore Succubus No Bra sheet 1_159: 1442294116
+      GandalfHardcore Succubus No Bra sheet 1_16: 399657237
+      GandalfHardcore Succubus No Bra sheet 1_160: -1203838468
+      GandalfHardcore Succubus No Bra sheet 1_161: -1122875378
+      GandalfHardcore Succubus No Bra sheet 1_162: 1698830435
+      GandalfHardcore Succubus No Bra sheet 1_163: -1786977239
+      GandalfHardcore Succubus No Bra sheet 1_164: -497930467
+      GandalfHardcore Succubus No Bra sheet 1_165: -1637105787
+      GandalfHardcore Succubus No Bra sheet 1_166: -1154822374
+      GandalfHardcore Succubus No Bra sheet 1_167: 235861337
+      GandalfHardcore Succubus No Bra sheet 1_168: -2037515671
+      GandalfHardcore Succubus No Bra sheet 1_169: 1637892502
+      GandalfHardcore Succubus No Bra sheet 1_17: -2085996586
+      GandalfHardcore Succubus No Bra sheet 1_170: 719455622
+      GandalfHardcore Succubus No Bra sheet 1_171: 539240773
+      GandalfHardcore Succubus No Bra sheet 1_172: -525505193
+      GandalfHardcore Succubus No Bra sheet 1_173: -829253424
+      GandalfHardcore Succubus No Bra sheet 1_174: -769115606
+      GandalfHardcore Succubus No Bra sheet 1_175: 1558657366
+      GandalfHardcore Succubus No Bra sheet 1_176: 642403985
+      GandalfHardcore Succubus No Bra sheet 1_177: -24349284
+      GandalfHardcore Succubus No Bra sheet 1_178: -1306650666
+      GandalfHardcore Succubus No Bra sheet 1_179: -1049228167
+      GandalfHardcore Succubus No Bra sheet 1_18: 434880124
+      GandalfHardcore Succubus No Bra sheet 1_180: 2027094833
+      GandalfHardcore Succubus No Bra sheet 1_181: 2143994594
+      GandalfHardcore Succubus No Bra sheet 1_182: -1921559806
+      GandalfHardcore Succubus No Bra sheet 1_183: 972937986
+      GandalfHardcore Succubus No Bra sheet 1_184: -1638469324
+      GandalfHardcore Succubus No Bra sheet 1_185: 549747699
+      GandalfHardcore Succubus No Bra sheet 1_186: 773849282
+      GandalfHardcore Succubus No Bra sheet 1_187: 77191337
+      GandalfHardcore Succubus No Bra sheet 1_188: -1742320663
+      GandalfHardcore Succubus No Bra sheet 1_189: -2010890727
+      GandalfHardcore Succubus No Bra sheet 1_19: 1052653210
+      GandalfHardcore Succubus No Bra sheet 1_190: 273602050
+      GandalfHardcore Succubus No Bra sheet 1_191: 1112175801
+      GandalfHardcore Succubus No Bra sheet 1_192: -430570747
+      GandalfHardcore Succubus No Bra sheet 1_193: -87042543
+      GandalfHardcore Succubus No Bra sheet 1_194: -1911797686
+      GandalfHardcore Succubus No Bra sheet 1_195: 1265982794
+      GandalfHardcore Succubus No Bra sheet 1_196: 1016582333
+      GandalfHardcore Succubus No Bra sheet 1_197: 304990847
+      GandalfHardcore Succubus No Bra sheet 1_198: 646185951
+      GandalfHardcore Succubus No Bra sheet 1_199: 1335801806
+      GandalfHardcore Succubus No Bra sheet 1_2: 291073359
+      GandalfHardcore Succubus No Bra sheet 1_20: 1400780423
+      GandalfHardcore Succubus No Bra sheet 1_200: 736390798
+      GandalfHardcore Succubus No Bra sheet 1_201: 700746002
+      GandalfHardcore Succubus No Bra sheet 1_202: -1668716574
+      GandalfHardcore Succubus No Bra sheet 1_203: 1651099816
+      GandalfHardcore Succubus No Bra sheet 1_204: 1526755922
+      GandalfHardcore Succubus No Bra sheet 1_205: 1002264811
+      GandalfHardcore Succubus No Bra sheet 1_206: 502033139
+      GandalfHardcore Succubus No Bra sheet 1_207: -1353792621
+      GandalfHardcore Succubus No Bra sheet 1_208: 570154157
+      GandalfHardcore Succubus No Bra sheet 1_209: -467430130
+      GandalfHardcore Succubus No Bra sheet 1_21: 897679238
+      GandalfHardcore Succubus No Bra sheet 1_210: -297344471
+      GandalfHardcore Succubus No Bra sheet 1_211: 1874830968
+      GandalfHardcore Succubus No Bra sheet 1_212: 407624842
+      GandalfHardcore Succubus No Bra sheet 1_213: -1555399712
+      GandalfHardcore Succubus No Bra sheet 1_214: -556992397
+      GandalfHardcore Succubus No Bra sheet 1_215: -151597111
+      GandalfHardcore Succubus No Bra sheet 1_216: 1877901724
+      GandalfHardcore Succubus No Bra sheet 1_217: -36307862
+      GandalfHardcore Succubus No Bra sheet 1_218: -752755541
+      GandalfHardcore Succubus No Bra sheet 1_219: -55659993
+      GandalfHardcore Succubus No Bra sheet 1_22: 623449401
+      GandalfHardcore Succubus No Bra sheet 1_220: 1404915483
+      GandalfHardcore Succubus No Bra sheet 1_221: -965021503
+      GandalfHardcore Succubus No Bra sheet 1_222: -1160330864
+      GandalfHardcore Succubus No Bra sheet 1_223: 409369524
+      GandalfHardcore Succubus No Bra sheet 1_224: 1020308789
+      GandalfHardcore Succubus No Bra sheet 1_225: -734443853
+      GandalfHardcore Succubus No Bra sheet 1_226: 718637185
+      GandalfHardcore Succubus No Bra sheet 1_227: 483925277
+      GandalfHardcore Succubus No Bra sheet 1_228: -386907721
+      GandalfHardcore Succubus No Bra sheet 1_229: -353487771
+      GandalfHardcore Succubus No Bra sheet 1_23: -1445067760
+      GandalfHardcore Succubus No Bra sheet 1_230: 570719008
+      GandalfHardcore Succubus No Bra sheet 1_231: -650246791
+      GandalfHardcore Succubus No Bra sheet 1_232: -126283202
+      GandalfHardcore Succubus No Bra sheet 1_233: -657076807
+      GandalfHardcore Succubus No Bra sheet 1_234: 1278650159
+      GandalfHardcore Succubus No Bra sheet 1_235: 106076995
+      GandalfHardcore Succubus No Bra sheet 1_236: 859544586
+      GandalfHardcore Succubus No Bra sheet 1_237: 690549300
+      GandalfHardcore Succubus No Bra sheet 1_238: 412547183
+      GandalfHardcore Succubus No Bra sheet 1_239: 1698113884
+      GandalfHardcore Succubus No Bra sheet 1_24: 2039164277
+      GandalfHardcore Succubus No Bra sheet 1_240: -124447672
+      GandalfHardcore Succubus No Bra sheet 1_241: -963424024
+      GandalfHardcore Succubus No Bra sheet 1_242: 912243443
+      GandalfHardcore Succubus No Bra sheet 1_243: -688031707
+      GandalfHardcore Succubus No Bra sheet 1_244: -1350572369
+      GandalfHardcore Succubus No Bra sheet 1_245: 1833396
+      GandalfHardcore Succubus No Bra sheet 1_246: -781774757
+      GandalfHardcore Succubus No Bra sheet 1_247: -168029837
+      GandalfHardcore Succubus No Bra sheet 1_248: 1391089548
+      GandalfHardcore Succubus No Bra sheet 1_249: -1062687278
+      GandalfHardcore Succubus No Bra sheet 1_25: -851746036
+      GandalfHardcore Succubus No Bra sheet 1_250: 469234418
+      GandalfHardcore Succubus No Bra sheet 1_251: 405675369
+      GandalfHardcore Succubus No Bra sheet 1_252: 217945279
+      GandalfHardcore Succubus No Bra sheet 1_253: 1982586265
+      GandalfHardcore Succubus No Bra sheet 1_254: 1229205984
+      GandalfHardcore Succubus No Bra sheet 1_255: 759984858
+      GandalfHardcore Succubus No Bra sheet 1_256: -2035388346
+      GandalfHardcore Succubus No Bra sheet 1_257: 1373486563
+      GandalfHardcore Succubus No Bra sheet 1_258: 1612625505
+      GandalfHardcore Succubus No Bra sheet 1_259: -655739242
+      GandalfHardcore Succubus No Bra sheet 1_26: 789957660
+      GandalfHardcore Succubus No Bra sheet 1_260: 409749856
+      GandalfHardcore Succubus No Bra sheet 1_261: 2104036532
+      GandalfHardcore Succubus No Bra sheet 1_262: -1771080735
+      GandalfHardcore Succubus No Bra sheet 1_263: -1063234492
+      GandalfHardcore Succubus No Bra sheet 1_264: -1085750791
+      GandalfHardcore Succubus No Bra sheet 1_27: -982985208
+      GandalfHardcore Succubus No Bra sheet 1_28: 87871557
+      GandalfHardcore Succubus No Bra sheet 1_29: -12038021
+      GandalfHardcore Succubus No Bra sheet 1_3: -1188412621
+      GandalfHardcore Succubus No Bra sheet 1_30: -1044045877
+      GandalfHardcore Succubus No Bra sheet 1_31: -1216457875
+      GandalfHardcore Succubus No Bra sheet 1_32: 1564171538
+      GandalfHardcore Succubus No Bra sheet 1_33: -2054556552
+      GandalfHardcore Succubus No Bra sheet 1_34: 607233600
+      GandalfHardcore Succubus No Bra sheet 1_35: 936008186
+      GandalfHardcore Succubus No Bra sheet 1_36: 1632350619
+      GandalfHardcore Succubus No Bra sheet 1_37: -691049078
+      GandalfHardcore Succubus No Bra sheet 1_38: 2094562299
+      GandalfHardcore Succubus No Bra sheet 1_39: 2133987058
+      GandalfHardcore Succubus No Bra sheet 1_4: -525615871
+      GandalfHardcore Succubus No Bra sheet 1_40: 1592948832
+      GandalfHardcore Succubus No Bra sheet 1_41: 1928641042
+      GandalfHardcore Succubus No Bra sheet 1_42: 837125704
+      GandalfHardcore Succubus No Bra sheet 1_43: -1196312970
+      GandalfHardcore Succubus No Bra sheet 1_44: -154521489
+      GandalfHardcore Succubus No Bra sheet 1_45: -1238073258
+      GandalfHardcore Succubus No Bra sheet 1_46: -2127047914
+      GandalfHardcore Succubus No Bra sheet 1_47: -1900804456
+      GandalfHardcore Succubus No Bra sheet 1_48: -1693964890
+      GandalfHardcore Succubus No Bra sheet 1_49: -2078715708
+      GandalfHardcore Succubus No Bra sheet 1_5: -1255827947
+      GandalfHardcore Succubus No Bra sheet 1_50: 791952760
+      GandalfHardcore Succubus No Bra sheet 1_51: -175044170
+      GandalfHardcore Succubus No Bra sheet 1_52: -75196390
+      GandalfHardcore Succubus No Bra sheet 1_53: -1955476193
+      GandalfHardcore Succubus No Bra sheet 1_54: 954645580
+      GandalfHardcore Succubus No Bra sheet 1_55: 144302865
+      GandalfHardcore Succubus No Bra sheet 1_56: 2070073979
+      GandalfHardcore Succubus No Bra sheet 1_57: 1272622478
+      GandalfHardcore Succubus No Bra sheet 1_58: -225011524
+      GandalfHardcore Succubus No Bra sheet 1_59: 579158939
+      GandalfHardcore Succubus No Bra sheet 1_6: 1485156051
+      GandalfHardcore Succubus No Bra sheet 1_60: 203676651
+      GandalfHardcore Succubus No Bra sheet 1_61: -1113699019
+      GandalfHardcore Succubus No Bra sheet 1_62: 617549252
+      GandalfHardcore Succubus No Bra sheet 1_63: 1184953971
+      GandalfHardcore Succubus No Bra sheet 1_64: 1590978913
+      GandalfHardcore Succubus No Bra sheet 1_65: 2117573523
+      GandalfHardcore Succubus No Bra sheet 1_66: 741979150
+      GandalfHardcore Succubus No Bra sheet 1_67: 945410088
+      GandalfHardcore Succubus No Bra sheet 1_68: 922580918
+      GandalfHardcore Succubus No Bra sheet 1_69: 1410353570
+      GandalfHardcore Succubus No Bra sheet 1_7: 619645687
+      GandalfHardcore Succubus No Bra sheet 1_70: 1200924642
+      GandalfHardcore Succubus No Bra sheet 1_71: -1656141024
+      GandalfHardcore Succubus No Bra sheet 1_72: -1432691783
+      GandalfHardcore Succubus No Bra sheet 1_73: 551538456
+      GandalfHardcore Succubus No Bra sheet 1_74: 1173796279
+      GandalfHardcore Succubus No Bra sheet 1_75: 973688107
+      GandalfHardcore Succubus No Bra sheet 1_76: -1439484460
+      GandalfHardcore Succubus No Bra sheet 1_77: 1517454308
+      GandalfHardcore Succubus No Bra sheet 1_78: 241207418
+      GandalfHardcore Succubus No Bra sheet 1_79: 1550305204
+      GandalfHardcore Succubus No Bra sheet 1_8: -915850745
+      GandalfHardcore Succubus No Bra sheet 1_80: -2142536005
+      GandalfHardcore Succubus No Bra sheet 1_81: -1257631877
+      GandalfHardcore Succubus No Bra sheet 1_82: 380270359
+      GandalfHardcore Succubus No Bra sheet 1_83: -2136553337
+      GandalfHardcore Succubus No Bra sheet 1_84: -746869054
+      GandalfHardcore Succubus No Bra sheet 1_85: -1296979370
+      GandalfHardcore Succubus No Bra sheet 1_86: -1321037924
+      GandalfHardcore Succubus No Bra sheet 1_87: 194237140
+      GandalfHardcore Succubus No Bra sheet 1_88: -1230299528
+      GandalfHardcore Succubus No Bra sheet 1_89: -993453121
+      GandalfHardcore Succubus No Bra sheet 1_9: 1771548719
+      GandalfHardcore Succubus No Bra sheet 1_90: 700770522
+      GandalfHardcore Succubus No Bra sheet 1_91: 1924008039
+      GandalfHardcore Succubus No Bra sheet 1_92: -172996962
+      GandalfHardcore Succubus No Bra sheet 1_93: 359893114
+      GandalfHardcore Succubus No Bra sheet 1_94: -1197700279
+      GandalfHardcore Succubus No Bra sheet 1_95: -2071512201
+      GandalfHardcore Succubus No Bra sheet 1_96: 931221072
+      GandalfHardcore Succubus No Bra sheet 1_97: -1360996481
+      GandalfHardcore Succubus No Bra sheet 1_98: 415533714
+      GandalfHardcore Succubus No Bra sheet 1_99: -1410740294
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
