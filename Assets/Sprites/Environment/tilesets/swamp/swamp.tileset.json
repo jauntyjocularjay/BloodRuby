@@ -1,0 +1,14 @@
+{ "columns":20,
+ "image":"swamp.tileset.png",
+ "imageheight":112,
+ "imagewidth":336,
+ "margin":16,
+ "name":".tileset",
+ "spacing":0,
+ "tilecount":120,
+ "tiledversion":"1.10.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}

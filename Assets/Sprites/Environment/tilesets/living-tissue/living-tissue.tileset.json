@@ -1,0 +1,14 @@
+{ "columns":17,
+ "image":"tissue.tileset.png",
+ "imageheight":192,
+ "imagewidth":288,
+ "margin":16,
+ "name":"tissue",
+ "spacing":0,
+ "tilecount":187,
+ "tiledversion":"1.10.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}
