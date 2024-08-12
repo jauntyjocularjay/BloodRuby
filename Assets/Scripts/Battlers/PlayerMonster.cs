@@ -2,10 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerMonster : MonoBehaviour
+public class PlayerMonster : PlayerBattler
 {
-    int curXP;
-    int xpToNextLevel;
 
     
 

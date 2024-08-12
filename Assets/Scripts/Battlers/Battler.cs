@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Monster : MonoBehaviour
+public class Battler : MonoBehaviour
 {
     public int maxHP;
     public int curHP;
@@ -35,3 +35,10 @@ public class Monster : MonoBehaviour
     }
 }
 
+public class PlayerBattler : Battler
+{
+    public int curXP;
+    public int xpToNextLevel;
+    public int level;
+
+}
