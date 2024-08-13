@@ -5,7 +5,15 @@ using UnityEngine;
 public class PlayerMonster : PlayerBattler
 {
 
-    
+    public void Buff(int amount)
+    {
+
+    }
+
+    public void Debuff(int amount)
+    {
+
+    }
 
 }
 

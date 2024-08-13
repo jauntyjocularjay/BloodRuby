@@ -10,6 +10,7 @@ public class Battler : MonoBehaviour
     public int strength;
     public int wisdom;
     public int agility;
+    public Genus genus;
     public Image healthBarFill;
 
     public void Damage(int amount)
@@ -24,6 +25,11 @@ public class Battler : MonoBehaviour
         }
     }
 
+    public void Attack(int amount)
+    {
+        
+    }
+    
     public void Damage()
     {
         Damage(1);
@@ -40,5 +46,69 @@ public class PlayerBattler : Battler
     public int curXP;
     public int xpToNextLevel;
     public int level;
+    
 
+}
+
+public enum Genus {
+    Bat, 
+    Beholder, 
+    Mushroom, 
+    Bird, 
+    Blick, 
+    Boar, 
+    Cactus, 
+    Crab, 
+    Demon,
+    Djinn, 
+    Female, 
+    Eagle, 
+    Elemental, 
+    Elk, 
+    Skull, 
+    Frog, 
+    Fungusaur, 
+    Gator, 
+    Ghost, 
+    Giant, 
+    Golem, 
+    Grater, 
+    Head, 
+    Hornet, 
+    Insect, 
+    Golden, 
+    Jacko, 
+    Jelly, 
+    Floating, 
+    Keebler, 
+    Knight, 
+    Kobold, 
+    Lich, 
+    LizardMan, 
+    Mage,
+    Mimic,
+    Minotaur, 
+    Mouse, 
+    Octo, 
+    Orb, 
+    Phoenix, 
+    Plantee, 
+    Raptor, 
+    Scorpion, 
+    Skeleton,
+    Slime,
+    Snail,
+    Snake,
+    SpiderLady,
+    Spider, 
+    Statue, 
+    Succubus,
+    Toad, 
+    Treant, 
+    Turtle, 
+    WhipWeed,
+    Wolf,
+    Worm, 
+    Wraith, 
+    Zombie
 }
