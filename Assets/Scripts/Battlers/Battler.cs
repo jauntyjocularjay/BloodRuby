@@ -7,9 +7,13 @@ public class Battler : MonoBehaviour
 {
     public int maxHP;
     public int curHP;
+    public PrimaryAttribute primaryAttribute;
     public int strength;
+    public int curStrength;
     public int wisdom;
+    public int curWisdom;
     public int agility;
+    public int curAgility;
     public Genus genus;
     public Image healthBarFill;
 
@@ -111,4 +115,10 @@ public enum Genus {
     Worm, 
     Wraith, 
     Zombie
+}
+
+public enum PrimaryAttribute {
+    Agility,
+    Strength,
+    Wisdom
 }
