@@ -7,15 +7,24 @@ public class Battler : MonoBehaviour
 {
     public int maxHP;
     public int curHP;
-    public PrimaryAttribute primaryAttribute;
-    public int strength;
-    public int curStrength;
-    public int wisdom;
-    public int curWisdom;
+    public Attribute primaryAttribute;
     public int agility;
-    public int curAgility;
+    public int strength;
+    public int wisdom;
     public Genus genus;
     public Image healthBarFill;
+
+    // public Battler(Battler battler)
+    // {
+    //     maxHP = battler.maxHP;
+    //     curHP = battler.curHP;
+    //     primaryAttribute = battler.primaryAttribute;
+    //     agility = battler.agility;
+    //     strength = battler.strength;
+    //     wisdom = battler.wisdom;
+    //     genus = battler.genus;
+    //     healthBarFill = battler.healthBarFill;
+    // }
 
     public void Damage(int amount)
     {
@@ -50,7 +59,7 @@ public class PlayerBattler : Battler
     public int curXP;
     public int xpToNextLevel;
     public int level;
-    
+    public string alias;
 
 }
 
@@ -117,7 +126,7 @@ public enum Genus {
     Zombie
 }
 
-public enum PrimaryAttribute {
+public enum Attribute {
     Agility,
     Strength,
     Wisdom

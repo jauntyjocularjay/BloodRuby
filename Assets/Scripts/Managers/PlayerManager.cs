@@ -90,3 +90,12 @@ public class MonsterPosition : Exception
     public MonsterPosition(string message) : base(message){}
 }
 
+enum BattleFormation
+{
+    W, // 2 forward wings, 1 mid, 2 rear
+    E, // 3 forward, 2 rear
+    M, // 2 forward, 1 mid, 2 rear wings
+    V, // 2 forward wings, 1 rear
+    invertedE, // 2 forward, 3 rear
+    invertedV // 1 forward, 2 rear wings
+}
