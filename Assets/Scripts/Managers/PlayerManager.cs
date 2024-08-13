@@ -4,14 +4,9 @@ using System.Collections.Generic;
 using UnityEditor.PackageManager;
 using UnityEngine;
 
-public class PlayerManager : MonoBehaviour
+public class PlayerManager : ScriptableObject
 {
     public List<Battler> party;
-    public PlayerLeader leader;
-    public PlayerMonster support1;
-    public PlayerMonster support2;
-    public PlayerMonster support3;
-    public PlayerMonster support4;
 }
 
 public class PlayerParty : List<Battler>
@@ -86,7 +81,7 @@ public class PlayerParty : List<Battler>
         }
 
     }
-}
+} 
 
 public class MonsterPosition : Exception
 {
