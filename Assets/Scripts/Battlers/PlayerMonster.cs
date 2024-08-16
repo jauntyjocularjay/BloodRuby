@@ -19,12 +19,19 @@ public class PlayerMonster : PlayerBattler
         level = battler.level;
     }
 
+
+
     public void Buff(int amount, Attribute attribute)
     {
 
     }
 
     public void Debuff(int amount)
+    {
+
+    }
+
+    public void TakeDamage()
     {
 
     }
