@@ -55,15 +55,15 @@ public class Battler : MonoBehaviour
             Defeat();
         }
     }
-
-    public void Attack(int amount)
-    {
-        
-    }
     
     public void Damage()
     {
         Damage(1);
+    }
+
+    public void Attack(int amount)
+    {
+        
     }
 
     private void Defeat()

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEditor.PackageManager;
 using UnityEngine;
 
-public class PlayerManager : ScriptableObject
+public class PlayerManager : MonoBehaviour
 {
     public List<Battler> party;
 }

@@ -7,7 +7,8 @@ public class EnemyMonster : Battler
 {
     public int goldToGive;
 
-    
+    private void Defeat()
+    {
 
-
+    }
 }
