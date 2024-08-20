@@ -14,8 +14,14 @@ public class Battler : MonoBehaviour
     public int strength;
     public int wisdom;
     public Genus genus;
-    public Image portrait;
+    public Sprite portrait;
     public Image healthBarFill;
+    public SpriteRenderer spriteRenderer;
+    
+    private void Start()
+    {
+        SetSpriteRenderer();
+    }
 
     public int AttackTotal()
     {
@@ -69,6 +75,11 @@ public class Battler : MonoBehaviour
     private void Defeat()
     {
         Debug.Log("Defeated");
+    }
+
+    private void SetSpriteRenderer()
+    {
+        spriteRenderer.sprite = portrait;
     }
 }
 
