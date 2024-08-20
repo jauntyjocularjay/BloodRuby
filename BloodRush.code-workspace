@@ -5,6 +5,7 @@
 		}
 	],
 	"settings": {
-		"dotnet.defaultSolution": "ZPGRush.sln"
+		"dotnet.defaultSolution": "ZPGRush.sln",
+		"dotnet.preferCSharpExtension": true
 	}
 }
