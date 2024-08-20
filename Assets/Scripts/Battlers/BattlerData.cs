@@ -4,10 +4,11 @@ using System.ComponentModel;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Battler : MonoBehaviour
+[CreateAssetMenu(menuName = "ScriptableObjects/BattlerData")]
+public class BattlerData : ScriptableObject
 {
     public int maxHP;
-    public int curHP;
+    private int curHP;
     public int level;
     public Attribute primaryAttribute;
     public int agility;
@@ -15,12 +16,10 @@ public class Battler : MonoBehaviour
     public int wisdom;
     public Genus genus;
     public Sprite portrait;
-    public Image healthBarFill;
-    public SpriteRenderer spriteRenderer;
     
     private void Start()
     {
-        SetSpriteRenderer();
+        curHP = maxHP;
     }
 
     public int AttackTotal()
@@ -50,22 +49,22 @@ public class Battler : MonoBehaviour
 
     }
 
-    public void Damage(int amount)
-    {
-        curHP -= amount;
-        healthBarFill.fillAmount = 
-            (float) curHP / (float) maxHP;
+    // public void Damage(int amount)
+    // {
+    //     curHP -= amount;
+    //     spot.healthBarFill.fillAmount = 
+    //         (float) curHP / (float) maxHP;
 
-        if(curHP <= 0)
-        {
-            Defeat();
-        }
-    }
+    //     if(curHP <= 0)
+    //     {
+    //         Defeat();
+    //     }
+    // }
     
-    public void Damage()
-    {
-        Damage(1);
-    }
+    // public void Damage()
+    // {
+    //     Damage(1);
+    // }
 
     public void Attack(int amount)
     {
@@ -77,13 +76,13 @@ public class Battler : MonoBehaviour
         Debug.Log("Defeated");
     }
 
-    private void SetSpriteRenderer()
-    {
-        spriteRenderer.sprite = portrait;
-    }
+    // private void SetSpriteRenderer()
+    // {
+    //     spriteRenderer.sprite = portrait;
+    // }
 }
 
-public class PlayerBattler : Battler
+public class PlayerBattler : BattlerData
 {
     public int curXP;
     public int xpToNextLevel;
@@ -131,9 +130,10 @@ public enum Genus {
     Minotaur, 
     Mouse, 
     Octo, 
-    Orb, 
+    Orb,
     Phoenix, 
     Plantee, 
+    Poltergeist,
     Raptor, 
     Scorpion, 
     Skeleton,

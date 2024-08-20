@@ -9,9 +9,9 @@ public class PartyManager : MonoBehaviour
     public BattleFormation formation;
 }
 
-public class Party : List<Battler>
+public class Party : List<BattlerData>
 {
-    public Party(List<Battler> partyMembers)
+    public Party(List<BattlerData> partyMembers)
     {
         if(partyMembers.Count > 5){
             throw new PartyOverflow();
@@ -25,12 +25,12 @@ public class Party : List<Battler>
         }
     }
 
-    public Battler GetLeader()
+    public BattlerData GetLeader()
     {
-        return (Battler) this[0];
+        return (BattlerData) this[0];
     }
 
-    public Battler GetMonster(int index)
+    public BattlerData GetMonster(int index)
     {
         if(index <= 0 || index >= this.Count)
         {
@@ -38,11 +38,23 @@ public class Party : List<Battler>
         }
         else
         {
-            return (Battler) this[index];
+            return (BattlerData) this[index];
         }
     }
 
-    public void AddSupport(Battler monster)
+    public BattlerData GetBattler(int index)
+    {
+        if(index < 0 || index > this.Count)
+        {
+            throw new MonsterPosition($"Monsters in this party are between 0 and {this.Count - 1}");
+        }
+        else
+        {
+            return this[index];
+        }
+    }
+
+    public void AddPartyMember(BattlerData monster)
     {
         if(this.Count > 5)
         {
@@ -54,6 +66,16 @@ public class Party : List<Battler>
         }
     }
 } 
+
+public enum BattleFormation
+{
+    W, // 2 forward wings, 1 mid, 2 rear
+    E, // 3 forward, 2 rear
+    M, // 2 forward, 1 mid, 2 rear wings
+    V, // 2 forward wings, 1 rear
+    invertedE, // 2 forward, 3 rear
+    invertedV // 1 forward, 2 rear wings
+}
 
 public class MonsterPosition : Exception
 {
@@ -67,12 +89,3 @@ public class PartyOverflow : Exception
     public PartyOverflow() : base("A party can contain a maximum of five monsters."){}
 }
 
-public enum BattleFormation
-{
-    W, // 2 forward wings, 1 mid, 2 rear
-    E, // 3 forward, 2 rear
-    M, // 2 forward, 1 mid, 2 rear wings
-    V, // 2 forward wings, 1 rear
-    invertedE, // 2 forward, 3 rear
-    invertedV // 1 forward, 2 rear wings
-}

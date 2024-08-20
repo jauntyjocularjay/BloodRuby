@@ -4,7 +4,11 @@ using System.Collections.Generic;
 using UnityEditor.PackageManager;
 using UnityEngine;
 
-public class PlayerManager : PartyManager
+[CreateAssetMenu(menuName = "ScriptableObjects/PlayerData")]
+public class PlayerManager : ScriptableObject
 {
+    public int XP;
+    public int xpToNextLevel;
+    public int GP;
 
 }
