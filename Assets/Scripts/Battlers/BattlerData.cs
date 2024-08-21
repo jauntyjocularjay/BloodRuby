@@ -8,7 +8,6 @@ using UnityEngine.UI;
 public class BattlerData : ScriptableObject
 {
     public int maxHP;
-    private int curHP;
     public int level;
     public Attribute primaryAttribute;
     public int agility;
@@ -19,7 +18,6 @@ public class BattlerData : ScriptableObject
     
     private void Start()
     {
-        curHP = maxHP;
     }
 
     public int AttackTotal()
@@ -98,13 +96,15 @@ public enum Genus {
     Blick, 
     Boar, 
     Cactus, 
+    Ceph,
     Crab, 
     Demon,
     Djinn, 
     Female, 
     Eagle, 
     Elemental, 
-    Elk, 
+    Elk,
+    Fungus,
     Skull, 
     Frog, 
     Fungusaur, 

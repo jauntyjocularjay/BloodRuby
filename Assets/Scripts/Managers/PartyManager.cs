@@ -34,7 +34,7 @@ public class Party : List<BattlerData>
     {
         if(index <= 0 || index >= this.Count)
         {
-            throw new MonsterPosition($"Non-leader Monsters are only located at indices between 1-{this.Count-1} inside this PlayerParty.");
+            throw new PartyIndexInvalid($"Non-leader Monsters are only located at indices between 1-{this.Count-1} inside this PlayerParty.");
         }
         else
         {
@@ -46,7 +46,7 @@ public class Party : List<BattlerData>
     {
         if(index < 0 || index > this.Count)
         {
-            throw new MonsterPosition($"Monsters in this party are between 0 and {this.Count - 1}");
+            throw new PartyIndexInvalid($"Monsters in this party are between 0 and {this.Count - 1}");
         }
         else
         {
@@ -77,11 +77,11 @@ public enum BattleFormation
     invertedV // 1 forward, 2 rear wings
 }
 
-public class MonsterPosition : Exception
+public class PartyIndexInvalid : Exception
 {
-    public MonsterPosition() : base(){}
+    public PartyIndexInvalid() : base(){}
 
-    public MonsterPosition(string message) : base(message){}
+    public PartyIndexInvalid(string message) : base(message){}
 }
 
 public class PartyOverflow : Exception
