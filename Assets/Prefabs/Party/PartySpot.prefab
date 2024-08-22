@@ -169,6 +169,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7216683886722711665}
+  - component: {fileID: 3758945679814798604}
   m_Layer: 0
   m_Name: PartySpot
   m_TagString: Untagged
@@ -193,6 +194,22 @@ Transform:
   - {fileID: 4477552131639863832}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3758945679814798604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1616783970971317861}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b661c38289bd934682978bc0f13baff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  battler: {fileID: 11400000, guid: 0f580a46b63048a45a9db88c0dcea532, type: 2}
+  spriteRenderer: {fileID: 5777320034899926764}
+  spriteRendererShadow: {fileID: 971663218997766115}
+  healthBarFill: {fileID: 3423874913089248520}
 --- !u!1 &5169504322851312208
 GameObject:
   m_ObjectHideFlags: 0
@@ -278,8 +295,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6524696819534333683}
+  - component: {fileID: 971663218997766115}
   m_Layer: 0
-  m_Name: Outline
+  m_Name: Shadow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -300,3 +318,55 @@ Transform:
   m_Children: []
   m_Father: {fileID: 6222621517642133622}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &971663218997766115
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6785689639447926325}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 0
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0

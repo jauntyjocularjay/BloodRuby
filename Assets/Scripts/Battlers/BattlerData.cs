@@ -12,21 +12,26 @@ public class BattlerData : ScriptableObject
     public int maxHP;
     public int level;
     public Attribute primaryAttribute;
-    public int agility;
-    public int strength;
-    public int wisdom;
+    public int agility; // Min: 0, Max: 36
+    public int strength; // Min: 0, Max: 36
+    public int wisdom; // Min: 0, Max: 36
     public Genus genus;
     public Sprite portrait;
+    public SpriteRenderer spriteRenderer;
     
     private void Start()
     {
-        int a = UnityEngine.Random.Range(0,3);
-    }
-
-    public int AttackTotal()
-    {
-        int primaryAttribute =  GetPrimaryAttribute();        
-        return primaryAttribute * level / (primaryAttribute + level);
+        if(
+            agility > 36 || 
+            agility <= 0 || 
+            strength > 36 || 
+            strength <= 0 || 
+            wisdom > 36 || 
+            wisdom <= 0
+        )
+        {
+            throw new InvalidAttributeIntegerException();
+        }
     }
 
     private int GetPrimaryAttribute()
@@ -39,47 +44,55 @@ public class BattlerData : ScriptableObject
         {
             return strength;
         }
-        else if(primaryAttribute == Attribute.Wisdom)
+        else //(primaryAttribute == Attribute.Wisdom)
         {
             return wisdom;
         }
-        else
+    }
+
+    private int GetAttribute(Attribute attr)
+    {
+        if(attr == Attribute.Agility)
         {
-            throw new InvalidEnumArgumentException("The selected attribute is not an option.");
+            return agility;
         }
-
+        else if (attr == Attribute.Strength)
+        {
+            return strength;
+        }
+        else if (attr == Attribute.Wisdom)
+        {
+            return wisdom;
+        }
+        else // throw new InvalidEnumArgumentException
+        {
+            throw new InvalidEnumArgumentException($"Defender does not have the attribute: {attr}"); 
+        }
     }
 
-    // public void Damage(int amount)
-    // {
-    //     curHP -= amount;
-    //     spot.healthBarFill.fillAmount = 
-    //         (float) curHP / (float) maxHP;
-
-    //     if(curHP <= 0)
-    //     {
-    //         Defeat();
-    //     }
-    // }
-    
-    // public void Damage()
-    // {
-    //     Damage(1);
-    // }
-
-    public int Attack()
+    public int AttackDamage()
     {
-        int damage;
-        int attribute = GetPrimaryAttribute();
+        double damage;
+        double attribute = (double) GetPrimaryAttribute() / 6;
+        double lvl = level;
 
-        damage = (int) Math.Pow((double) attribute, (double) level) / level;
+        damage = attribute * lvl * Math.Log(attribute * lvl);
 
-        return damage;
+        return (int) damage;
     }
 
-    public void Defend()
+    public int Defend(Attribute enemyPrimaryAttribute, int EnemyAttackDamage)
     {
+        double result;
+        double incomingDamage = EnemyAttackDamage;
+        double lvl = level;
 
+        result = 
+            incomingDamage * (
+                (double) 36 - GetAttribute(enemyPrimaryAttribute) / 36
+            );
+
+        return (int) result;
     }
 
     private void Defeat()
@@ -87,10 +100,6 @@ public class BattlerData : ScriptableObject
         Debug.Log("Defeated");
     }
 
-    // private void SetSpriteRenderer()
-    // {
-    //     spriteRenderer.sprite = portrait;
-    // }
 }
 
 public class PlayerBattler : BattlerData
@@ -100,7 +109,12 @@ public class PlayerBattler : BattlerData
     public string alias;
 
 }
-
+public class InvalidAttributeIntegerException : Exception
+{
+    public InvalidAttributeIntegerException() : 
+        base("Attribute must be an integer [1-36] inclusive")
+    {}
+}
 public enum Genus {
     Bat, 
     Beholder, 

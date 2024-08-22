@@ -10,12 +10,13 @@ public class PartySpot : MonoBehaviour
     public SpriteRenderer spriteRendererShadow;
     public Image healthBarFill;
 
-    void Start()
+    private void Start()
     {
-        spriteRenderer.sprite = battler.portrait;
-        spriteRendererShadow.sprite = battler.portrait;
+        spriteRenderer.sprite = 
+            battler.portrait;
+        spriteRendererShadow.sprite = 
+            battler.portrait;
     }
-
 
 
 }
