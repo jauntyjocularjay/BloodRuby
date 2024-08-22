@@ -1,6 +1,8 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
+using Unity.VisualScripting.Dependencies.Sqlite;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -18,6 +20,7 @@ public class BattlerData : ScriptableObject
     
     private void Start()
     {
+        int a = UnityEngine.Random.Range(0,3);
     }
 
     public int AttackTotal()
@@ -64,9 +67,19 @@ public class BattlerData : ScriptableObject
     //     Damage(1);
     // }
 
-    public void Attack(int amount)
+    public int Attack()
     {
-        
+        int damage;
+        int attribute = GetPrimaryAttribute();
+
+        damage = (int) Math.Pow((double) attribute, (double) level) / level;
+
+        return damage;
+    }
+
+    public void Defend()
+    {
+
     }
 
     private void Defeat()
