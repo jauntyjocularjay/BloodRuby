@@ -12,13 +12,9 @@ public class PartySpot : MonoBehaviour
 
     private void Start()
     {
-        SpriteRenderer _mSpriteRenderer = spriteRenderer.GetComponent<SpriteRenderer>();
-        SpriteRenderer _mSpriteRendererShadow = shadowRenderer.GetComponent<SpriteRenderer>();
 
-        _mSpriteRenderer.sprite = 
-            battler.portrait;
-        _mSpriteRendererShadow.sprite = 
-            battler.portrait;
+        spriteRenderer.sprite = battler.portrait;
+        shadowRenderer.sprite = battler.portrait;
 
     }
 
