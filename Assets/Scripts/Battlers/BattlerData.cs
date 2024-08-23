@@ -17,7 +17,6 @@ public class BattlerData : ScriptableObject
     public int wisdom; // Min: 0, Max: 36
     public Genus genus;
     public Sprite portrait;
-    public SpriteRenderer spriteRenderer;
     
     private void Start()
     {

@@ -462,6 +462,32 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
+--- !u!1 &598793275 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8638842235887282487, guid: e8008a975b142c64e94566ac4c729fe9, type: 3}
+  m_PrefabInstance: {fileID: 8254354854531355898}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &598793278
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 598793275}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: eb87f1e6c2788bf4c9ee533bad863d6f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!4 &832093072 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2010912693582552819, guid: e8008a975b142c64e94566ac4c729fe9, type: 3}
@@ -475,6 +501,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1235550}
     m_Modifications:
+    - target: {fileID: 143500030362951340, guid: e8008a975b142c64e94566ac4c729fe9, type: 3}
+      propertyPath: m_SortingLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 143500030362951340, guid: e8008a975b142c64e94566ac4c729fe9, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 551820607
+      objectReference: {fileID: 0}
     - target: {fileID: 2010912693582552819, guid: e8008a975b142c64e94566ac4c729fe9, type: 3}
       propertyPath: m_LocalPosition.x
       value: -958.6132
@@ -527,6 +561,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 64
       objectReference: {fileID: 0}
+    - target: {fileID: 6040559659076577360, guid: e8008a975b142c64e94566ac4c729fe9, type: 3}
+      propertyPath: battler
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 7907821719936554797, guid: e8008a975b142c64e94566ac4c729fe9, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -538,7 +576,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8638842235887282487, guid: e8008a975b142c64e94566ac4c729fe9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 598793278}
   m_SourcePrefab: {fileID: 100100000, guid: e8008a975b142c64e94566ac4c729fe9, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
