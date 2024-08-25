@@ -10,71 +10,44 @@ using UnityEngine.UI;
 public class BattlerData : ScriptableObject
 {
     public int maxHP;
-    public int level;
+    public FractionScale HP;
+    private int level;
     public Attribute primaryAttribute;
     public int agi;
     public int str;
     public int wis;
-    private FractionScale agility = new (0,36); // Min: 0, Max: 36
-    private FractionScale strength = new (0,36); // Min: 0, Max: 36
-    private FractionScale wisdom = new (0,36); // Min: 0, Max: 36
+    private readonly AttributeScale agility = new(0);
+    private readonly AttributeScale strength = new(0);
+    private readonly AttributeScale wisdom = new(0);
     public Genus genus;
     public Sprite portrait;
     
     private void Start()
     {
-        if(
-            agility.GetNumerator() > 36 || 
-            agility.GetNumerator() < 0 || 
-            strength.GetNumerator() > 36 || 
-            strength.GetNumerator() < 0 || 
-            wisdom.GetNumerator() > 36 || 
-            wisdom.GetNumerator() < 0
-        )
-        {
-            throw new InvalidAttributeIntegerException();
-        }
-
         agility.SetNumerator(agi);
-
+        strength.SetNumerator(str);
+        wisdom.SetNumerator(wis);
+        HP = new (maxHP);
+        level = 1;
     }
-
-    private int GetPrimaryAttribute()
+    private void LevelUp()
     {
-        if(primaryAttribute == Attribute.Agility)
-        {
-            return agility.GetNumerator();
-        }
-        else if(primaryAttribute == Attribute.Strength)
-        {
-            return strength.GetNumerator();
-        }
-        else //(primaryAttribute == Attribute.Wisdom)
-        {
-            return wisdom.GetNumerator();
-        }
+        level++;
     }
-
     private int GetAttribute(Attribute attr)
     {
-        if(attr == Attribute.Agility)
+        return attr switch
         {
-            return agility.GetNumerator();
-        }
-        else if (attr == Attribute.Strength)
-        {
-            return strength.GetNumerator();
-        }
-        else if (attr == Attribute.Wisdom)
-        {
-            return wisdom.GetNumerator();
-        }
-        else // throw new InvalidEnumArgumentException
-        {
-            throw new InvalidEnumArgumentException($"Defender does not have the attribute: {attr}"); 
-        }
+            Attribute.Agility => agility.Get(),
+            Attribute.Strength => strength.Get(),
+            Attribute.Wisdom => wisdom.Get(),
+            _ => throw new InvalidAttributeException()
+        };
     }
-
+    private int GetPrimaryAttribute()
+    {
+        return GetAttribute(primaryAttribute);    
+    }
     public int AttackDamage()
     {
         double damage;
@@ -85,7 +58,6 @@ public class BattlerData : ScriptableObject
 
         return (int) damage;
     }
-
     public int Defend(Attribute enemyPrimaryAttribute, int EnemyAttackDamage)
     {
         double result;
@@ -99,7 +71,6 @@ public class BattlerData : ScriptableObject
 
         return (int) result;
     }
-
     private void Defeat()
     {
         Debug.Log("Defeated");
@@ -107,18 +78,6 @@ public class BattlerData : ScriptableObject
 
 }
 
-public class PlayerBattler : BattlerData
-{
-    public int curXP;
-    public int xpToNextLevel;
-    public string alias;
-
-}
-public class InvalidAttributeIntegerException : Exception
-{
-    public InvalidAttributeIntegerException() : 
-        base("Attribute must be an integer [0-36] inclusive"){}
-}
 public enum Genus {
     Bat, 
     Beholder, 
@@ -184,9 +143,32 @@ public enum Genus {
     Wraith, 
     Zombie
 }
-
 public enum Attribute {
     Agility,
     Strength,
     Wisdom
+}
+public class PlayerBattler : BattlerData
+{
+    public int curXP;
+    public int xpToNextLevel;
+    public string alias;
+
+}
+public class InvalidAttributeIntegerException : Exception
+{
+    public InvalidAttributeIntegerException() : 
+        base("Attribute must be an integer [0-36] inclusive"){}
+}
+public class InvalidAttributeException : Exception
+{
+    public InvalidAttributeException() : base() {}
+    public InvalidAttributeException(Attribute attr) :
+        base($"The attribute {attr} is invalid.") {}
+}
+public class AttributeScale : FractionScale
+{
+    public AttributeScale(int n) :
+        base(n, 36){}
+
 }
