@@ -15,8 +15,8 @@ MonoBehaviour:
   maxHP: 0
   level: 0
   primaryAttribute: 1
-  agility: 0
-  strength: 0
-  wisdom: 0
-  genus: 35
+  agi: 2
+  str: 6
+  wis: 1
+  genus: 44
   portrait: {fileID: 21300000, guid: d25bcdff346d85d4383ba17c094ee8fa, type: 3}

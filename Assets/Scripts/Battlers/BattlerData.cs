@@ -12,40 +12,46 @@ public class BattlerData : ScriptableObject
     public int maxHP;
     public int level;
     public Attribute primaryAttribute;
-    public int agility; // Min: 0, Max: 36
-    public int strength; // Min: 0, Max: 36
-    public int wisdom; // Min: 0, Max: 36
+    public int agi;
+    public int str;
+    public int wis;
+    private FractionScale agility = new (0,36); // Min: 0, Max: 36
+    private FractionScale strength = new (0,36); // Min: 0, Max: 36
+    private FractionScale wisdom = new (0,36); // Min: 0, Max: 36
     public Genus genus;
     public Sprite portrait;
     
     private void Start()
     {
         if(
-            agility > 36 || 
-            agility <= 0 || 
-            strength > 36 || 
-            strength <= 0 || 
-            wisdom > 36 || 
-            wisdom <= 0
+            agility.GetNumerator() > 36 || 
+            agility.GetNumerator() < 0 || 
+            strength.GetNumerator() > 36 || 
+            strength.GetNumerator() < 0 || 
+            wisdom.GetNumerator() > 36 || 
+            wisdom.GetNumerator() < 0
         )
         {
             throw new InvalidAttributeIntegerException();
         }
+
+        agility.SetNumerator(agi);
+
     }
 
     private int GetPrimaryAttribute()
     {
         if(primaryAttribute == Attribute.Agility)
         {
-            return agility;
+            return agility.GetNumerator();
         }
         else if(primaryAttribute == Attribute.Strength)
         {
-            return strength;
+            return strength.GetNumerator();
         }
         else //(primaryAttribute == Attribute.Wisdom)
         {
-            return wisdom;
+            return wisdom.GetNumerator();
         }
     }
 
@@ -53,15 +59,15 @@ public class BattlerData : ScriptableObject
     {
         if(attr == Attribute.Agility)
         {
-            return agility;
+            return agility.GetNumerator();
         }
         else if (attr == Attribute.Strength)
         {
-            return strength;
+            return strength.GetNumerator();
         }
         else if (attr == Attribute.Wisdom)
         {
-            return wisdom;
+            return wisdom.GetNumerator();
         }
         else // throw new InvalidEnumArgumentException
         {
@@ -111,8 +117,7 @@ public class PlayerBattler : BattlerData
 public class InvalidAttributeIntegerException : Exception
 {
     public InvalidAttributeIntegerException() : 
-        base("Attribute must be an integer [1-36] inclusive")
-    {}
+        base("Attribute must be an integer [0-36] inclusive"){}
 }
 public enum Genus {
     Bat, 
