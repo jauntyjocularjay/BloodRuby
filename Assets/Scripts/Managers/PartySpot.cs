@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.Animations;
 using UnityEngine;
+using UnityEngine.Animations;
 using UnityEngine.UI;
 
 public class PartySpot : MonoBehaviour
@@ -11,8 +13,6 @@ public class PartySpot : MonoBehaviour
     public Image healthBarFill;
     public Animator portraitAnimator;
     public Animator shadowAnimator;
-    private bool attack = false;
-    private bool hit = false;
     private float interval = 1000.0f;
     private float time_1;
 
@@ -22,23 +22,21 @@ public class PartySpot : MonoBehaviour
         portrait.GetComponent<Image>().sprite = battler.portrait;
         shadow.GetComponent<Image>().sprite = battler.portrait;
         time_1 = Time.time;
+        portraitAnimator.GetComponent<AnimatorControllerPlayable>();
+        shadowAnimator.GetComponent<AnimatorController>();
     }
 
     private void FixedUpdate()
     {
-
-        if(attack)
-        {
-            AttackAnimation();
-        }
-        else if (hit)
-        {
-            HitAnimation();
-        }
-        else
-        {
-            IdleAnimation();
-        }
+        portraitAnimator.SetTrigger("hit");
+        portraitAnimator.ResetTrigger("hit");
+        shadowAnimator.SetTrigger("hit");
+        shadowAnimator.ResetTrigger("hit");
+        portraitAnimator.SetTrigger("attack");
+        portraitAnimator.ResetTrigger("attack");
+        shadowAnimator.SetTrigger("attack");
+        shadowAnimator.ResetTrigger("attack");
+        
     }
 
     private void AttackAnimation()
