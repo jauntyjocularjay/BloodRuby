@@ -6,7 +6,7 @@ using Unity.VisualScripting.Dependencies.Sqlite;
 using UnityEngine;
 using UnityEngine.UI;
 
-[CreateAssetMenu(menuName = "ScriptableObjects/BattlerData")]
+[CreateAssetMenu(menuName = "ScriptableObjects/Battler")]
 public class BattlerData : ScriptableObject
 {
     public int maxHP;
@@ -77,7 +77,13 @@ public class BattlerData : ScriptableObject
     }
 
 }
-
+[CreateAssetMenu(menuName = "ScriptableObjects/PlayerBattler")]
+public class PlayerBattler : BattlerData
+{
+    public int curXP;
+    public int xpToNextLevel;
+    public string alias;
+}
 public enum Genus {
     Bat, 
     Beholder, 
@@ -147,18 +153,6 @@ public enum Attribute {
     Agility,
     Strength,
     Wisdom
-}
-public class PlayerBattler : BattlerData
-{
-    public int curXP;
-    public int xpToNextLevel;
-    public string alias;
-
-}
-public class InvalidAttributeIntegerException : Exception
-{
-    public InvalidAttributeIntegerException() : 
-        base("Attribute must be an integer [0-36] inclusive"){}
 }
 public class InvalidAttributeException : Exception
 {
