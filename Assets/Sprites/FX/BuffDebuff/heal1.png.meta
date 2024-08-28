@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c66aa7cb7ba3a0441bce38702d6d9189
+guid: 1f726552d7a29c54aad6d4a0a12ce3d3
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,13 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: P4 05_0
+      name: heal1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 64
-        height: 64
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,20 +111,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e3847e996fc6af458446093a0315f1d
-      internalID: -773391677
+      spriteID: 97e4f153cd2d7bb4da65d8bd0ccf92e1
+      internalID: -661984088
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P4 05_1
+      name: heal1_1
       rect:
         serializedVersion: 2
-        x: 64
+        x: 48
         y: 0
-        width: 64
-        height: 64
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,20 +132,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62771efc23e062143a4ccc2d4c2f415e
-      internalID: 1521209095
+      spriteID: 3a98cad7d8b00fc4ab17b38287b65012
+      internalID: 1202544736
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P4 05_2
+      name: heal1_2
       rect:
         serializedVersion: 2
-        x: 128
+        x: 96
         y: 0
-        width: 64
-        height: 64
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,20 +153,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 974ccbb4eb8babc48b4ee1a5895011ee
-      internalID: -1266742749
+      spriteID: ec3c65573da60ac48b8baae07b66c946
+      internalID: -796854350
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P4 05_3
+      name: heal1_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd8c8b3d5a96f1469f2312f7e31564b
+      internalID: 1398605777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal1_4
       rect:
         serializedVersion: 2
         x: 192
         y: 0
-        width: 64
-        height: 64
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,20 +195,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2101410e4591be44386dd8737e4a1952
-      internalID: 455476102
+      spriteID: 17d42370d46e5524db2251b16fb6a12b
+      internalID: -1545012513
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P4 05_4
+      name: heal1_5
       rect:
         serializedVersion: 2
-        x: 256
+        x: 240
         y: 0
-        width: 64
-        height: 64
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,20 +216,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 632c5e1602d5c8444be31e6fa76fc92c
-      internalID: 156927344
+      spriteID: 264d48a1f2e5f184cbf0e7a400c3d87f
+      internalID: -655515767
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P4 05_5
+      name: heal1_6
       rect:
         serializedVersion: 2
-        x: 320
+        x: 288
         y: 0
-        width: 64
-        height: 64
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,20 +237,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8838ceedcd7205a4baaa6d77ca0e0c95
-      internalID: -1410415633
+      spriteID: 5d099ab4c0cea7545aa43e3bfbf7e165
+      internalID: -1318348205
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P4 05_6
+      name: heal1_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed3b15ccf5ec2f4c8a250fbe5180b5c
+      internalID: 1188093014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal1_8
       rect:
         serializedVersion: 2
         x: 384
         y: 0
-        width: 64
-        height: 64
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,20 +279,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d584054871067f46805ad02501bc46f
-      internalID: 1366272205
+      spriteID: 3de866074d56b4a4dacb47b785c0e608
+      internalID: -280176646
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P4 05_7
+      name: heal1_9
       rect:
         serializedVersion: 2
-        x: 448
+        x: 432
         y: 0
-        width: 64
-        height: 64
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,20 +300,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95ef0ff475e89964584b974c42aac3b3
-      internalID: -235829689
+      spriteID: 610a6cd3f6e2a604c875d615cefda739
+      internalID: -494108271
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P4 05_8
+      name: heal1_10
       rect:
         serializedVersion: 2
-        x: 512
+        x: 480
         y: 0
-        width: 64
-        height: 64
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,20 +321,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c04b39e3d4d11b04bb323315b459301a
-      internalID: -79231963
+      spriteID: b259b8317efed9245acf711f3edc72d2
+      internalID: -1536417078
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P4 05_9
+      name: heal1_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc7c888e2828264b80f5bb14541eba4
+      internalID: -2006623264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal1_12
       rect:
         serializedVersion: 2
         x: 576
         y: 0
-        width: 64
-        height: 64
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,20 +363,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2e819521d3c44d4b87ee1e8f68cd28a
-      internalID: -1362131517
+      spriteID: b81e9990d3c246048a9915105eb56867
+      internalID: -1738496033
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P4 05_10
+      name: heal1_13
       rect:
         serializedVersion: 2
-        x: 640
+        x: 624
         y: 0
-        width: 64
-        height: 64
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,20 +384,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 01a245583575f714dbe74c58493d6c82
-      internalID: 2120041286
+      spriteID: ad7d6c4e2ef9bff46aee28feaf5933b2
+      internalID: -1192084124
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P4 05_11
+      name: heal1_14
       rect:
         serializedVersion: 2
-        x: 704
+        x: 672
         y: 0
-        width: 64
-        height: 64
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -342,20 +405,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4085fba98da1e044ab59b88fb80720a9
-      internalID: -735117307
+      spriteID: fdd86626e8a2ea845a901d4c437d8da3
+      internalID: 17832408
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P4 05_12
+      name: heal1_15
       rect:
         serializedVersion: 2
-        x: 768
+        x: 720
         y: 0
-        width: 64
-        height: 64
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -363,50 +426,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74a3ad48ed3bcdb42bb0a48023400b2f
-      internalID: -86781403
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P4 05_13
-      rect:
-        serializedVersion: 2
-        x: 832
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9d7ed96d8f10410478980932092167de
-      internalID: -77381290
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P4 05_14
-      rect:
-        serializedVersion: 2
-        x: 896
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7886a94d2944d8e40bcf4b911cf30501
-      internalID: -844948480
+      spriteID: b9099a860d4c9a54babe060f85bbaaab
+      internalID: 120088592
       vertices: []
       indices: 
       edges: []
@@ -422,21 +443,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      P4 05_0: -773391677
-      P4 05_1: 1521209095
-      P4 05_10: 2120041286
-      P4 05_11: -735117307
-      P4 05_12: -86781403
-      P4 05_13: -77381290
-      P4 05_14: -844948480
-      P4 05_2: -1266742749
-      P4 05_3: 455476102
-      P4 05_4: 156927344
-      P4 05_5: -1410415633
-      P4 05_6: 1366272205
-      P4 05_7: -235829689
-      P4 05_8: -79231963
-      P4 05_9: -1362131517
+      heal1_0: -661984088
+      heal1_1: 1202544736
+      heal1_10: -1536417078
+      heal1_11: -2006623264
+      heal1_12: -1738496033
+      heal1_13: -1192084124
+      heal1_14: 17832408
+      heal1_15: 120088592
+      heal1_2: -796854350
+      heal1_3: 1398605777
+      heal1_4: -1545012513
+      heal1_5: -655515767
+      heal1_6: -1318348205
+      heal1_7: 1188093014
+      heal1_8: -280176646
+      heal1_9: -494108271
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

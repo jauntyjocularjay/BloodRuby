@@ -10,6 +10,8 @@ public class PartySpot : MonoBehaviour
     public Image shadow;
     public Image healthBarFill;
     public Animator animator;
+    public Image overlayImage;
+    public OverlayManager overlayManager;
     private float interval = 3.0f;
     private float time_1;
     private float time_2;

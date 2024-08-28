@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 67c9ff4ae7dfb094b803ba90e6026640
+guid: c66aa7cb7ba3a0441bce38702d6d9189
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,13 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: P9 14 HP_0
+      name: heal2_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 24
-        height: 24
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,20 +111,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9bc43f58f9ce684c92cfe0874e8166a
-      internalID: -1335953412
+      spriteID: 1d9036c41a9d0254b857bbdfc461a928
+      internalID: -1338990953
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 14 HP_1
+      name: heal2_1
       rect:
         serializedVersion: 2
-        x: 24
+        x: 64
         y: 0
-        width: 24
-        height: 24
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,20 +132,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a232d87d6dd2d8a44985073faa25fcef
-      internalID: 65685914
+      spriteID: bdc6672a2d9679e40b7aa9939a4c6dc4
+      internalID: 1705864748
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 14 HP_2
+      name: heal2_2
       rect:
         serializedVersion: 2
-        x: 48
+        x: 128
         y: 0
-        width: 24
-        height: 24
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,125 +153,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d34e9b4c6ab807744ad2084c2acb8b48
-      internalID: 38563337
+      spriteID: 92d6b57ee8971ec48ab1ca4ff2dab7c7
+      internalID: 783547556
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 14 HP_3
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 0
-        width: 24
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 64eca62352ab236449418e44b021b871
-      internalID: -323280652
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P9 14 HP_4
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 24
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f2052a6a2bfd13246bf401fae5ac7c3b
-      internalID: 3254257
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P9 14 HP_5
-      rect:
-        serializedVersion: 2
-        x: 120
-        y: 0
-        width: 24
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 18114767d9fc39b4ca32333e58d0ca9d
-      internalID: -158855863
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P9 14 HP_6
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 0
-        width: 24
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 984e57d1f2a97f045968ba7972f81b56
-      internalID: -816754948
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P9 14 HP_7
-      rect:
-        serializedVersion: 2
-        x: 168
-        y: 0
-        width: 24
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 43f6a0244183711479ad3d563371c1e7
-      internalID: 1994389384
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P9 14 HP_8
+      name: heal2_3
       rect:
         serializedVersion: 2
         x: 192
         y: 0
-        width: 24
-        height: 24
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,20 +174,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65ae5e38f9ae17840b548ff1437e17c7
-      internalID: -1672510867
+      spriteID: 63a12ecaa7ab21c40afc9539027cc49a
+      internalID: 801107044
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 14 HP_9
+      name: heal2_4
       rect:
         serializedVersion: 2
-        x: 216
+        x: 256
         y: 0
-        width: 24
-        height: 24
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,20 +195,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4bb9b6e71fc63bf48adc08c0f6343fa4
-      internalID: -827564982
+      spriteID: 3e211efa33366e14c83bdb019a3b3111
+      internalID: -1371525215
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 14 HP_10
+      name: heal2_5
       rect:
         serializedVersion: 2
-        x: 240
+        x: 320
         y: 0
-        width: 24
-        height: 24
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,20 +216,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bfaefd92d4c458a4db6bf1ca5b12cf03
-      internalID: 535833662
+      spriteID: dd37de738b7e4e742a7dc818fa257a95
+      internalID: 1869225548
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 14 HP_11
+      name: heal2_6
       rect:
         serializedVersion: 2
-        x: 264
+        x: 384
         y: 0
-        width: 24
-        height: 24
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -342,8 +237,176 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19bbdd6a16451cd4eb5587062d5a9972
-      internalID: -1710674600
+      spriteID: b777b802d6ccf0c49b30988a6b0d8285
+      internalID: 1417514689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal2_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01296d5c0c3c1024bb1b170ce90ac65b
+      internalID: 892225905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal2_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d51b02b98f898348b9cb0f2a2fb9e63
+      internalID: 329456638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal2_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22e0672787b8284b9eca3693121c2aa
+      internalID: 1164944848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal2_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06175d7ef17ff34d8d708f18d537861
+      internalID: -527611821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal2_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277d424cb9f16c5438d408ec511ab133
+      internalID: -675062893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal2_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4613a496edfd5d245ace0d311fb2819a
+      internalID: 1937544650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal2_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58f7808ce8a45e47bdd061436444a02
+      internalID: -2020848691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal2_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280e3d448d906a04db2fd83a08be2dcd
+      internalID: 1464017339
       vertices: []
       indices: 
       edges: []
@@ -359,18 +422,21 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      P9 14 HP_0: -1335953412
-      P9 14 HP_1: 65685914
-      P9 14 HP_10: 535833662
-      P9 14 HP_11: -1710674600
-      P9 14 HP_2: 38563337
-      P9 14 HP_3: -323280652
-      P9 14 HP_4: 3254257
-      P9 14 HP_5: -158855863
-      P9 14 HP_6: -816754948
-      P9 14 HP_7: 1994389384
-      P9 14 HP_8: -1672510867
-      P9 14 HP_9: -827564982
+      heal2_0: -1338990953
+      heal2_1: 1705864748
+      heal2_10: -527611821
+      heal2_11: -675062893
+      heal2_12: 1937544650
+      heal2_13: -2020848691
+      heal2_14: 1464017339
+      heal2_2: 783547556
+      heal2_3: 801107044
+      heal2_4: -1371525215
+      heal2_5: 1869225548
+      heal2_6: 1417514689
+      heal2_7: 892225905
+      heal2_8: 329456638
+      heal2_9: 1164944848
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
