@@ -638,6 +638,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 5938806473028516883, guid: e8008a975b142c64e94566ac4c729fe9, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 6346005587000824252, guid: e8008a975b142c64e94566ac4c729fe9, type: 3}
       propertyPath: battler
       value: 
