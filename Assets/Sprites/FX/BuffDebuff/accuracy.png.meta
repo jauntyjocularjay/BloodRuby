@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: P5 05_0
+      name: accuracy_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39ab9f96418fe884db43504014788b44
-      internalID: -1227088333
+      spriteID: 0c5ee7a585fc469449b9e2f067b86020
+      internalID: 749569098
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P5 05_1
+      name: accuracy_1
       rect:
         serializedVersion: 2
         x: 64
@@ -132,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec2b654bf98938a4dbbd6151329a8982
-      internalID: 1920993771
+      spriteID: b1cce16a7b36fad44a29f1bde7d91286
+      internalID: -172704894
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P5 05_2
+      name: accuracy_2
       rect:
         serializedVersion: 2
         x: 128
@@ -153,14 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ecfda13fc8711943b13bd2245c1f9e4
-      internalID: -854030574
+      spriteID: 63fc041f37eb3bd4f9938ca570bf8004
+      internalID: -338413063
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P5 05_3
+      name: accuracy_3
       rect:
         serializedVersion: 2
         x: 192
@@ -174,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0cc281035cb9e3e4ab5d59e2ff0822b0
-      internalID: 1515853376
+      spriteID: 70266170a82bc6c4f980c512058fdc33
+      internalID: 1476944458
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P5 05_4
+      name: accuracy_4
       rect:
         serializedVersion: 2
         x: 256
@@ -195,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d36118a5d852f4468745134a85d3c95
-      internalID: 1133858886
+      spriteID: a6d8811286b40334facb9eb7033c91de
+      internalID: 341570041
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P5 05_5
+      name: accuracy_5
       rect:
         serializedVersion: 2
         x: 320
@@ -216,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce5b2ec541bc2b14b9cddf1043344a26
-      internalID: -1054091389
+      spriteID: b55538964ef71d04eb27cd1bf5a1a0ac
+      internalID: 395743826
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P5 05_6
+      name: accuracy_6
       rect:
         serializedVersion: 2
         x: 384
@@ -237,14 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9742377139ff4124f9017ba16a885ff1
-      internalID: -1183178101
+      spriteID: 75f71a548c0e25448b5ba69448692f39
+      internalID: 814651383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P5 05_7
+      name: accuracy_7
       rect:
         serializedVersion: 2
         x: 448
@@ -258,14 +258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e2e338dce88f4641b0bb0dd573fcba4
-      internalID: -445129772
+      spriteID: 14cf7ca86e0bbb440bb45a71734c6b87
+      internalID: -1357094620
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P5 05_8
+      name: accuracy_8
       rect:
         serializedVersion: 2
         x: 512
@@ -279,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3d6ed78b9206244aa4d72ef580e4109
-      internalID: 1224553746
+      spriteID: cdb209b212763be44b7527fdafb0c3c7
+      internalID: 626476163
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P5 05_9
+      name: accuracy_9
       rect:
         serializedVersion: 2
         x: 576
@@ -300,14 +300,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8bfd0241d3703494b8c8c0d4c8b68901
-      internalID: 1997708206
+      spriteID: 2452bb3e27c6d6547abf19d1cd05ff90
+      internalID: 1741159871
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P5 05_10
+      name: accuracy_10
       rect:
         serializedVersion: 2
         x: 640
@@ -321,14 +321,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e057f939935f72b41be390988dd787bf
-      internalID: 1989889810
+      spriteID: 3ea965b32abf1ec4fa0634687cd5def3
+      internalID: -2001968847
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P5 05_11
+      name: accuracy_11
       rect:
         serializedVersion: 2
         x: 704
@@ -342,14 +342,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f0e6dbede38b0646bd48b102663bd6b
-      internalID: 1735427361
+      spriteID: 87e3f8fa389f8274cb71a00466624ae4
+      internalID: 1068285025
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P5 05_12
+      name: accuracy_12
       rect:
         serializedVersion: 2
         x: 768
@@ -363,14 +363,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d748d3247bc14a346841f7bd65273c14
-      internalID: 1979938182
+      spriteID: e0c8342707fbc444d90c96a93d00dd96
+      internalID: 546043940
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P5 05_13
+      name: accuracy_13
       rect:
         serializedVersion: 2
         x: 832
@@ -384,8 +384,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee7fc2e5b15146443ac6bb0f158b39c7
-      internalID: -1854951597
+      spriteID: 0bb4c488036f59a4e99cfe65f0efce2a
+      internalID: -1200659767
       vertices: []
       indices: 
       edges: []
@@ -401,20 +401,20 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      P5 05_0: -1227088333
-      P5 05_1: 1920993771
-      P5 05_10: 1989889810
-      P5 05_11: 1735427361
-      P5 05_12: 1979938182
-      P5 05_13: -1854951597
-      P5 05_2: -854030574
-      P5 05_3: 1515853376
-      P5 05_4: 1133858886
-      P5 05_5: -1054091389
-      P5 05_6: -1183178101
-      P5 05_7: -445129772
-      P5 05_8: 1224553746
-      P5 05_9: 1997708206
+      accuracy_0: 749569098
+      accuracy_1: -172704894
+      accuracy_10: -2001968847
+      accuracy_11: 1068285025
+      accuracy_12: 546043940
+      accuracy_13: -1200659767
+      accuracy_2: -338413063
+      accuracy_3: 1476944458
+      accuracy_4: 341570041
+      accuracy_5: 395743826
+      accuracy_6: 814651383
+      accuracy_7: -1357094620
+      accuracy_8: 626476163
+      accuracy_9: 1741159871
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

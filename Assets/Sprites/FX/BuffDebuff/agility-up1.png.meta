@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: P2 04_0
+      name: agility-up1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05024938ebc531048970164917e65eea
-      internalID: 1319261319
+      spriteID: 44fd0ab7c69a6184f8d8918f02a261f2
+      internalID: 1900228843
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P2 04_1
+      name: agility-up1_1
       rect:
         serializedVersion: 2
         x: 48
@@ -132,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e46a4846498b8b4b9330edac4c6bae2
-      internalID: -102050030
+      spriteID: 5295da4617e7e814a9e9c3deade0fa59
+      internalID: 1560055320
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P2 04_2
+      name: agility-up1_2
       rect:
         serializedVersion: 2
         x: 96
@@ -153,14 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 90c10a17316beb34b88ec01906918552
-      internalID: 1640555777
+      spriteID: bbe04b242cd96ba41b7ba18a8b598d60
+      internalID: 287571120
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P2 04_3
+      name: agility-up1_3
       rect:
         serializedVersion: 2
         x: 144
@@ -174,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d50ba039d68c234f911506cb8ec576b
-      internalID: 1845893532
+      spriteID: 550852853043f5845bc5839fb8f2cc07
+      internalID: 940417944
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P2 04_4
+      name: agility-up1_4
       rect:
         serializedVersion: 2
         x: 192
@@ -195,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bdda43aa1404a754298ed588ad07f310
-      internalID: 100643870
+      spriteID: 7c2cbe0008ee5184d8d6d199e23e72cb
+      internalID: -217059324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P2 04_5
+      name: agility-up1_5
       rect:
         serializedVersion: 2
         x: 240
@@ -216,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 388b8790d76e4d5489022aa81998e33e
-      internalID: -993738221
+      spriteID: e496f1f3c14e76e4986f417510e04e7f
+      internalID: 664868078
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P2 04_6
+      name: agility-up1_6
       rect:
         serializedVersion: 2
         x: 288
@@ -237,14 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08cfb550a2be27346bdb3b417beda067
-      internalID: 2050728627
+      spriteID: 1a8c2de6042d9584a98e937cc69b9192
+      internalID: 660949531
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P2 04_7
+      name: agility-up1_7
       rect:
         serializedVersion: 2
         x: 336
@@ -258,14 +258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb9fc59320701704dacae9d9fd1544e6
-      internalID: -821520768
+      spriteID: e3a28536b0b4fee46b162a2471e4c77e
+      internalID: 1413508580
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P2 04_8
+      name: agility-up1_8
       rect:
         serializedVersion: 2
         x: 384
@@ -279,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52b9630755430544995166a6819fbd0d
-      internalID: -628499839
+      spriteID: 66b86e6e59c76a84f838a83fcd80dda8
+      internalID: -1791078804
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P2 04_9
+      name: agility-up1_9
       rect:
         serializedVersion: 2
         x: 432
@@ -300,14 +300,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ad5574a120683b48b79ab7d478fdf42
-      internalID: -1224853736
+      spriteID: 7856700aaa28df342afe7f8d6cd24e9d
+      internalID: -1310990379
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P2 04_10
+      name: agility-up1_10
       rect:
         serializedVersion: 2
         x: 480
@@ -321,14 +321,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c7046d412386414180c4a18509d6ebf
-      internalID: -179222180
+      spriteID: 9fa1bc8037972e4409e5200645becca0
+      internalID: 1346397218
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P2 04_11
+      name: agility-up1_11
       rect:
         serializedVersion: 2
         x: 528
@@ -342,14 +342,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3f0595423f129748a30dcacd43c74f7
-      internalID: 3822065
+      spriteID: 522b9a4e8e7777d43a40a850dd3acdbf
+      internalID: -1629080573
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P2 04_12
+      name: agility-up1_12
       rect:
         serializedVersion: 2
         x: 576
@@ -363,14 +363,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 189d5e6aeb975994db1b649cb3d3641b
-      internalID: 1678283801
+      spriteID: 77a60469241357347825da617b219430
+      internalID: 1198809917
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P2 04_13
+      name: agility-up1_13
       rect:
         serializedVersion: 2
         x: 624
@@ -384,14 +384,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f9f9946b5dd540643860c0d203558fde
-      internalID: 225740569
+      spriteID: ba6eae7c343829247bd3be704a62eec2
+      internalID: 1627594347
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P2 04_14
+      name: agility-up1_14
       rect:
         serializedVersion: 2
         x: 672
@@ -405,14 +405,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c494c63cb9be96a428dcf72ee75687bb
-      internalID: -573305285
+      spriteID: 227a68b1dabfc91458fae2c9f32125a6
+      internalID: -1957626519
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P2 04_15
+      name: agility-up1_15
       rect:
         serializedVersion: 2
         x: 720
@@ -426,8 +426,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c534cf5353eb98479f7be0a64c880ae
-      internalID: 1005947194
+      spriteID: 420f269accf353646ade5d1df5782df8
+      internalID: -357948839
       vertices: []
       indices: 
       edges: []
@@ -443,22 +443,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      P2 04_0: 1319261319
-      P2 04_1: -102050030
-      P2 04_10: -179222180
-      P2 04_11: 3822065
-      P2 04_12: 1678283801
-      P2 04_13: 225740569
-      P2 04_14: -573305285
-      P2 04_15: 1005947194
-      P2 04_2: 1640555777
-      P2 04_3: 1845893532
-      P2 04_4: 100643870
-      P2 04_5: -993738221
-      P2 04_6: 2050728627
-      P2 04_7: -821520768
-      P2 04_8: -628499839
-      P2 04_9: -1224853736
+      agility-up1_0: 1900228843
+      agility-up1_1: 1560055320
+      agility-up1_10: 1346397218
+      agility-up1_11: -1629080573
+      agility-up1_12: 1198809917
+      agility-up1_13: 1627594347
+      agility-up1_14: -1957626519
+      agility-up1_15: -357948839
+      agility-up1_2: 287571120
+      agility-up1_3: 940417944
+      agility-up1_4: -217059324
+      agility-up1_5: 664868078
+      agility-up1_6: 660949531
+      agility-up1_7: 1413508580
+      agility-up1_8: -1791078804
+      agility-up1_9: -1310990379
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

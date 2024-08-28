@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: P9 08 Var 2_0
+      name: agility-down1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0431f637266b254d93578cda4b1cf9b
-      internalID: 1287245403
+      spriteID: 7f463bf186be86b42b4470a0d83cba1c
+      internalID: -1016495940
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 08 Var 2_1
+      name: agility-down1_1
       rect:
         serializedVersion: 2
         x: 24
@@ -132,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4002a4d2e28ce4b409002170ee9eb9a7
-      internalID: -1780532428
+      spriteID: 8e4fc9db336351c40b6f77eea89a61d9
+      internalID: 956582985
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 08 Var 2_2
+      name: agility-down1_2
       rect:
         serializedVersion: 2
         x: 48
@@ -153,14 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff870d8599c06da469d7c04e38b61277
-      internalID: -680277913
+      spriteID: f33f5d117dd91cc4d8182568919dda60
+      internalID: 930062172
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 08 Var 2_3
+      name: agility-down1_3
       rect:
         serializedVersion: 2
         x: 72
@@ -174,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e742eed4a104164c86f5732965afd92
-      internalID: 278317350
+      spriteID: 50789f87c2ad3944a843aea36c2236c8
+      internalID: -2044003999
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 08 Var 2_4
+      name: agility-down1_4
       rect:
         serializedVersion: 2
         x: 96
@@ -195,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41b802d29cea90142b5fecc412740ab2
-      internalID: -2014580162
+      spriteID: bace4167660561f4198affba5e7fc593
+      internalID: 153163697
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 08 Var 2_5
+      name: agility-down1_5
       rect:
         serializedVersion: 2
         x: 120
@@ -216,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4dcd43ee26c05f041b70829f9c60483c
-      internalID: -125183718
+      spriteID: ceb81e5ce8b35d945934782fac1559b0
+      internalID: -1624003943
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 08 Var 2_6
+      name: agility-down1_6
       rect:
         serializedVersion: 2
         x: 144
@@ -237,14 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5d84133aabe67942bc198cde87de459
-      internalID: -620311486
+      spriteID: 85ebda4cfe3d1174188a770325b434db
+      internalID: -415678992
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 08 Var 2_7
+      name: agility-down1_7
       rect:
         serializedVersion: 2
         x: 168
@@ -258,14 +258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df0f1dfb4e06f5a4aa774933c59b6a47
-      internalID: -901198133
+      spriteID: 8413c097a65466047b90b665ff764a03
+      internalID: -1685342474
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 08 Var 2_8
+      name: agility-down1_8
       rect:
         serializedVersion: 2
         x: 192
@@ -279,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a39b05f3958aa84e870b04e1485a7f8
-      internalID: 786486814
+      spriteID: 3a147c4111cf65a4e92da71dfeb3190a
+      internalID: -1001651537
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 08 Var 2_9
+      name: agility-down1_9
       rect:
         serializedVersion: 2
         x: 216
@@ -300,8 +300,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: adbeb78f34bab7f49985231502c2703c
-      internalID: 1877822740
+      spriteID: b2fb32e523d8f2f439d57992d2f0cd6f
+      internalID: 1467434959
       vertices: []
       indices: 
       edges: []
@@ -317,16 +317,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      P9 08 Var 2_0: 1287245403
-      P9 08 Var 2_1: -1780532428
-      P9 08 Var 2_2: -680277913
-      P9 08 Var 2_3: 278317350
-      P9 08 Var 2_4: -2014580162
-      P9 08 Var 2_5: -125183718
-      P9 08 Var 2_6: -620311486
-      P9 08 Var 2_7: -901198133
-      P9 08 Var 2_8: 786486814
-      P9 08 Var 2_9: 1877822740
+      agility-down1_0: -1016495940
+      agility-down1_1: 956582985
+      agility-down1_2: 930062172
+      agility-down1_3: -2044003999
+      agility-down1_4: 153163697
+      agility-down1_5: -1624003943
+      agility-down1_6: -415678992
+      agility-down1_7: -1685342474
+      agility-down1_8: -1001651537
+      agility-down1_9: 1467434959
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

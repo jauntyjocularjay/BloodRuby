@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: P9 08 Var 1_0
+      name: agility-up2_0
       rect:
         serializedVersion: 2
         x: 0
@@ -105,20 +105,20 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf6e6778523944440883177d9177a2c4
-      internalID: -534150477
+      spriteID: 77d8f9575c6f26543ba5b337155ef26c
+      internalID: 1337226576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 08 Var 1_1
+      name: agility-up2_1
       rect:
         serializedVersion: 2
         x: 24
@@ -126,41 +126,41 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7cf2cac34079e544fac5ab0b9cc6b954
-      internalID: -1155984443
+      spriteID: 9ca28ab8316cd9b4283b24180db68ff4
+      internalID: -1851423956
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 08 Var 1_2
+      name: agility-up2_2
       rect:
         serializedVersion: 2
-        x: 47
+        x: 48
         y: 0
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42b536b43c0a2f34e8e3da1ced731520
-      internalID: -2020213825
+      spriteID: 5750fb3ce49940c4d86154f1647766de
+      internalID: 130366816
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 08 Var 1_3
+      name: agility-up2_3
       rect:
         serializedVersion: 2
         x: 72
@@ -168,20 +168,20 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea2e337acfe798140be0170428be9959
-      internalID: 1456456168
+      spriteID: 19cee02d00588294da2d03f4d8e95df5
+      internalID: 397019785
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 08 Var 1_4
+      name: agility-up2_4
       rect:
         serializedVersion: 2
         x: 96
@@ -189,20 +189,20 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1337822f720175f4090c36b0a9f8c8f4
-      internalID: -960022016
+      spriteID: 8577004cdf69f3440b281ecaa6f1cf1a
+      internalID: -1663827497
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 08 Var 1_5
+      name: agility-up2_5
       rect:
         serializedVersion: 2
         x: 120
@@ -210,20 +210,20 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6291d23b3e0f18246b458adf97777d7b
-      internalID: -955127062
+      spriteID: 48a9e0e18906822458d05181bc8878a1
+      internalID: 934023470
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 08 Var 1_6
+      name: agility-up2_6
       rect:
         serializedVersion: 2
         x: 144
@@ -231,20 +231,20 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a84432ba71226df4cbdeedaa92f0f22a
-      internalID: -1337488928
+      spriteID: a41f3d26a9fcc2a45b5ec65057951a5a
+      internalID: 266878876
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 08 Var 1_7
+      name: agility-up2_7
       rect:
         serializedVersion: 2
         x: 168
@@ -252,20 +252,20 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a3edcc9d88c81a479cfa72b1016cac9
-      internalID: 506223277
+      spriteID: 52360ce201f8bd54eba232c53a43256b
+      internalID: 1219901316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 08 Var 1_8
+      name: agility-up2_8
       rect:
         serializedVersion: 2
         x: 192
@@ -273,20 +273,20 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2abb2f55aa9e004e8822913d6a73d73
-      internalID: -703200783
+      spriteID: b106b9d9529ada84285f8568d6dbacaf
+      internalID: 70849821
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 08 Var 1_9
+      name: agility-up2_9
       rect:
         serializedVersion: 2
         x: 216
@@ -294,14 +294,14 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab4839d2393802b4fbe0d5791dc2180c
-      internalID: 12556539
+      spriteID: 073d2615de50bd84891899cabc0fbb2d
+      internalID: 528364902
       vertices: []
       indices: 
       edges: []
@@ -317,16 +317,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      P9 08 Var 1_0: -534150477
-      P9 08 Var 1_1: -1155984443
-      P9 08 Var 1_2: -2020213825
-      P9 08 Var 1_3: 1456456168
-      P9 08 Var 1_4: -960022016
-      P9 08 Var 1_5: -955127062
-      P9 08 Var 1_6: -1337488928
-      P9 08 Var 1_7: 506223277
-      P9 08 Var 1_8: -703200783
-      P9 08 Var 1_9: 12556539
+      agility-up2_0: 1337226576
+      agility-up2_1: -1851423956
+      agility-up2_2: 130366816
+      agility-up2_3: 397019785
+      agility-up2_4: -1663827497
+      agility-up2_5: 934023470
+      agility-up2_6: 266878876
+      agility-up2_7: 1219901316
+      agility-up2_8: 70849821
+      agility-up2_9: 528364902
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
