@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: P9 02 Var2_0
+      name: shield-down1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f567df85c656a6b4e92d118e656f660a
-      internalID: -849738081
+      spriteID: 1944a8101dc441b49a6216ccbf5852aa
+      internalID: -277460022
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var2_1
+      name: shield-down1_1
       rect:
         serializedVersion: 2
         x: 24
@@ -132,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d365c9e29a509f449941610c5f64acc7
-      internalID: 1987292832
+      spriteID: 553304b8412e2794592e1efd3baca9cb
+      internalID: -614431561
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var2_2
+      name: shield-down1_2
       rect:
         serializedVersion: 2
         x: 48
@@ -153,14 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8711261fa1deca14c9b4886060c334cd
-      internalID: -894858808
+      spriteID: 62b944db653e65b489e5885ee3b99a66
+      internalID: 1181883902
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var2_3
+      name: shield-down1_3
       rect:
         serializedVersion: 2
         x: 72
@@ -174,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f292549440c2554082ba3439aeee53c
-      internalID: -1748277995
+      spriteID: 8dfa07c02956a9642bc8b3944d4de115
+      internalID: -1730411964
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var2_4
+      name: shield-down1_4
       rect:
         serializedVersion: 2
         x: 96
@@ -195,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55b60ac0b303a644b95d121dd8fc33f2
-      internalID: -368650456
+      spriteID: f98dff704186c7e448be84a9b1b0f5ad
+      internalID: -1803274552
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var2_5
+      name: shield-down1_5
       rect:
         serializedVersion: 2
         x: 120
@@ -216,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87b6352d5c7a0ff448a208243a7a5e42
-      internalID: 1904143162
+      spriteID: eb2243f3a5f866f4cb75959ed15a443c
+      internalID: 1781216941
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var2_6
+      name: shield-down1_6
       rect:
         serializedVersion: 2
         x: 144
@@ -237,14 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1fc27668e3386e44abb19d46dca0e79c
-      internalID: 2057626548
+      spriteID: da717759b9a3dd7458d4812467911a97
+      internalID: 2125928085
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var2_7
+      name: shield-down1_7
       rect:
         serializedVersion: 2
         x: 168
@@ -258,14 +258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3bfd504b57abc574ab691f268ce53c75
-      internalID: -112004856
+      spriteID: da016bf4a3850854796fc1e5f173036c
+      internalID: -1232843041
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var2_8
+      name: shield-down1_8
       rect:
         serializedVersion: 2
         x: 192
@@ -279,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: babab72001553e040815d619da3fb995
-      internalID: -179159622
+      spriteID: 2959fc504db1e274290de83eba2ddb58
+      internalID: -424172529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var2_9
+      name: shield-down1_9
       rect:
         serializedVersion: 2
         x: 216
@@ -300,8 +300,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eabd8bc342da8e84dbaa8a4948d4de89
-      internalID: -49342321
+      spriteID: 1b508896a2f545c42b9719417a0c66e4
+      internalID: 411494818
       vertices: []
       indices: 
       edges: []
@@ -317,16 +317,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      P9 02 Var2_0: -849738081
-      P9 02 Var2_1: 1987292832
-      P9 02 Var2_2: -894858808
-      P9 02 Var2_3: -1748277995
-      P9 02 Var2_4: -368650456
-      P9 02 Var2_5: 1904143162
-      P9 02 Var2_6: 2057626548
-      P9 02 Var2_7: -112004856
-      P9 02 Var2_8: -179159622
-      P9 02 Var2_9: -49342321
+      shield-down1_0: -277460022
+      shield-down1_1: -614431561
+      shield-down1_2: 1181883902
+      shield-down1_3: -1730411964
+      shield-down1_4: -1803274552
+      shield-down1_5: 1781216941
+      shield-down1_6: 2125928085
+      shield-down1_7: -1232843041
+      shield-down1_8: -424172529
+      shield-down1_9: 411494818
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

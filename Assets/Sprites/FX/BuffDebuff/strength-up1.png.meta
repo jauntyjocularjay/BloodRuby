@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ef40adacae5ecea49a5574e01288a50c
+guid: d46f26729fcc1eb4fa58e3cab6bb2732
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: P9 01 Var1_0
+      name: strength-up1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d88b35fc964c84d4ab0753158f3c109e
-      internalID: 791276490
+      spriteID: 6d4e821f136589d46b4a7c827db974f0
+      internalID: 120036422
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 01 Var1_1
+      name: strength-up1_1
       rect:
         serializedVersion: 2
         x: 24
@@ -132,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f8c86bfea462604594ddb0fb3f53911
-      internalID: -2066721205
+      spriteID: 3cab346192931d248b1caf5875a4afc1
+      internalID: -1571647839
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 01 Var1_2
+      name: strength-up1_2
       rect:
         serializedVersion: 2
         x: 48
@@ -153,14 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d3dcab23a92a8040a0954e3ba62c931
-      internalID: -770077800
+      spriteID: 5082833c4003d4d4dbcd7c30328bf506
+      internalID: 1203408175
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 01 Var1_3
+      name: strength-up1_3
       rect:
         serializedVersion: 2
         x: 72
@@ -174,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 752bd70aa4548ba488e23835f11d1129
-      internalID: 792697982
+      spriteID: 0d5deffa8bf77f54c8a7a3a3eb241184
+      internalID: 971197962
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 01 Var1_4
+      name: strength-up1_4
       rect:
         serializedVersion: 2
         x: 96
@@ -195,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25af180286b1b6848a0d6307ae903fd3
-      internalID: -805706080
+      spriteID: 1bf05e3c7e4a73145a520c5e87dfb626
+      internalID: 934482931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 01 Var1_5
+      name: strength-up1_5
       rect:
         serializedVersion: 2
         x: 120
@@ -216,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8a98277d14a5ac4b8de48c8809fa37e
-      internalID: -373430458
+      spriteID: 779214564554b974198b22339cfefb02
+      internalID: -2087787373
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 01 Var1_6
+      name: strength-up1_6
       rect:
         serializedVersion: 2
         x: 144
@@ -237,14 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76b7a101efab53940ac5a8133b16e3b5
-      internalID: 974037278
+      spriteID: 3f7c3419e3c6b1148bc96bd9562171b8
+      internalID: -1619902996
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 01 Var1_7
+      name: strength-up1_7
       rect:
         serializedVersion: 2
         x: 168
@@ -258,14 +258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 511fcac52a518574d8de023140c9e785
-      internalID: 803232982
+      spriteID: b4a7144b4d83f3c4d9b9724e3d62bff8
+      internalID: -1588849911
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 01 Var1_8
+      name: strength-up1_8
       rect:
         serializedVersion: 2
         x: 192
@@ -279,8 +279,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8e05e344d3c3c440a33e4d4fffc2ad0
-      internalID: -380520979
+      spriteID: b1a62678276676743a7d04ab3fb4762a
+      internalID: -505442543
       vertices: []
       indices: 
       edges: []
@@ -296,15 +296,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      P9 01 Var1_0: 791276490
-      P9 01 Var1_1: -2066721205
-      P9 01 Var1_2: -770077800
-      P9 01 Var1_3: 792697982
-      P9 01 Var1_4: -805706080
-      P9 01 Var1_5: -373430458
-      P9 01 Var1_6: 974037278
-      P9 01 Var1_7: 803232982
-      P9 01 Var1_8: -380520979
+      strength-up1_0: 120036422
+      strength-up1_1: -1571647839
+      strength-up1_2: 1203408175
+      strength-up1_3: 971197962
+      strength-up1_4: 934482931
+      strength-up1_5: -2087787373
+      strength-up1_6: -1619902996
+      strength-up1_7: -1588849911
+      strength-up1_8: -505442543
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a49be855fd770040bddf202090c0829, type: 3}
   m_Name: strength
   m_EditorClassIdentifier: 
-  sprite: {fileID: 0}
-  animatorController: {fileID: 0}
-  triggers: []
+  sprite: {fileID: 971197962, guid: d46f26729fcc1eb4fa58e3cab6bb2732, type: 3}
+  animatorController: {fileID: 9100000, guid: 80f6c03f13937b342a1c42025e953ecb, type: 2}
+  triggers:
+  - str-down
+  - str-up

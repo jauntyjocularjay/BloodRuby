@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6341b75d9887ab741a62747dadd308fd
+guid: 4b313b4401c6ffd448af9b0f6e02727a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: P9 07 Var1_0
+      name: time-up1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be52a3556a6b3414cb9fcffb08105b9d
-      internalID: 1915244917
+      spriteID: af2e843458d9aae4b830a3167d542107
+      internalID: -1057316329
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 07 Var1_1
+      name: time-up1_1
       rect:
         serializedVersion: 2
         x: 24
@@ -132,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 488952b2fa19fd247ab27a9ce62461c6
-      internalID: 1388107126
+      spriteID: d68f997a112ed65499a57dc41cd13134
+      internalID: -889968020
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 07 Var1_2
+      name: time-up1_2
       rect:
         serializedVersion: 2
         x: 48
@@ -153,14 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dfdab9f8bb362764cac1d9d44d9e0013
-      internalID: -1627142646
+      spriteID: 41da31b865329b643a8ecbe11df73d51
+      internalID: -1465991772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 07 Var1_3
+      name: time-up1_3
       rect:
         serializedVersion: 2
         x: 72
@@ -174,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e146815c5a85c94bafa06e896280620
-      internalID: 1258729038
+      spriteID: c94b6c7650c4d38488d6dba44767c778
+      internalID: -150172723
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 07 Var1_4
+      name: time-up1_4
       rect:
         serializedVersion: 2
         x: 96
@@ -195,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08e525b388d5824478a70d7d534a9a18
-      internalID: 1762889110
+      spriteID: 185d2dd30efa811469c97fcc10f20c53
+      internalID: -960298478
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 07 Var1_5
+      name: time-up1_5
       rect:
         serializedVersion: 2
         x: 120
@@ -216,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4859642c049156143af11289203f062c
-      internalID: -1607433575
+      spriteID: 70971b07215fedd47afe9a1d551a6992
+      internalID: -1885034305
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 07 Var1_6
+      name: time-up1_6
       rect:
         serializedVersion: 2
         x: 144
@@ -237,14 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 962d9fa9af92a7e4fa489ed1c0afdd43
-      internalID: -1717271344
+      spriteID: 87845c7cdc2bbae4683b9d343bb0b6be
+      internalID: 1596664280
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 07 Var1_7
+      name: time-up1_7
       rect:
         serializedVersion: 2
         x: 168
@@ -258,14 +258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5fe6847ab46983640a93b87f00be4621
-      internalID: -309562198
+      spriteID: bc90e76988e4edd419264f72e36bd603
+      internalID: 2003897660
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 07 Var1_8
+      name: time-up1_8
       rect:
         serializedVersion: 2
         x: 192
@@ -279,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b081257c3e3b17645ba835bfc35ba00a
-      internalID: 1601517321
+      spriteID: 5538980664190d1449c7d174055719c3
+      internalID: 2047855715
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 07 Var1_9
+      name: time-up1_9
       rect:
         serializedVersion: 2
         x: 216
@@ -300,29 +300,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e512d164b00a76b4485b22cf83af221b
-      internalID: -1237230287
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P9 07 Var1_10
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 0
-        width: 24
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 78eb5c3fc5581274db6913d3cbe109ef
-      internalID: 729179794
+      spriteID: 2544e6a0af1b3f44eb4a8dcecf9a831a
+      internalID: -1076971862
       vertices: []
       indices: 
       edges: []
@@ -338,17 +317,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      P9 07 Var1_0: 1915244917
-      P9 07 Var1_1: 1388107126
-      P9 07 Var1_10: 729179794
-      P9 07 Var1_2: -1627142646
-      P9 07 Var1_3: 1258729038
-      P9 07 Var1_4: 1762889110
-      P9 07 Var1_5: -1607433575
-      P9 07 Var1_6: -1717271344
-      P9 07 Var1_7: -309562198
-      P9 07 Var1_8: 1601517321
-      P9 07 Var1_9: -1237230287
+      time-up1_0: -1057316329
+      time-up1_1: -889968020
+      time-up1_2: -1465991772
+      time-up1_3: -150172723
+      time-up1_4: -960298478
+      time-up1_5: -1885034305
+      time-up1_6: 1596664280
+      time-up1_7: 2003897660
+      time-up1_8: 2047855715
+      time-up1_9: -1076971862
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

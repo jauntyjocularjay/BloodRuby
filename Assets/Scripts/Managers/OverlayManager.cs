@@ -5,10 +5,10 @@ using UnityEngine.UI;
 public class OverlayManager : MonoBehaviour
 {
     public FXer agility;
-    public FXer strength;
-    public FXer wisdom;
     public FXer health;
     public FXer nulled;
+    public FXer strength;
+    public FXer wisdom;
     public FXer currentFX;
     public Image image;
     public Animator animator;

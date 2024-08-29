@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4b313b4401c6ffd448af9b0f6e02727a
+guid: 8a0828bc8d446be4a96a3a5ba84b718d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: P9 12 Var1_0
+      name: sword-down1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11ce68e0f37f49a41a933c404b9fd9f7
-      internalID: 1636720555
+      spriteID: bfb4a7933613f7d40b6a2c31ba224ed2
+      internalID: -524877113
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 12 Var1_1
+      name: sword-down1_1
       rect:
         serializedVersion: 2
         x: 24
@@ -132,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bdd91ca17c435cc4e98a2fe49e2edcea
-      internalID: -39670201
+      spriteID: ee7867ea94e3f4d4b91950a3f799fcc9
+      internalID: 762678103
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 12 Var1_2
+      name: sword-down1_2
       rect:
         serializedVersion: 2
         x: 48
@@ -153,14 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73611f822c2ef2a4187f0917fd143505
-      internalID: 354961851
+      spriteID: 7606fb9cb1a4f6045b7f39c72f8b3d62
+      internalID: 2126616035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 12 Var1_3
+      name: sword-down1_3
       rect:
         serializedVersion: 2
         x: 72
@@ -174,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bdc2f1aeedcb5d9419965390620a214f
-      internalID: -1709713270
+      spriteID: a44c1b184b1598b41aa5d1cb315986f6
+      internalID: -609212608
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 12 Var1_4
+      name: sword-down1_4
       rect:
         serializedVersion: 2
         x: 96
@@ -195,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2a44e6c5bac2e340aefaee00bcb508e
-      internalID: -1348604934
+      spriteID: 41c688dced8243b4092451f4dc885b54
+      internalID: 733769815
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 12 Var1_5
+      name: sword-down1_5
       rect:
         serializedVersion: 2
         x: 120
@@ -216,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2dbdf4eeb7f927040908bd63d26438b3
-      internalID: 1467828100
+      spriteID: 80213bfff5e144c4b83d816eb244962a
+      internalID: -1387275285
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 12 Var1_6
+      name: sword-down1_6
       rect:
         serializedVersion: 2
         x: 144
@@ -237,14 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46f65a6e8ca75564dba85560342eb7a1
-      internalID: 1560323486
+      spriteID: 87e7f1b5ca667494a86d9efe156e7124
+      internalID: 518029959
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 12 Var1_7
+      name: sword-down1_7
       rect:
         serializedVersion: 2
         x: 168
@@ -258,14 +258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5f5c541116429d4b9b7d52c13690dc7
-      internalID: -2142281274
+      spriteID: 958a1c639d0d7f64eb1b2d7c71e82d1b
+      internalID: 947676797
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 12 Var1_8
+      name: sword-down1_8
       rect:
         serializedVersion: 2
         x: 192
@@ -279,29 +279,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0922c3f4ce0c9ca44b64ff96a97874f7
-      internalID: 981560130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P9 12 Var1_9
-      rect:
-        serializedVersion: 2
-        x: 216
-        y: 0
-        width: 24
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0487ac40c91778e42b59891f4a383507
-      internalID: -1694380894
+      spriteID: 9c13efb615033b745828164299c755b7
+      internalID: -142296636
       vertices: []
       indices: 
       edges: []
@@ -317,16 +296,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      P9 12 Var1_0: 1636720555
-      P9 12 Var1_1: -39670201
-      P9 12 Var1_2: 354961851
-      P9 12 Var1_3: -1709713270
-      P9 12 Var1_4: -1348604934
-      P9 12 Var1_5: 1467828100
-      P9 12 Var1_6: 1560323486
-      P9 12 Var1_7: -2142281274
-      P9 12 Var1_8: 981560130
-      P9 12 Var1_9: -1694380894
+      sword-down1_0: -524877113
+      sword-down1_1: 762678103
+      sword-down1_2: 2126616035
+      sword-down1_3: -609212608
+      sword-down1_4: 733769815
+      sword-down1_5: -1387275285
+      sword-down1_6: 518029959
+      sword-down1_7: 947676797
+      sword-down1_8: -142296636
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
