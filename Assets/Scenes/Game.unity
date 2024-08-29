@@ -285,8 +285,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e528638117516cb43907c51829004a31, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  screenWidth: 1920
   middleground: {fileID: 1389811337}
+  middlegroundWidth: 3240
+  middlegroundOrigination: {x: 0, y: 0}
   foreground: {fileID: 332234499}
+  foregroundWidth: 4320
+  foregroundOrigination: {x: 0, y: 0}
   deltaPX: 8
 --- !u!1 &332234499
 GameObject:
@@ -761,7 +766,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1630, y: 0}
+  m_AnchoredPosition: {x: 1620, y: 0}
   m_SizeDelta: {x: 1080, y: 1080}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1411517249
@@ -911,7 +916,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 550, y: 0}
+  m_AnchoredPosition: {x: 540, y: 0}
   m_SizeDelta: {x: 1080, y: 1080}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1502768963
@@ -1059,7 +1064,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -530, y: 0}
+  m_AnchoredPosition: {x: -540, y: 0}
   m_SizeDelta: {x: 1080, y: 1080}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1719875990
