@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: P9 04 Var1_0
+      name: wisdom-up1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba5efe6c4bf3d4b479427889f93a7edc
-      internalID: 49460407
+      spriteID: 3b449633452b2a4418db6d9b4452390c
+      internalID: 609358314
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 04 Var1_1
+      name: wisdom-up1_1
       rect:
         serializedVersion: 2
         x: 24
@@ -132,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f26e61e96a7daff4f80d7f015f21729c
-      internalID: 1926993603
+      spriteID: ffe7164bfa6f8534a87dc4e1bef628e7
+      internalID: -1624091771
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 04 Var1_2
+      name: wisdom-up1_2
       rect:
         serializedVersion: 2
         x: 48
@@ -153,14 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3637e1d426d57ce4aab4c3f75f757679
-      internalID: 580142458
+      spriteID: d972f37b568d5f542bb40863ff6d81a7
+      internalID: -2041723719
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 04 Var1_3
+      name: wisdom-up1_3
       rect:
         serializedVersion: 2
         x: 72
@@ -174,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a4a08a337cf64ec41808a4ec17c8da32
-      internalID: 102997297
+      spriteID: 9aba6d1ab80ecb649b38f5775737931a
+      internalID: 838588998
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 04 Var1_4
+      name: wisdom-up1_4
       rect:
         serializedVersion: 2
         x: 96
@@ -195,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7a28520c10f845940b1612fd75a8e844
-      internalID: 921626701
+      spriteID: aaccb7bfaadeed54482bdc7b4c9d5526
+      internalID: -675199944
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 04 Var1_5
+      name: wisdom-up1_5
       rect:
         serializedVersion: 2
         x: 120
@@ -216,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e499103160cb484e87ee87537dd5e7b
-      internalID: 1504718879
+      spriteID: a4f525bd4c2e1fc4a979d8bf05115fcc
+      internalID: -891638124
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 04 Var1_6
+      name: wisdom-up1_6
       rect:
         serializedVersion: 2
         x: 144
@@ -237,14 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d00bf0f3d62d5c49821bb542fa6fdfd
-      internalID: 727258468
+      spriteID: f34c9fe1afc4ed8449ddb0442ba237d2
+      internalID: -1409990113
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 04 Var1_7
+      name: wisdom-up1_7
       rect:
         serializedVersion: 2
         x: 168
@@ -258,14 +258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dbcf6596ac840cb4dbd13b226a4a7ef4
-      internalID: 439449508
+      spriteID: 30d62bd1a7d32344986f181b51a812ee
+      internalID: -1024577435
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 04 Var1_8
+      name: wisdom-up1_8
       rect:
         serializedVersion: 2
         x: 192
@@ -279,8 +279,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3807b64845ba68c42b4a3d782e463355
-      internalID: -1206880829
+      spriteID: e5365fca23abb2f4b9225828431f695f
+      internalID: -910567353
       vertices: []
       indices: 
       edges: []
@@ -296,15 +296,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      P9 04 Var1_0: 49460407
-      P9 04 Var1_1: 1926993603
-      P9 04 Var1_2: 580142458
-      P9 04 Var1_3: 102997297
-      P9 04 Var1_4: 921626701
-      P9 04 Var1_5: 1504718879
-      P9 04 Var1_6: 727258468
-      P9 04 Var1_7: 439449508
-      P9 04 Var1_8: -1206880829
+      wisdom-up1_0: 609358314
+      wisdom-up1_1: -1624091771
+      wisdom-up1_2: -2041723719
+      wisdom-up1_3: 838588998
+      wisdom-up1_4: -675199944
+      wisdom-up1_5: -891638124
+      wisdom-up1_6: -1409990113
+      wisdom-up1_7: -1024577435
+      wisdom-up1_8: -910567353
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: P9 02 Var3_0
+      name: wisdom-up2_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f993b5d8cfe148f4abfb67ca4709cb5b
-      internalID: 1364543281
+      spriteID: 765ced87b55603c4eac50427944b4c9e
+      internalID: -1467905217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var3_1
+      name: wisdom-up2_1
       rect:
         serializedVersion: 2
         x: 24
@@ -132,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d51bd3615e3448c418e6dfea3f9d2c91
-      internalID: -806374214
+      spriteID: 5dbe06977cc6ac84191b2fa91886c213
+      internalID: 725260226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var3_2
+      name: wisdom-up2_2
       rect:
         serializedVersion: 2
         x: 48
@@ -153,14 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81c9a4c2b4512dd41ba31b509cb7ec86
-      internalID: -1604719769
+      spriteID: b9360abc644ac704c8d406c3644df228
+      internalID: 1801819507
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var3_3
+      name: wisdom-up2_3
       rect:
         serializedVersion: 2
         x: 72
@@ -174,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95d54ad6173d9de4fbfb87bb606ce5eb
-      internalID: -4104423
+      spriteID: 8d46922eca6b5f94ba26cf241197410d
+      internalID: 1032994738
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var3_4
+      name: wisdom-up2_4
       rect:
         serializedVersion: 2
         x: 96
@@ -195,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4be0bb64fd0dce4b9de8e0a3dbd00e9
-      internalID: 295342628
+      spriteID: 46d8c43dfb1f2304da5d851ef07763a4
+      internalID: -1561289835
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var3_5
+      name: wisdom-up2_5
       rect:
         serializedVersion: 2
         x: 120
@@ -216,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef03f07e9234917408e34a80b076e212
-      internalID: 1837962028
+      spriteID: d0292b62beeb67749ba3fecc087e1fdd
+      internalID: -147681273
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var3_6
+      name: wisdom-up2_6
       rect:
         serializedVersion: 2
         x: 144
@@ -237,14 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8bca2a25b2a2ddb4b832cac0ad27ef0b
-      internalID: 377456118
+      spriteID: 4f9262a7f5cb2b747bdd4bdf3458c7d7
+      internalID: -1270834069
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var3_7
+      name: wisdom-up2_7
       rect:
         serializedVersion: 2
         x: 168
@@ -258,14 +258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bcbebac2073da764190cccc07ab4615c
-      internalID: 186222237
+      spriteID: dc8a716edf8cd1a49b70b2edfea1786c
+      internalID: -805391626
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var3_8
+      name: wisdom-up2_8
       rect:
         serializedVersion: 2
         x: 192
@@ -279,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 79073c76ff7e60248bec1474f217ef07
-      internalID: -573828509
+      spriteID: 479e4b1833028c040b7434ee58d35fc1
+      internalID: -5898214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var3_9
+      name: wisdom-up2_9
       rect:
         serializedVersion: 2
         x: 216
@@ -300,14 +300,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 561a5a44ba32d214b8376f72ecba265e
-      internalID: -710570949
+      spriteID: 077dc1cfe23e8914b8b242b09f3e5c14
+      internalID: 713100880
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var3_10
+      name: wisdom-up2_10
       rect:
         serializedVersion: 2
         x: 240
@@ -321,8 +321,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1db38fa16157de041add31a8dbd78c7c
-      internalID: -604566933
+      spriteID: 563b202d6b5e05348a83b7ff6756e08b
+      internalID: 1598885073
       vertices: []
       indices: 
       edges: []
@@ -338,17 +338,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      P9 02 Var3_0: 1364543281
-      P9 02 Var3_1: -806374214
-      P9 02 Var3_10: -604566933
-      P9 02 Var3_2: -1604719769
-      P9 02 Var3_3: -4104423
-      P9 02 Var3_4: 295342628
-      P9 02 Var3_5: 1837962028
-      P9 02 Var3_6: 377456118
-      P9 02 Var3_7: 186222237
-      P9 02 Var3_8: -573828509
-      P9 02 Var3_9: -710570949
+      wisdom-up2_0: -1467905217
+      wisdom-up2_1: 725260226
+      wisdom-up2_10: 1598885073
+      wisdom-up2_2: 1801819507
+      wisdom-up2_3: 1032994738
+      wisdom-up2_4: -1561289835
+      wisdom-up2_5: -147681273
+      wisdom-up2_6: -1270834069
+      wisdom-up2_7: -805391626
+      wisdom-up2_8: -5898214
+      wisdom-up2_9: 713100880
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

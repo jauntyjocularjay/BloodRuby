@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a49be855fd770040bddf202090c0829, type: 3}
   m_Name: wisdom
   m_EditorClassIdentifier: 
-  sprite: {fileID: 0}
-  animatorController: {fileID: 0}
+  sprite: {fileID: 838588998, guid: 1f62925aad41c29469001878f1bf39a2, type: 3}
+  animatorController: {fileID: 9100000, guid: a4b31e4b21d9e6243b8062d274cbb49a, type: 2}
   triggers: []

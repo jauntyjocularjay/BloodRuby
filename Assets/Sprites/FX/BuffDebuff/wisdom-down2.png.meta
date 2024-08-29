@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: P9 02 Var4_0
+      name: wisdom-down2_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea78bce6484bd8b45a54777d0982341e
-      internalID: -950215853
+      spriteID: 413498ccf4c6bcf47a950b330262ef72
+      internalID: -1202254616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var4_1
+      name: wisdom-down2_1
       rect:
         serializedVersion: 2
         x: 24
@@ -132,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66451b6bc76f0334b91a0ec9865f51c6
-      internalID: 1830435093
+      spriteID: 97ca1fd93ac82e74e9a446802cb672ef
+      internalID: -162777262
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var4_2
+      name: wisdom-down2_2
       rect:
         serializedVersion: 2
         x: 48
@@ -153,14 +153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d08b4d648b969db4a9ebb38258c8b186
-      internalID: -573305442
+      spriteID: 4239bc78fd885f042bd2ef7f9c06f3e7
+      internalID: 1166159824
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var4_3
+      name: wisdom-down2_3
       rect:
         serializedVersion: 2
         x: 72
@@ -174,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6200633d17b7ee47a413cee16532573
-      internalID: 1216613352
+      spriteID: 83aaefff10bde2d438c1354a57f487e9
+      internalID: 783865659
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var4_4
+      name: wisdom-down2_4
       rect:
         serializedVersion: 2
         x: 96
@@ -195,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4bedd9b0976cc84a85f3fe861efeb7a
-      internalID: -1083923384
+      spriteID: e80c318ad126d0041bc34864dfa90678
+      internalID: 2140776571
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var4_5
+      name: wisdom-down2_5
       rect:
         serializedVersion: 2
         x: 120
@@ -216,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c78997daeb07c440b33d60706894638
-      internalID: 1968789351
+      spriteID: c622876bd64d7ce4082b0e00467192d4
+      internalID: 1481108701
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var4_6
+      name: wisdom-down2_6
       rect:
         serializedVersion: 2
         x: 144
@@ -237,14 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75d2d6eabf0da664b978eafa636b4587
-      internalID: -1975712135
+      spriteID: d1168badf469fdf4db6b4f6edc0b1474
+      internalID: -417625366
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var4_7
+      name: wisdom-down2_7
       rect:
         serializedVersion: 2
         x: 168
@@ -258,14 +258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7d90bfafc4b95442bd11264cafa42d5
-      internalID: -585849840
+      spriteID: d6ca86a10f5717447891f8a3322ea2e9
+      internalID: -1916884967
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var4_8
+      name: wisdom-down2_8
       rect:
         serializedVersion: 2
         x: 192
@@ -279,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca1bfd756ae231549b6c86dbaa532de1
-      internalID: 1540071109
+      spriteID: 34239d1e6b07f184a9b459edfe8d97bb
+      internalID: -830042316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P9 02 Var4_9
+      name: wisdom-down2_9
       rect:
         serializedVersion: 2
         x: 216
@@ -300,8 +300,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d11edca19c77cb409a6cd794e1ab0c0
-      internalID: 239980792
+      spriteID: 7924cc70b86329645b4de1974630805b
+      internalID: -1019541899
       vertices: []
       indices: 
       edges: []
@@ -317,16 +317,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      P9 02 Var4_0: -950215853
-      P9 02 Var4_1: 1830435093
-      P9 02 Var4_2: -573305442
-      P9 02 Var4_3: 1216613352
-      P9 02 Var4_4: -1083923384
-      P9 02 Var4_5: 1968789351
-      P9 02 Var4_6: -1975712135
-      P9 02 Var4_7: -585849840
-      P9 02 Var4_8: 1540071109
-      P9 02 Var4_9: 239980792
+      wisdom-down2_0: -1202254616
+      wisdom-down2_1: -162777262
+      wisdom-down2_2: 1166159824
+      wisdom-down2_3: 783865659
+      wisdom-down2_4: 2140776571
+      wisdom-down2_5: 1481108701
+      wisdom-down2_6: -417625366
+      wisdom-down2_7: -1916884967
+      wisdom-down2_8: -830042316
+      wisdom-down2_9: -1019541899
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

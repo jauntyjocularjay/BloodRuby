@@ -9,7 +9,6 @@ using UnityEngine.UI;
 public class FXer : ScriptableObject
 {
     public Sprite sprite;
-    public Image image;
     public AnimatorController animatorController;
     public String[] triggers;
 
