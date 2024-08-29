@@ -4,13 +4,11 @@ using UnityEngine;
 
 public class Background : MonoBehaviour
 {
-    public int screenWidth = 1920;
+    public int tileWidth = 1080;
     public GameObject middleground;
-    public int middlegroundWidth = 3240;
     public Vector2 middlegroundOrigination;
     public FractionScale middleDX;
     public GameObject foreground;
-    public int foregroundWidth = 4320;
     public FractionScale foreDX;
     public Vector2 foregroundOrigination;
     public int deltaPX = 8;
@@ -22,44 +20,61 @@ public class Background : MonoBehaviour
             middleground.transform.position.y
         );
 
-        middleDX = new(0,middlegroundWidth - screenWidth);
+        middleDX = new(0,tileWidth);
 
         foregroundOrigination = new Vector2 (
             foreground.transform.position.x,
             foreground.transform.position.y
         );
 
-        foreDX = new(0,foregroundWidth - screenWidth);
+        foreDX = new(0,3 * tileWidth);
     }
     public void FixedUpdate()
     {
-        Vector2 vec2 = middleground.GetComponent<Transform>().position;
+        UpdateMiddleground();
+        UpdateForeground();
+    }
 
+    public void UpdateMiddleground()
+    {
+        Vector3 middlegroundCurrent = middleground.GetComponent<Transform>().position;
         if(middleDX.Full())
         {
             middleground.transform.position = middlegroundOrigination;
-            foreDX.SetNumerator(0);
+            middleDX.SetNumerator(0);
         }
-        middleDX.Increment(deltaPX/2);
+        else {
+            middleDX.Increment(deltaPX/2);
+            middleground.transform.position = new Vector3(
+                middlegroundCurrent.x + (deltaPX/2), 
+                middlegroundCurrent.y,
+                0
+            );
+        }
+    }
 
-        middleground.transform.position = new Vector2(vec2.x + (deltaPX/2), vec2.y);
-
-        vec2 = foreground.GetComponent<Transform>().position;
+    public void UpdateForeground()
+    {
+        Vector3 foregroundCurrent = foreground.GetComponent<Transform>().position;
 
         if(foreDX.Full())
         {
+            foreDX.Increment(deltaPX);
+            foreground.transform.position = new Vector2(
+                foregroundCurrent.x + deltaPX, 
+                foregroundCurrent.y
+            );
+
             foreground.transform.position = foregroundOrigination;
             foreDX.SetNumerator(0);
         }
-        foreDX.Increment(deltaPX);
-        foreground.transform.position = new Vector2(vec2.x + deltaPX, vec2.y);
-
-        Debug.Log(middleDX.ToString());
-        Debug.Log($"Foreground origination @ {foregroundOrigination}");
-        Debug.Log(foreDX.ToString());
-        Debug.Log($"Midground origination @ {middlegroundOrigination}");
-
+        else
+        {
+            foreDX.Increment(deltaPX);
+            foreground.transform.position = new Vector2(
+                foregroundCurrent.x + deltaPX, 
+                foregroundCurrent.y
+            );
+        }
     }
-
-
 }
