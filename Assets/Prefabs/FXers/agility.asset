@@ -10,11 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3a49be855fd770040bddf202090c0829, type: 3}
-  m_Name: health
+  m_Name: agility
   m_EditorClassIdentifier: 
-  sprite: {fileID: 7482667652216324306, guid: 5c23502c9475a4937b504a2274c5b6ca, type: 3}
-  animatorController: {fileID: 9100000, guid: 2aa5cd21995cc5443a2b51e295af6429, type: 2}
+  sprite: {fileID: 660949531, guid: 803c55e5178c0ac4c8bf4d91dbbd9424, type: 3}
+  animatorController: {fileID: 9100000, guid: 44b6a6d15ac50a04ca2892060770af2d, type: 2}
   triggers:
-  - health1
-  - health2
-  - hp-up
+  - agi-up1
+  - agi-up2
+  - agi-up3
+  - agi-down

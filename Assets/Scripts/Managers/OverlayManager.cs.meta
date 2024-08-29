@@ -3,7 +3,11 @@ guid: f2732bd50f5eeb84194cafeae80aa7e8
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - agi: {fileID: 11400000, guid: 2ff7de5db2d806048925d3260e952fbf, type: 2}
+  - health: {fileID: 11400000, guid: 53415cb7d2dbb6044aca1a9f2e4fc665, type: 2}
+  - animatorController: {instanceID: 0}
+  - sprite: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

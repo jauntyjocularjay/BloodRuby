@@ -10,9 +10,8 @@ public class PartySpot : MonoBehaviour
     public Image shadow;
     public Image healthBarFill;
     public Animator animator;
-    public Image overlayImage;
     public OverlayManager overlayManager;
-    private float interval = 3.0f;
+    private float interval;
     private float time_1;
     private float time_2;
 
@@ -23,17 +22,13 @@ public class PartySpot : MonoBehaviour
         shadow.GetComponent<Image>().sprite = battler.portrait;
         time_1 = Time.time;
         animator.GetComponent<AnimatorController>();
-        AdjustInterval();
-    }
-
-    public void AdjustInterval()
-    {
-        interval += UnityEngine.Random.Range(0.0f, 1.9f);
+        interval = UnityEngine.Random.Range(1.0f, 3.0f);
     }
 
     private void FixedUpdate()
     {
         IdleAnimation();
+        HitAnimation();
         // AttackAnimation();
     }
 
