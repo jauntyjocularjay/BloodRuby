@@ -14,10 +14,8 @@ public class OverlayManager : MonoBehaviour
     public Animator animator;
     public void Start()
     {
-        // image.sprite = 
         currentFX = Select(FX.nulled);
         image.sprite = currentFX.GetSprite();
-        Debug.Log(image);
         animator.runtimeAnimatorController = currentFX.animatorController;
     }
 
@@ -27,11 +25,18 @@ public class OverlayManager : MonoBehaviour
         {
             return agility;
         } 
+        // @todo implement dexterity FXer
+        // else if(fx == FX.dexterity) {
+        //     return dexterity;
+        // }
         else if(fx == FX.health) {
             return health;
         }
         else if(fx == FX.nulled) {
             return nulled;
+        }
+        else if(fx == FX.wisdom) {
+            return wisdom;
         }
         else {
             throw new InvalidEnumArgumentException($"{fx} is not a valid enum value");
@@ -42,8 +47,10 @@ public class OverlayManager : MonoBehaviour
 public enum FX
 {
     agility,
+    dexterity,
     health,
-    nulled
+    nulled,
+    wisdom
 }
 
 
