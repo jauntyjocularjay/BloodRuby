@@ -25,10 +25,6 @@ public class OverlayManager : MonoBehaviour
         {
             return agility;
         } 
-        // @todo implement dexterity FXer
-        // else if(fx == FX.dexterity) {
-        //     return dexterity;
-        // }
         else if(fx == FX.health) {
             return health;
         }

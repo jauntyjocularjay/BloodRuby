@@ -59,7 +59,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b661c38289bd934682978bc0f13baff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  battler: {fileID: 11400000, guid: 0f580a46b63048a45a9db88c0dcea532, type: 2}
+  battler: {fileID: 11400000, guid: 3abe585337eccd64fa462d5d8012e5e1, type: 2}
   portrait: {fileID: 7840568741897496791}
   shadow: {fileID: 4556903170349326194}
   healthBarFill: {fileID: 3339250677936539675}
