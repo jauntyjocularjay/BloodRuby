@@ -13,10 +13,9 @@ MonoBehaviour:
   m_Name: beholder0
   m_EditorClassIdentifier: 
   maxHP: 15
-  level: 1
   primaryAttribute: 2
   agi: 1
   str: 1
   wis: 2
-  genus: 1
+  genus: 9
   portrait: {fileID: 21300000, guid: e1c8bcf4c2de54b46beb40e4babaf9e0, type: 3}

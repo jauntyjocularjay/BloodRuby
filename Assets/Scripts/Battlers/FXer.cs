@@ -1,9 +1,6 @@
 using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEditor.Animations;
 using UnityEngine;
-using UnityEngine.UI;
 
 [CreateAssetMenu(menuName = "ScriptableObjects/FXer")]
 public class FXer : ScriptableObject
@@ -16,5 +13,9 @@ public class FXer : ScriptableObject
     {
         return sprite;
     }
-
 }
+
+
+
+
+
