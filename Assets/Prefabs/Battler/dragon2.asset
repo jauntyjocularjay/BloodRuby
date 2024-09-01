@@ -9,13 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ad40fa39c5ce7b148b6182e37f905bd9, type: 3}
+  m_Script: {fileID: 0}
   m_Name: dragon2
-  m_EditorClassIdentifier: 
-  maxHP: 12
+  m_EditorClassIdentifier: Assembly-CSharp::Dragon
+  maxHP: 25
   primaryAttribute: 0
-  agi: 1
-  str: 1
-  wis: 1
-  genus: 10
+  agi: 4
+  str: 2
+  wis: 2
   portrait: {fileID: 21300000, guid: e5360ed618c89a643a70348980fddae4, type: 3}

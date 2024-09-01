@@ -14,14 +14,11 @@ public class BattlerData : ScriptableObject
     private readonly AttributeScale agility = new(0);
     private readonly AttributeScale strength = new(0);
     private readonly AttributeScale wisdom = new(0);
-    public Genus genus;
+    // public Genus genus;
     public Sprite portrait;
     
-    private void Start()
+    public void StartData()
     {
-        agility.SetNumerator(agi);
-        strength.SetNumerator(str);
-        wisdom.SetNumerator(wis);
         HP = new (maxHP);
         level = 1;
     }
@@ -165,377 +162,610 @@ public class AttributeScale : FractionScale
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Bat")]
-public class BatBattler : BattlerData
+public class Bat: BattlerData
 {
     Genus genus = Genus.Bat;
+
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Agility;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Beholder")]
-public class BeholderBattler : BattlerData
+public class Beholder: BattlerData
 {
     Genus genus = Genus.Beholder;
-}
-
-[CreateAssetMenu(menuName = "ScriptableObjects/Battler/Mushroom")]
-public class MushroomBattler : BattlerData
-{
-    Genus genus = Genus.Mushroom;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Wisdom;
+    }
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Bird")]
-public class BirdBattler : BattlerData
+public class Bird: BattlerData
 {
     Genus genus = Genus.Bird;
-}
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Agility;
+    }
 
-[CreateAssetMenu(menuName = "ScriptableObjects/Battler/Blick")]
-public class BlickBattler : BattlerData
-{
-    Genus genus = Genus.Blick;
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Boar")]
-public class BoarBattler : BattlerData
+public class Boar: BattlerData
 {
     Genus genus = Genus.Boar;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Cactus")]
-public class CactusBattler : BattlerData
+public class Cactus: BattlerData
 {
     Genus genus = Genus.Cactus;
+
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Ceph")]
-public class CephBattler : BattlerData
+public class Ceph: BattlerData
 {
     Genus genus = Genus.Ceph;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Crab")]
-public class CrabBattler : BattlerData
+public class Crab: BattlerData
 {
     Genus genus = Genus.Crab;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Agility;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Demon")]
-public class DemonBattler : BattlerData
+public class Demon: BattlerData
 {
     Genus genus = Genus.Demon;
-}
-
-[CreateAssetMenu(menuName = "ScriptableObjects/Battler/Dragon")]
-public class DragonBattler : BattlerData
-{
-    Genus genus = Genus.Dragon;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Wisdom;
+    }
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Djinn")]
-public class DjinnBattler : BattlerData
+public class Djinn: BattlerData
 {
     Genus genus = Genus.Djinn;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Wisdom;
+    }
+}
+
+[CreateAssetMenu(menuName = "ScriptableObjects/Battler/Dragon")]
+public class Dragon: BattlerData
+{
+    Genus genus = Genus.Dragon;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Agility;
+    }
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Eagle")]
-public class EagleBattler : BattlerData
+public class Eagle: BattlerData
 {
     Genus genus = Genus.Eagle;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Agility;
+    }
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Elemental")]
-public class ElementalBattler : BattlerData
+public class Elemental: BattlerData
 {
     Genus genus = Genus.Elemental;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Wisdom;
+    }
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Elk")]
-public class ElkBattler : BattlerData
+public class Elk: BattlerData
 {
     Genus genus = Genus.Elk;
-}
-
-[CreateAssetMenu(menuName = "ScriptableObjects/Battler/Fungus")]
-public class FungusBattler : BattlerData
-{
-    Genus genus = Genus.Fungus;
-}
-
-[CreateAssetMenu(menuName = "ScriptableObjects/Battler/Skull")]
-public class SkullBattler : BattlerData
-{
-    Genus genus = Genus.Skull;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Frog")]
-public class FrogBattler : BattlerData
+public class Frog: BattlerData
 {
     Genus genus = Genus.Frog;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Agility;
+    }
+}
+
+[CreateAssetMenu(menuName = "ScriptableObjects/Battler/Fungus")]
+public class Fungus: BattlerData
+{
+    Genus genus = Genus.Fungus;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Gator")]
-public class GatorBattler : BattlerData
+public class Gator: BattlerData
 {
     Genus genus = Genus.Gator;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Ghost")]
-public class GhostBattler : BattlerData
+public class Ghost: BattlerData
 {
     Genus genus = Genus.Ghost;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Wisdom;
+    }
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Giant")]
-public class GiantBattler : BattlerData
+public class Giant: BattlerData
 {
     Genus genus = Genus.Giant;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Golem")]
-public class GolemBattler : BattlerData
+public class Golem: BattlerData
 {
     Genus genus = Genus.Golem;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Grater")]
-public class GraterBattler : BattlerData
+public class Grater: BattlerData
 {
     Genus genus = Genus.Grater;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Head")]
-public class HeadBattler : BattlerData
+public class Head: BattlerData
 {
     Genus genus = Genus.Head;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Wisdom;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Hornet")]
-public class HornetBattler : BattlerData
+public class Hornet: BattlerData
 {
     Genus genus = Genus.Hornet;
-}
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Agility;
+    }
 
-[CreateAssetMenu(menuName = "ScriptableObjects/Battler/Insect")]
-public class InsectBattler : BattlerData
-{
-    Genus genus = Genus.Insect;
-}
-
-[CreateAssetMenu(menuName = "ScriptableObjects/Battler/Golden")]
-public class GoldenBattler : BattlerData
-{
-    Genus genus = Genus.Golden;
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Jacko")]
-public class JackoBattler : BattlerData
+public class Jacko: BattlerData
 {
     Genus genus = Genus.Jacko;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Wisdom;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Jelly")]
-public class JellyBattler : BattlerData
+public class Jelly: BattlerData
 {
     Genus genus = Genus.Jelly;
-}
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
 
-[CreateAssetMenu(menuName = "ScriptableObjects/Battler/Floating")]
-public class FloatingBattler : BattlerData
-{
-    Genus genus = Genus.Floating;
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Keebler")]
-public class KeeblerBattler : BattlerData
+public class Keebler: BattlerData
 {
     Genus genus = Genus.Keebler;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Agility;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Knight")]
-public class KnightBattler : BattlerData
+public class Knight: BattlerData
 {
     Genus genus = Genus.Knight;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Kobold")]
-public class KoboldBattler : BattlerData
+public class Kobold: BattlerData
 {
     Genus genus = Genus.Kobold;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Lich")]
-public class LichBattler : BattlerData
+public class Lich: BattlerData
 {
     Genus genus = Genus.Lich;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Wisdom;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/LizardMan")]
-public class LizardManBattler : BattlerData
+public class LizardMan: BattlerData
 {
     Genus genus = Genus.LizardMan;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Mage")]
-public class MageBattler : BattlerData
+public class Mage: BattlerData
 {
     Genus genus = Genus.Mage;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Wisdom;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Mimic")]
-public class MimicBattler : BattlerData
+public class Mimic: BattlerData
 {
     Genus genus = Genus.Mimic;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Minotaur")]
-public class MinotaurBattler : BattlerData
+public class Minotaur: BattlerData
 {
     Genus genus = Genus.Minotaur;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Mouse")]
-public class MouseBattler : BattlerData
+public class Mouse: BattlerData
 {
     Genus genus = Genus.Mouse;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Agility;
+    }
+
+}
+
+[CreateAssetMenu(menuName = "ScriptableObjects/Battler/Mushroom")]
+public class Mushroom: BattlerData
+{
+    Genus genus = Genus.Mushroom;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Octo")]
-public class OctoBattler : BattlerData
+public class Octo: BattlerData
 {
     Genus genus = Genus.Octo;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Orb")]
-public class OrbBattler : BattlerData
+public class Orb: BattlerData
 {
     Genus genus = Genus.Orb;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Wisdom;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Phoenix")]
-public class PhoenixBattler : BattlerData
+public class Phoenix: BattlerData
 {
     Genus genus = Genus.Phoenix;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Agility;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Plantee")]
-public class PlanteeBattler : BattlerData
+public class Plantee: BattlerData
 {
     Genus genus = Genus.Plantee;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Poltergeist")]
-public class PoltergeistBattler : BattlerData
+public class Poltergeist: BattlerData
 {
     Genus genus = Genus.Poltergeist;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Wisdom;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Raptor")]
-public class RaptorBattler : BattlerData
+public class Raptor: BattlerData
 {
     Genus genus = Genus.Raptor;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Agility;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Scorpion")]
-public class ScorpionBattler : BattlerData
+public class Scorpion: BattlerData
 {
     Genus genus = Genus.Scorpion;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Skeleton")]
-public class SkeletonBattler : BattlerData
+public class Skeleton: BattlerData
 {
     Genus genus = Genus.Skeleton;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Slime")]
-public class SlimeBattler : BattlerData
+public class Slime: BattlerData
 {
     Genus genus = Genus.Slime;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Snail")]
-public class SnailBattler : BattlerData
+public class Snail: BattlerData
 {
     Genus genus = Genus.Snail;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Snake")]
-public class SnakeBattler : BattlerData
+public class Snake: BattlerData
 {
     Genus genus = Genus.Snake;
-}
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
 
-[CreateAssetMenu(menuName = "ScriptableObjects/Battler/SpiderLady")]
-public class SpiderLadyBattler : BattlerData
-{
-    Genus genus = Genus.SpiderLady;
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Spider")]
-public class SpiderBattler : BattlerData
+public class Spider: BattlerData
 {
     Genus genus = Genus.Spider;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Agility;
+    }
+
 }
 
-[CreateAssetMenu(menuName = "ScriptableObjects/Battler/Statue")]
-public class StatueBattler : BattlerData
+[CreateAssetMenu(menuName = "ScriptableObjects/Battler/SpiderLady")]
+public class SpiderLady: BattlerData
 {
-    Genus genus = Genus.Statue;
+    Genus genus = Genus.SpiderLady;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Wisdom;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Succubus")]
-public class SuccubusBattler : BattlerData
+public class Succubus: BattlerData
 {
     Genus genus = Genus.Succubus;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Wisdom;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Toad")]
-public class ToadBattler : BattlerData
+public class Toad: BattlerData
 {
     Genus genus = Genus.Toad;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Treant")]
-public class TreantBattler : BattlerData
+public class Treant: BattlerData
 {
     Genus genus = Genus.Treant;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Turtle")]
-public class TurtleBattler : BattlerData
+public class Turtle: BattlerData
 {
     Genus genus = Genus.Turtle;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/WhipWeed")]
-public class WhipWeedBattler : BattlerData
+public class WhipWeed: BattlerData
 {
     Genus genus = Genus.WhipWeed;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Agility;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Wolf")]
-public class WolfBattler : BattlerData
+public class Wolf: BattlerData
 {
     Genus genus = Genus.Wolf;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Worm")]
-public class WormBattler : BattlerData
+public class Worm: BattlerData
 {
     Genus genus = Genus.Worm;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Wraith")]
-public class WraithBattler : BattlerData
+public class Wraith: BattlerData
 {
     Genus genus = Genus.Wraith;
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Wisdom;
+    }
+
 }
 
 [CreateAssetMenu(menuName = "ScriptableObjects/Battler/Zombie")]
-public class ZombieBattler : BattlerData
+public class Zombie: BattlerData
 {
     Genus genus = Genus.Zombie;
-}
+    private void Awake()
+    {
+        primaryAttribute = Attribute.Strength;
+    }
 
+}
 
 
 
