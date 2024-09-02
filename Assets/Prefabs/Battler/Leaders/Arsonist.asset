@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d79c7057fc8c154d8e0341d5233f39f, type: 3}
+  m_Name: Arsonist
+  m_EditorClassIdentifier: 
+  alias: Arsonist
+  maxHP: 24
+  primaryAttribute: 1
+  agi: 2
+  str: 2
+  wis: 12
+  genus: 33
+  portrait: {fileID: 822659864, guid: bcc2f18ca208395479a29d9ae913b38c, type: 3}

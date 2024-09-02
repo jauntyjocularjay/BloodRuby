@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d79c7057fc8c154d8e0341d5233f39f, type: 3}
+  m_Name: Huntress
+  m_EditorClassIdentifier: 
+  alias: Huntress
+  maxHP: 24
+  primaryAttribute: 1
+  agi: 12
+  str: 2
+  wis: 2
+  genus: 33
+  portrait: {fileID: -278315319, guid: d5251c708e3b6d54c90267db56d45923, type: 3}

@@ -5,11 +5,32 @@ using UnityEngine;
 
 public class PartyManager : MonoBehaviour
 {
-    public List<PartySpot> party = new();
+    public PartyList<PartySpot> partySpots = new();
+    public PartyList<BattlerData> partyData = new();
     public BattleFormation formation;
+
+    void Start()
+    {
+        for(int i = 0; i < partyData.Count; i++)
+        {
+            partySpots[i].battler = partyData[i];
+        }
+    }
 }
 
+public class PartyList<T> : List<T>
+{
+    readonly int maximumLength = 5;
 
+    public PartyList() {}
+    public PartyList(T item)
+    {
+        if(Count <= maximumLength)
+            Add(item);
+        else
+            throw new IndexOutOfRangeException($"PartyList<T> has a maximum length of {maximumLength}");
+    }
+}
 
 
 
@@ -33,6 +54,6 @@ public class PartyIndexInvalid : Exception
 
 public class PartyOverflow : Exception
 {
-    public PartyOverflow() : base("A party can contain a maximum of five monsters."){}
+    public PartyOverflow() : base("A party can contain a maximum of five members."){}
 }
 
