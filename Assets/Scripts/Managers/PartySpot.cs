@@ -27,9 +27,9 @@ public class PartySpot : MonoBehaviour
 
     private void FixedUpdate()
     {
-        IdleAnimation();
+        // IdleAnimation();
         // HitAnimation();
-        // AttackAnimation();
+        AttackAnimation();
     }
 
     private void AttackAnimation()

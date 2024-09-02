@@ -1,13 +1,13 @@
 using UnityEngine;
 
 
-[CreateAssetMenu(menuName = "ScriptableObjects/Battler/Monster/Hunter")]
+[CreateAssetMenu(menuName = "ScriptableObjects/Battler/Leader/Hunter")]
 public class Hunter: BattlerData
 {
     private void Awake()
     {
         genus = Genus.Hunter;
-        primaryAttribute = Attribute.Strength;
+        primaryAttribute = Attribute.Agility;
     }
 
 }
