@@ -21,15 +21,16 @@ public class PartySpot : MonoBehaviour
         portrait.GetComponent<Image>().sprite = battler.portrait;
         shadow.GetComponent<Image>().sprite = battler.portrait;
         time_1 = Time.time;
-        animator.GetComponent<AnimatorController>();
+        animator.runtimeAnimatorController = battler.animator;
         interval = UnityEngine.Random.Range(1.0f, 3.0f);
+        portrait = shadow;
     }
 
     private void FixedUpdate()
     {
-        // IdleAnimation();
+        IdleAnimation();
         // HitAnimation();
-        AttackAnimation();
+        // AttackAnimation();
     }
 
     private void AttackAnimation()

@@ -9,14 +9,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: c9f0d0ec0c49de54cbcc492bf022601b, type: 3}
   m_Name: battlemage
-  m_EditorClassIdentifier: Assembly-CSharp::Mage
-  alias: Battle Mage d'Lichdom
-  maxHP: 0
+  m_EditorClassIdentifier: 
+  alias: Battlemage d'lichdom
+  maxHP: 24
   primaryAttribute: 2
-  agi: 0
-  str: 0
-  wis: 0
-  genus: 32
+  animator: {fileID: 9100000, guid: eb87f1e6c2788bf4c9ee533bad863d6f, type: 2}
+  agi: 2
+  str: 2
+  wis: 4
+  genus: 33
   portrait: {fileID: 21300000, guid: 55fb595c53fd32747856074e2070d49c, type: 3}

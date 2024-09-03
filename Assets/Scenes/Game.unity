@@ -130,10 +130,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 788466665}
     m_Modifications:
+    - target: {fileID: 721397837156067413, guid: b2f3174c60b02c94a872646e19b1324c, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 1526257919189529069, guid: b2f3174c60b02c94a872646e19b1324c, type: 3}
       propertyPath: m_Name
       value: PartySpot2
       objectReference: {fileID: 0}
+    - target: {fileID: 5110381314575518692, guid: b2f3174c60b02c94a872646e19b1324c, type: 3}
+      propertyPath: battler
+      value: 
+      objectReference: {fileID: 11400000, guid: 78463d52cd9a3b84da28460b1e1b73aa, type: 2}
     - target: {fileID: 7677736814757124222, guid: b2f3174c60b02c94a872646e19b1324c, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -646,7 +654,7 @@ PrefabInstance:
     - target: {fileID: 5110381314575518692, guid: b2f3174c60b02c94a872646e19b1324c, type: 3}
       propertyPath: battler
       value: 
-      objectReference: {fileID: 11400000, guid: 511f16a22aca93e49a1bb1335968260a, type: 2}
+      objectReference: {fileID: 11400000, guid: 78463d52cd9a3b84da28460b1e1b73aa, type: 2}
     - target: {fileID: 7677736814757124222, guid: b2f3174c60b02c94a872646e19b1324c, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1307,20 +1315,8 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1526257919189529069, guid: b2f3174c60b02c94a872646e19b1324c, type: 3}
       propertyPath: m_Name
-      value: PartySpot 0
+      value: PartySpot0
       objectReference: {fileID: 0}
-    - target: {fileID: 3992749673435600035, guid: b2f3174c60b02c94a872646e19b1324c, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 3992749673435600035, guid: b2f3174c60b02c94a872646e19b1324c, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 5110381314575518692, guid: b2f3174c60b02c94a872646e19b1324c, type: 3}
-      propertyPath: battler
-      value: 
-      objectReference: {fileID: 11400000, guid: 511f16a22aca93e49a1bb1335968260a, type: 2}
     - target: {fileID: 7677736814757124222, guid: b2f3174c60b02c94a872646e19b1324c, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5

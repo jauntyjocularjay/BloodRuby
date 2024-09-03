@@ -15,6 +15,7 @@ MonoBehaviour:
   alias: Huntress
   maxHP: 24
   primaryAttribute: 0
+  animator: {fileID: 9100000, guid: 7f1545a1d67a5d24985823a2c2057a73, type: 2}
   agi: 12
   str: 2
   wis: 2

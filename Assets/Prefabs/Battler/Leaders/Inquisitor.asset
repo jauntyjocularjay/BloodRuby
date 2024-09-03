@@ -12,11 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d79c7057fc8c154d8e0341d5233f39f, type: 3}
   m_Name: Inquisitor
   m_EditorClassIdentifier: 
-  alias: 
+  alias: Inquisitor
   maxHP: 24
   primaryAttribute: 1
+  animator: {fileID: 9100000, guid: 7f1545a1d67a5d24985823a2c2057a73, type: 2}
   agi: 2
   str: 2
   wis: 12
-  genus: 33
+  genus: 34
   portrait: {fileID: -1906687866, guid: 4fc036a4b43632d4991a91ce6ddc447d, type: 3}

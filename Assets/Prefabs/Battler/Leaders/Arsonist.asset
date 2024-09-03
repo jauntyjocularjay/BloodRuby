@@ -15,8 +15,9 @@ MonoBehaviour:
   alias: Arsonist
   maxHP: 24
   primaryAttribute: 1
+  animator: {fileID: 9100000, guid: 7f1545a1d67a5d24985823a2c2057a73, type: 2}
   agi: 2
   str: 2
   wis: 12
-  genus: 33
+  genus: 34
   portrait: {fileID: 822659864, guid: bcc2f18ca208395479a29d9ae913b38c, type: 3}

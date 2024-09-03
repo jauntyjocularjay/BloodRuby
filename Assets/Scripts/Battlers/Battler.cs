@@ -11,6 +11,7 @@ public class BattlerData : ScriptableObject
     public FractionScale HP;
     private int level;
     public Attribute primaryAttribute;
+    public AnimatorController animator;
     public int agi;
     public int str;
     public int wis;

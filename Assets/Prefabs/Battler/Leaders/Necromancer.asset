@@ -15,8 +15,9 @@ MonoBehaviour:
   alias: Necromancer
   maxHP: 24
   primaryAttribute: 2
+  animator: {fileID: 9100000, guid: 7f1545a1d67a5d24985823a2c2057a73, type: 2}
   agi: 2
   str: 2
   wis: 12
-  genus: 32
+  genus: 33
   portrait: {fileID: -657213422, guid: 854d24b08b89483429af25d764f8ad0c, type: 3}
